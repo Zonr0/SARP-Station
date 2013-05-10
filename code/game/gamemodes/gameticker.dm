@@ -36,7 +36,7 @@ var/global/datum/controller/gameticker/ticker
 
 /datum/controller/gameticker/proc/pregame()
 
-	login_music = pickweight(list('sound/ambience/title2.ogg' = 49, 'sound/ambience/title1.ogg' = 49, 'sound/ambience/clown.ogg' = 2)) // choose title music!
+	login_music = pickweight(list('sound/ambience/title2.ogg' = 25, 'sound/ambience/title1.ogg' = 25, 'sound/ambience/titleOMF.ogg' = 20, 'sound/ambience/titleparadise.ogg' = 20, 'sound/ambience/titletroll.ogg' = 5, 'sound/ambience/clown.ogg' = 5)) // choose title music!
 	if(events.holiday == "April Fool's Day")
 		login_music = 'sound/ambience/clown.ogg'
 	for(var/client/C in clients)

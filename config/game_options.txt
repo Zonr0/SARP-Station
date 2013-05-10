@@ -96,11 +96,11 @@ PROBABILITY SANDBOX 0
 
 ## Uncomment to scale the number of antagonists to crew population. Doesn't
 ## affect all gamemodes.
-#TRAITOR_SCALING
+TRAITOR_SCALING
 
 ## Uncomment to prohibit jobs that start with loyalty
 ## implants from being most antagonists.
-#PROTECT_ROLES_FROM_ANTAGONIST
+PROTECT_ROLES_FROM_ANTAGONIST
 
 
 ### RANDOM EVENTS ###
@@ -120,7 +120,7 @@ ALLOW_AI
 
 ## How long the delay is before the Away Mission gate opens. Default is half an hour.
 ## 600 is one minute.
-GATEWAY_DELAY 18000
+GATEWAY_DELAY 600
 
 
 ### ACCESS ###
@@ -131,7 +131,7 @@ GATEWAY_DELAY 18000
 JOBS_HAVE_MINIMAL_ACCESS
 
 ## Uncomment to give assistants maint access.
-#ASSISTANT_MAINT
+ASSISTANT_MAINT
 
 
 ### GHOST INTERACTION ###
