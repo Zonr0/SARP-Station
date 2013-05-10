@@ -1,0 +1,65 @@
+
+
+Starting up. 08:05.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[08:05:46]ADMIN: Loading Banlistjob
+[08:05:46]ADMIN: Loading jobban_rank
+[08:05:46]ADMIN: jobban_keylist was empty
+[08:05:46]ADMIN: Loading appearance_rank
+[08:05:46]ADMIN: appearance_keylist was empty
+[08:05:46]ADMIN: Updating jobbanfile!
+[08:05:46]ADMIN: Loading Banlist
+[08:06:00]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[08:07:30]SAY: mouse/ : SQUEEK!
+[08:07:31]ACCESS: Logout: *no key*/(Zonr_0)
+[08:07:31]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[08:08:18]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[08:09:17]SAY: mouse/ : SQUEEK!
+[08:10:05]SAY: mouse/ : Squeek?
+[08:10:53]SAY: mouse/ : Squeek?
+[08:11:45]SAY: mouse/ : Squeek!
+[08:13:19]SAY: mouse/ : SQUEEK!
+[08:13:23]SAY: mouse/ : SQUEEK!
+[08:13:47]SAY: mouse/ : Squeek!
+[08:13:51]SAY: mouse/ : Squeek?
+[08:15:14]SAY: Poly/ : Poly wanna cracker!
+[08:16:09]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[15:39:30]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[15:39:46]ACCESS: Logout: *no key*/(RequiMog)
+[15:39:46]ACCESS: Login: RequiMog/(Honker) from 24.147.22.172-4103612613 || BYOND v498
+[15:40:18]SAY: Tom/ : Squeek!
+[15:40:41]ACCESS: Logout: RequiMog[DC]/(Honker)
+[19:40:49]ACCESS: Login: RequiMog/(Honker) from 24.147.22.172-4103612613 || BYOND v498
+[19:40:57]ACCESS: Logout: RequiMog[DC]/(Honker)
+[17:46:18]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[17:47:36]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:47:39]ACCESS: Logout: *no key*/(Agarre17664)
+[17:47:39]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[17:50:01]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:50:05]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[17:50:29]SAY: Tom/ : Squeek?
+[17:51:27]SAY: Runtime/ : Esp!
+[17:52:48]SAY: Runtime/ : Esp!
+[17:54:24]SAY: Runtime/ : Esp!
+[17:56:16]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[17:56:39]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[17:56:59]SAY: Tom/ : SQUEEK!
+[17:57:31]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[17:58:09]OOC: John Mitchell/Zonr_0 : going to reboot
+[17:58:14]SAY: mouse/ : Squeek!
+[17:58:18]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[17:58:18]ACCESS: Logout: Agarre17664[DC]/(Ira Ramirez)
+[17:58:18]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)

@@ -1,0 +1,1246 @@
+
+
+Starting up. 02:52.17
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[02:52:17]ADMIN: Loading Banlistjob
+[02:52:17]ADMIN: Loading jobban_rank
+[02:52:17]ADMIN: jobban_keylist was empty
+[02:52:17]ADMIN: Loading appearance_rank
+[02:52:17]ADMIN: appearance_keylist was empty
+[02:52:17]ADMIN: Updating jobbanfile!
+[02:52:17]ADMIN: Loading Banlist
+[02:53:56]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[02:55:26]ACCESS: Logout: *no key*/(Agarre17664)
+[02:55:26]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[02:56:25]SAY: mouse/ : Squeek?
+[02:57:09]SAY: Ian/ : AUUUUUU
+[02:57:46]SAY: mouse/ : Squeek!
+[03:01:31]SAY: mouse/ : Squeek?
+[03:01:37]SAY: mouse/ : SQUEEK!
+[03:01:49]SAY: mouse/ : Squeek?
+[03:01:53]SAY: Tom/ : SQUEEK!
+[03:02:39]SAY: Pete/ : EHEHEHEHEH
+[03:04:17]SAY: mouse/ : Squeek!
+[03:06:36]SAY: Runtime/ : Meow!
+[03:06:36]SAY: Tom/ : SQUEEK!
+[03:09:53]SAY: mouse/ : Squeek?
+[03:10:05]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> snores.
+[03:10:11]SAY: Ian/ : YAP
+[03:10:16]OOC: Ira Ramirez/Agarre17664 : hello?
+[03:12:03]SAY: Poly/ : Poly wanna cracker!
+[03:13:38]SAY: Runtime/ : Purr!
+[03:13:57]SAY: mouse/ : Squeek!
+[03:17:30]SAY: mouse/ : Squeek!
+[03:18:01]SAY: Ian/ : Woof!
+[03:18:11]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> snores.
+[03:19:11]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[03:19:34]SAY: mouse/ : Squeek!
+[03:19:34]SAY: mouse/ : Squeek?
+[03:21:19]ACCESS: Logout: Agarre17664[DC]/(Ira Ramirez)
+[12:18:38]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[12:19:57]ACCESS: Logout: *no key*/(Zonr_0)
+[12:19:57]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[12:20:14]SAY: mouse/ : Squeek!
+[12:20:33]SAY: mouse/ : SQUEEK!
+[12:20:41]SAY: mouse/ : SQUEEK!
+[12:20:54]VOTE: Gamemode vote started by Zonr_0.
+[12:21:54]VOTE: <b>Vote Result: sandbox</b>
+[12:21:59]GAME: Rebooting due to restart vote
+[12:21:59]ACCESS: Logout: Zonr_0[DC]/(John 'Zon' Mitchell)
+
+
+Starting up. 12:22.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'sandbox'
+[12:22:14]ADMIN: Loading Banlistjob
+[12:22:14]ADMIN: Loading jobban_rank
+[12:22:14]ADMIN: jobban_keylist was empty
+[12:22:14]ADMIN: Loading appearance_rank
+[12:22:14]ADMIN: appearance_keylist was empty
+[12:22:14]ADMIN: Updating jobbanfile!
+[12:22:14]ADMIN: Loading Banlist
+[12:22:21]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[12:23:51]ACCESS: Logout: *no key*/(Zonr_0)
+[12:23:51]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[12:24:29]SAY: mouse/ : SQUEEK!
+[12:24:35]SAY: mouse/ : Squeek?
+[12:24:35]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[12:25:06]SAY: mouse/ : Squeek?
+[12:25:37]SAY: mouse/ : Squeek!
+[12:25:43]SAY: Runtime/ : HSSSSS
+[12:25:49]SAY: mouse/ : Squeek!
+[12:26:49]SAY: mouse/ : Squeek?
+[12:27:06]SAY: Runtime/ : Esp!
+[12:27:16]SAY: mouse/ : Squeek?
+[12:28:49]SAY: Runtime/ : Meow!
+[12:31:22]SAY: Poly/ : Poly wanna cracker!
+[12:32:50]SAY: Tom/ : Squeek!
+[12:33:30]SAY: mouse/ : SQUEEK!
+[12:35:36]SAY: Pete/ : EHEHEHEHEH
+[12:35:44]SAY: mouse/ : Squeek!
+[12:36:01]SAY: mouse/ : Squeek?
+[12:38:55]SAY: Poly/ : Poly wanna cracker!
+[12:41:24]SAY: Tom/ : Squeek?
+[12:41:36]SAY: mouse/ : SQUEEK!
+[12:42:10]SAY: mouse/ : Squeek!
+[12:43:04]SAY: mouse/ : SQUEEK!
+[12:48:10]SAY: mouse/ : Squeek!
+[12:48:13]SAY: mouse/ : Squeek?
+[12:48:58]SAY: Poly/ : Poly wanna cracker!
+[12:50:16]SAY: mouse/ : SQUEEK!
+[12:51:51]SAY: mouse/ : Squeek!
+[12:51:56]SAY: mouse/ : Squeek!
+[12:52:08]SAY: mouse/ : SQUEEK!
+[12:52:10]SAY: mouse/ : SQUEEK!
+[12:53:08]SAY: mouse/ : Squeek?
+[12:56:53]ADMIN: Zonr_0/(John 'Zon' Mitchell) made all areas powered
+[12:56:56]ADMIN: Zonr_0/(John 'Zon' Mitchell) used secret power
+[12:57:24]SAY: mouse/ : Squeek!
+[12:58:12]SAY: Poly/ : Check the singlo, you chucklefucks!
+[12:58:48]SAY: mouse/ : Squeek!
+[12:59:16]SAY: Poly/ : Poly wanna cracker!
+[12:59:43]SAY: mouse/ : Squeek!
+[12:59:45]SAY: Pete/ : EHEHEHEHEH
+[13:00:08]SAY: Runtime/ : Meow!
+[13:00:37]SAY: Tom/ : Squeek?
+[13:00:49]SAY: mouse/ : Squeek!
+[13:00:57]SAY: Tom/ : Squeek!
+[13:01:24]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:02:50]SAY: Pete/ : eh?
+[13:03:09]SAY: mouse/ : SQUEEK!
+[13:03:13]ADMIN: Zonr_0/(John 'Zon' Mitchell) healed / Revived Zonr_0/(John 'Zon' Mitchell)
+[13:04:38]SAY: mouse/ : Squeek?
+[13:04:42]SAY: mouse/ : Squeek!
+[13:04:58]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:05:15]SAY: mouse/ : Squeek?
+[13:05:50]SAY: mouse/ : SQUEEK!
+[13:06:36]SAY: mouse/ : Squeek!
+[13:06:42]SAY: mouse/ : SQUEEK!
+[13:10:10]SAY: mouse/ : Squeek?
+[13:11:10]SAY: mouse/ : SQUEEK!
+[13:13:59]SAY: Poly/ : Wire the solars, you lazy bums!
+[13:14:18]SAY: mouse/ : SQUEEK!
+[13:14:51]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:15:18]SAY: Ian/ : AUUUUUU
+[13:15:36]SAY: mouse/ : SQUEEK!
+[13:15:38]SAY: Runtime/ : Esp!
+[13:16:20]SAY: mouse/ : Squeek!
+[13:16:38]SAY: mouse/ : SQUEEK!
+[13:17:38]SAY: Runtime/ : Esp!
+[13:18:03]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[13:18:32]SAY: mouse/ : Squeek?
+[13:20:28]SAY: Runtime/ : HSSSSS
+[13:22:15]SAY: mouse/ : Squeek?
+[13:23:46]SAY: mouse/ : Squeek!
+[13:25:15]ADMIN: Zonr_0/(John 'Zon' Mitchell) made all areas powered
+[13:25:18]ADMIN: Zonr_0/(John 'Zon' Mitchell) used secret power
+[13:25:28]SAY: Pete/ : EHEHEHEHEH
+[13:25:29]ADMIN: Zonr_0/(John 'Zon' Mitchell) used secret whiteout
+[13:25:36]SAY: mouse/ : SQUEEK!
+[13:27:07]SAY: Poly/ : Poly wanna cracker!
+[13:28:38]SAY: mouse/ : SQUEEK!
+[13:29:55]SAY: Tom/ : Squeek?
+[13:30:24]SAY: mouse/ : Squeek!
+[13:31:09]SAY: Tom/ : SQUEEK!
+[13:32:20]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:32:34]SAY: mouse/ : Squeek!
+[13:34:28]SAY: mouse/ : Squeek!
+[13:35:06]SAY: Pete/ : eh?
+[13:37:08]SAY: Pete/ : EHEHEHEHEH
+[13:37:16]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:37:22]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:37:49]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:37:55]SAY: mouse/ : Squeek?
+[13:37:58]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:38:04]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:38:14]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:38:26]SAY: Runtime/ : Meow!
+[13:38:45]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:40:12]EMOTE: John 'Zon' Mitchell/Zonr_0 : <B>John 'Zon' Mitchell</B> collapses!
+[13:40:16]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:40:31]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:40:33]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:40:39]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[13:45:29]SAY: mouse/ : Squeek?
+[13:45:38]SAY: Pete/ : eh?
+[13:48:50]SAY: mouse/ : Squeek?
+[13:49:15]SAY: mouse/ : Squeek?
+[13:50:40]SAY: Poly/ : Check the singlo, you chucklefucks!
+[13:52:28]SAY: Pete/ : eh?
+[13:52:40]SAY: Donny Kifer/ : PISS
+[13:52:54]SAY: Donny Kifer/ : TITS
+[13:53:00]SAY: Donny Kifer/ : COCKSUCKER
+[13:53:07]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> twitches violently.
+[13:53:09]SAY: Donny Kifer/ : MOTHERFUCKER
+[13:53:24]SAY: Poly/ : Poly wanna cracker!
+[13:53:44]EMOTE: Donny Kifer/ : <B>Donny Kifer</B> coughs!
+[14:01:24]SAY: Runtime/ : Meow!
+[14:01:55]SAY: mouse/ : Squeek?
+[14:04:53]SAY: Ian/ : AUUUUUU
+[14:05:03]SAY: mouse/ : Squeek?
+[14:06:00]ACCESS: Logout: Zonr_0[DC]/(John 'Zon' Mitchell)
+[15:10:21]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[15:10:35]ACCESS: Logout: *no key*/(Anju Seda)
+[15:10:35]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[15:10:36]SAY: mouse/ : SQUEEK!
+[15:11:39]SAY: mouse/ : SQUEEK!
+[15:12:04]SAY: mouse/ : SQUEEK!
+[15:12:37]SAY: Poly/ : Check the singlo, you chucklefucks!
+[15:13:21]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[15:13:58]SAY: mouse/ : Squeek?
+[15:14:16]SAY: mouse/ : Squeek?
+[15:18:47]SAY: mouse/ : Squeek!
+[15:19:28]SAY: mouse/ : Squeek!
+[15:19:39]SAY: Pete/ : eh?
+[15:20:54]SAY: Tom/ : Squeek?
+[15:24:02]SAY: mouse/ : Squeek!
+[15:25:43]SAY: Runtime/ : HSSSSS
+[15:26:19]SAY: mouse/ : SQUEEK!
+[15:27:27]SAY: mouse/ : Squeek!
+[15:28:19]SAY: mouse/ : Squeek!
+[15:29:14]SAY: mouse/ : SQUEEK!
+[15:30:18]SAY: Tom/ : Squeek?
+[15:30:20]SAY: mouse/ : Squeek?
+[15:31:24]SAY: Tom/ : Squeek?
+[15:31:44]SAY: mouse/ : Squeek!
+[15:32:21]SAY: mouse/ : SQUEEK!
+[15:34:01]SAY: mouse/ : SQUEEK!
+[15:35:29]SAY: mouse/ : Squeek!
+[15:37:35]SAY: Ian/ : YAP
+[15:39:23]SAY: Pete/ : EHEHEHEHEH
+[15:41:10]SAY: mouse/ : SQUEEK!
+[15:42:18]SAY: mouse/ : SQUEEK!
+[15:42:58]SAY: mouse/ : Squeek?
+[15:45:36]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:48:04]SAY: mouse/ : Squeek!
+[15:48:05]SAY: Ian/ : AUUUUUU
+[15:49:34]SAY: mouse/ : Squeek!
+[15:51:42]SAY: mouse/ : Squeek!
+[15:57:02]SAY: Poly/ : Poly wanna cracker!
+[15:59:52]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+[16:00:05]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[16:02:02]SAY: Pete/ : eh?
+[16:02:31]SAY: mouse/ : Squeek?
+[16:02:42]SAY: mouse/ : Squeek?
+[16:03:44]SAY: mouse/ : Squeek?
+[16:03:50]SAY: mouse/ : SQUEEK!
+[16:04:37]GAME: PA Control Computer increased to 1 by anjuseda(Carina Sanroma) in (112,71,1)
+[16:04:40]GAME: PA Control Computer increased to 2 by anjuseda(Carina Sanroma) in (112,71,1)
+[16:04:41]GAME: PA Control Computer turned ON by anjuseda(Carina Sanroma) in (112,71,1)
+[16:06:31]SAY: Runtime/ : Meow!
+[16:07:02]SAY: Runtime/ : Purr!
+[16:07:13]SAY: Poly/ : Wire the solars, you lazy bums!
+[16:08:00]SAY: Pete/ : EHEHEHEHEH
+[16:12:16]SAY: mouse/ : SQUEEK!
+[16:13:32]SAY: mouse/ : Squeek!
+[16:14:03]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[16:14:57]SAY: mouse/ : Squeek!
+[16:16:08]SAY: Poly/ : Wire the solars, you lazy bums!
+[16:18:25]SAY: mouse/ : Squeek!
+[16:19:06]SAY: mouse/ : Squeek?
+[16:19:06]SAY: Tom/ : Squeek?
+[16:19:46]SAY: mouse/ : SQUEEK!
+[16:20:11]SAY: mouse/ : Squeek!
+[16:21:58]SAY: Ian/ : Bark!
+[16:22:05]SAY: Tom/ : Squeek!
+[16:22:11]SAY: mouse/ : Squeek?
+[16:24:27]SAY: Tom/ : Squeek?
+[16:26:25]SAY: Poly/ : Check the singlo, you chucklefucks!
+[16:27:17]SAY: mouse/ : SQUEEK!
+[16:29:37]SAY: mouse/ : Squeek!
+[16:31:14]SAY: Ian/ : YAP
+[16:33:04]SAY: mouse/ : Squeek?
+[16:33:09]SAY: Poly/ : Wire the solars, you lazy bums!
+[16:34:50]SAY: Poly/ : Wire the solars, you lazy bums!
+[16:36:42]SAY: Ian/ : Woof!
+[16:38:03]SAY: Tom/ : Squeek?
+[16:38:30]SAY: Poly/ : Poly wanna cracker!
+[16:39:26]SAY: mouse/ : SQUEEK!
+[16:39:40]SAY: mouse/ : SQUEEK!
+[16:42:28]SAY: Ian/ : YAP
+[16:42:45]SAY: Tom/ : Squeek?
+[16:43:24]SAY: Poly/ : Wire the solars, you lazy bums!
+[16:44:25]SAY: mouse/ : Squeek!
+[16:44:48]SAY: mouse/ : Squeek?
+[16:45:27]SAY: mouse/ : SQUEEK!
+[16:48:40]SAY: Tom/ : Squeek!
+[16:49:03]SAY: Runtime/ : Meow!
+[16:51:14]SAY: Ian/ : YAP
+[16:51:32]SAY: mouse/ : SQUEEK!
+[16:53:26]SAY: mouse/ : SQUEEK!
+[16:54:14]SAY: mouse/ : SQUEEK!
+[16:54:26]SAY: mouse/ : SQUEEK!
+[16:54:26]SAY: Tom/ : Squeek?
+[16:55:57]SAY: mouse/ : SQUEEK!
+[16:56:04]SAY: mouse/ : SQUEEK!
+[17:02:05]SAY: Runtime/ : Meow!
+[17:03:32]SAY: mouse/ : Squeek?
+[17:03:41]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[17:06:34]SAY: Tom/ : Squeek?
+[17:07:16]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[17:09:12]SAY: Tom/ : Squeek?
+[17:10:43]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:11:03]SAY: mouse/ : Squeek!
+[17:11:49]SAY: Pete/ : EHEHEHEHEH
+[17:12:47]SAY: Ian/ : AUUUUUU
+[17:14:43]SAY: mouse/ : Squeek?
+[17:16:13]SAY: mouse/ : SQUEEK!
+[17:18:34]SAY: mouse/ : SQUEEK!
+[17:22:43]SAY: mouse/ : Squeek!
+[17:24:04]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:25:13]SAY: Ian/ : Woof!
+[17:26:03]SAY: mouse/ : Squeek!
+[17:29:15]SAY: mouse/ : Squeek!
+[17:29:15]SAY: Pete/ : EHEHEHEHEH
+[17:30:13]SAY: Tom/ : Squeek!
+[17:31:25]SAY: mouse/ : Squeek?
+[17:39:44]SAY: mouse/ : SQUEEK!
+[17:39:50]SAY: Poly/ : Check the singlo, you chucklefucks!
+[17:42:02]SAY: Pete/ : eh?
+[17:42:50]SAY: Tom/ : Squeek!
+[17:43:33]SAY: mouse/ : Squeek?
+[17:44:30]SAY: Pete/ : EHEHEHEHEH
+[17:45:19]SAY: Tom/ : SQUEEK!
+[17:48:11]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:48:46]SAY: mouse/ : Squeek!
+[17:50:41]SAY: mouse/ : Squeek?
+[17:51:41]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:56:07]SAY: mouse/ : Squeek?
+[17:56:09]SAY: Pete/ : EHEHEHEHEH
+[17:56:52]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[17:57:46]SAY: mouse/ : Squeek?
+[17:58:02]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[17:58:06]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[17:58:15]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[17:58:23]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[17:58:52]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+[17:59:05]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[17:59:19]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:59:21]ACCESS: Logout: *no key*/(Carina Sanroma)
+[17:59:21]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[17:59:28]SAY: Tom/ : SQUEEK!
+[17:59:52]SAY: Poly/ : Check the singlo, you chucklefucks!
+[17:59:54]SAY: Pete/ : EHEHEHEHEH
+[18:01:08]SAY: Poly/ : Poly wanna cracker!
+[18:01:26]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:01:26]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:01:45]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:01:45]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:02:09]SAY: Runtime/ : Esp!
+[18:02:43]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:04:40]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:04:40]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:05:19]SAY: mouse/ : Squeek!
+[18:05:32]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:05:32]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:06:20]SAY: mouse/ : SQUEEK!
+[18:09:42]SAY: mouse/ : SQUEEK!
+[18:09:45]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[18:09:58]ACCESS: Logout: *no key*/(John 'Zon' Mitchell)
+[18:09:58]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[18:10:15]OOC: John 'Zon' Mitchell/Zonr_0 : my god, what have you done?
+[18:10:45]SAY: mouse/ : SQUEEK!
+[18:10:53]OOC: Carina Sanroma/Anju Seda : I fucked up.
+[18:11:01]ADMIN: Zonr_0/(John 'Zon' Mitchell) teleported Anju Seda/(Carina Sanroma)
+[18:11:07]OOC: Carina Sanroma/Anju Seda : Didn&#39;t turn on the shield fast enough.
+[18:11:25]OOC: John 'Zon' Mitchell/Zonr_0 : alright, let me see how I can add lesser admins
+[18:11:25]SAY: Tom/ : SQUEEK!
+[18:12:26]SAY: Runtime/ : Esp!
+[18:12:36]OOC: Carina Sanroma/Anju Seda : Now I gotta rebuild xenobiology, lol.
+[18:13:03]ADMIN: Zonr_0/(John 'Zon' Mitchell) edited the admin rank of anjuseda to GameAdmin
+[18:13:10]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:13:10]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:13:13]SAY: Ian/ : YAP
+[18:13:22]OOC: John 'Zon' Mitchell/Zonr_0 : alright, you should have a ton of admin verbs now
+[18:13:40]SAY: mouse/ : Squeek!
+[18:13:47]OOC: John 'Zon' Mitchell/Zonr_0 : try rebooting by going into the server tab and hitting immediate reboot.
+[18:15:15]ADMIN: Zonr_0/(John 'Zon' Mitchell) toggled respawn to On.
+[18:15:24]GAME: Carina Sanroma/Anju Seda used abandon mob.
+[18:15:24]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:15:24]ACCESS: Login: Anju Seda/(new player) from 98.82.77.244-1582101152 || BYOND v498
+[18:15:25]GAME: new player/Anju Seda used abandon mob.
+[18:15:25]ACCESS: Logout: *no key*/(new player)
+[18:15:25]ACCESS: Login: Anju Seda/(new player) from 98.82.77.244-1582101152 || BYOND v498
+[18:15:33]ACCESS: Logout: *no key*/(new player)
+[18:15:33]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:15:46]SAY: mouse/ : Squeek?
+[18:17:17]SAY: Tom/ : Squeek!
+[18:18:37]SAY: Ian/ : Bark!
+[18:19:05]OOC: John 'Zon' Mitchell/Zonr_0 : other useful things I&#39;ve found:
+[18:19:19]OOC: Carina Sanroma/Anju Seda : ?
+[18:19:27]OOC: John 'Zon' Mitchell/Zonr_0 : admin &gt; secrets &gt; restore power
+[18:19:34]ADMIN: Zonr_0/(John 'Zon' Mitchell) made all areas powered
+[18:19:38]ADMIN: Zonr_0/(John 'Zon' Mitchell) used secret power
+[18:20:14]OOC: John 'Zon' Mitchell/Zonr_0 : also fix all lights for when electrical storms come through
+[18:20:34]OOC: Carina Sanroma/Anju Seda : Nice
+[18:21:46]SAY: Tom/ : SQUEEK!
+[18:22:21]OOC: John 'Zon' Mitchell/Zonr_0 : to create objects, admin &gt; game panel
+[18:22:55]ADMIN: Zonr_0/(John 'Zon' Mitchell) jumped to Anju Seda/(Carina Sanroma)
+[18:23:10]SAY: Poly/ : Check the singlo, you chucklefucks!
+[18:23:27]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:23:27]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:23:27]ADMIN: @Anju Seda[DC]/(Carina Sanroma) jumped to @Anju Seda[DC]/(Carina Sanroma)
+[18:23:48]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:23:48]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:25:15]ACCESS: Logout: *no key*/(John 'Zon' Mitchell)
+[18:25:15]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[18:25:53]SAY: mouse/ : Squeek!
+[18:26:15]SAY: Runtime/ : HSSSSS
+[18:26:24]ADMIN: Anju Seda/(Carina Sanroma) deleted the dmg at (0,0,0)
+[18:26:25]ADMIN: Anju Seda/(Carina Sanroma) deleted the basketball at (116,135,1)
+[18:26:26]SAY: Runtime/ : HSSSSS
+[18:26:51]ACCESS: Logout: Zonr_0[DC]/(John 'Zon' Mitchell)
+[18:28:08]SAY: mouse/ : SQUEEK!
+[18:30:36]SAY: mouse/ : Squeek?
+[18:30:54]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:30:56]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:31:32]ADMIN: Anju Seda/(Carina Sanroma) admin-called the emergency shuttle.
+[18:31:33]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:31:39]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:31:59]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:32:12]EMOTE: Carina Sanroma (as Captain)/Anju Seda : <B>Carina Sanroma (as Captain)</B> gasps!
+[18:32:16]ADMIN: Anju Seda/(Carina Sanroma) has used rudimentary transformation on Anju Seda/(Carina Sanroma). Transforming to human; deletemob=1
+[18:32:16]ACCESS: Logout: *no key*/(Carina Sanroma)
+[18:32:16]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[18:32:30]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:32:47]SAY: mouse/ : Squeek!
+[18:33:26]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:35:30]SAY: mouse/ : SQUEEK!
+[18:35:59]SAY: mouse/ : Squeek?
+[18:39:11]SAY: Carina Sanroma/Anju Seda : Still around huh?
+[18:40:37]SAY: Runtime/ : HSSSSS
+[18:44:19]SAY: mouse/ : SQUEEK!
+[18:45:39]SAY: mouse/ : Squeek!
+[18:46:15]GAME: A chemical smoke reaction has taken place in (Cargo Office | 94, 117)[ Plant-B-Gone ]. Last associated key is Anju Seda.
+[18:48:54]GAME: Anju Seda/(Carina Sanroma) has called the shuttle.
+[18:50:26]SAY: Poly/ : Check the singlo, you chucklefucks!
+[18:51:30]ADMIN: Anju Seda/(Carina Sanroma) admin-called the emergency shuttle.
+[18:52:20]SAY: mouse/ : Squeek?
+[18:53:10]SAY: mouse/ : Squeek?
+[18:55:41]SAY: mouse/ : Squeek!
+[18:56:13]SAY: Carina Sanroma/Anju Seda : AAAAAAARRRGH!!!
+[18:56:21]SAY: Carina Sanroma/Anju Seda : AAAAAAARRRGH!!!
+[19:00:31]SAY: mouse/ : Squeek!
+[19:03:42]ADMIN: Anju Seda/(Carina Sanroma) changed the equipment of *no key*/(Carina Sanroma) to death commando.
+[19:04:05]SAY: mouse/ : Squeek!
+[19:04:33]GAME: Antagonists at round end were...
+[19:05:03]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+
+
+Starting up. 19:05.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'sandbox'
+[19:05:20]ADMIN: Loading Banlistjob
+[19:05:20]ADMIN: Loading jobban_rank
+[19:05:20]ADMIN: jobban_keylist was empty
+[19:05:20]ADMIN: Loading appearance_rank
+[19:05:20]ADMIN: appearance_keylist was empty
+[19:05:20]ADMIN: Updating jobbanfile!
+[19:05:20]ADMIN: Loading Banlist
+[19:05:38]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[19:07:06]ACCESS: Logout: *no key*/(Anju Seda)
+[19:07:06]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[19:10:40]SAY: Pete/ : EHEHEHEHEH
+[19:11:22]SAY: mouse/ : Squeek!
+[19:11:24]SAY: Runtime/ : HSSSSS
+[19:13:08]SAY: mouse/ : Squeek!
+[19:13:39]SAY: mouse/ : Squeek?
+[19:13:58]SAY: mouse/ : Squeek!
+[19:15:38]SAY: Ian/ : Bark!
+[19:16:05]SAY: mouse/ : Squeek!
+[19:19:10]SAY: mouse/ : SQUEEK!
+[19:20:10]SAY: mouse/ : Squeek!
+[19:22:20]SAY: mouse/ : Squeek!
+[19:22:41]SAY: Ian/ : Bark!
+[19:24:13]SAY: mouse/ : Squeek?
+[19:25:38]SAY: Ian/ : YAP
+[19:26:19]SAY: mouse/ : Squeek?
+[19:26:29]SAY: mouse/ : Squeek!
+[19:26:50]SAY: mouse/ : Squeek?
+[19:28:45]SAY: mouse/ : SQUEEK!
+[19:30:34]SAY: mouse/ : Squeek!
+[19:31:16]SAY: Pete/ : eh?
+[19:32:05]SAY: mouse/ : Squeek!
+[19:32:19]SAY: Runtime/ : Esp!
+[19:32:50]SAY: Ian/ : YAP
+[19:32:52]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[19:34:20]SAY: mouse/ : Squeek!
+[19:34:24]SAY: mouse/ : SQUEEK!
+[19:35:50]SAY: mouse/ : Squeek!
+[19:38:31]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[19:38:55]SAY: mouse/ : Squeek?
+[19:40:16]SAY: mouse/ : Squeek!
+[19:42:11]SAY: Pete/ : eh?
+[19:42:56]SAY: Ian/ : YAP
+[19:45:13]SAY: mouse/ : Squeek?
+[19:48:09]SAY: Runtime/ : Esp!
+[19:50:23]SAY: mouse/ : SQUEEK!
+[19:50:50]SAY: mouse/ : Squeek!
+[19:51:06]SAY: mouse/ : SQUEEK!
+[19:54:47]SAY: Runtime/ : Esp!
+[19:55:02]SAY: Tom/ : Squeek!
+[19:56:17]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[19:56:20]ACCESS: Logout: *no key*/(Zonr_0)
+[19:56:20]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[19:57:40]ADMIN: Zonr_0/(John 'Zon' Mitchell) played sound sound/AI/poweroff.ogg
+[19:58:01]SAY: mouse/ : SQUEEK!
+[19:58:04]OOC: John 'Zon' Mitchell/Zonr_0 : K&#39;Reboot!
+[19:58:10]ADMIN: Zonr_0/(John 'Zon' Mitchell) jumped to Anju Seda/(Carina Sanroma)
+[19:58:16]OOC: John 'Zon' Mitchell/Zonr_0 : oh god engineering
+[19:58:26]ADMIN: Zonr_0/(John 'Zon' Mitchell) initiated an immediate reboot.
+[19:58:26]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+[19:58:26]ACCESS: Logout: Zonr_0[DC]/(John 'Zon' Mitchell)
+
+
+Starting up. 19:58.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'sandbox'
+[19:58:46]ADMIN: Loading Banlistjob
+[19:58:46]ADMIN: Loading jobban_rank
+[19:58:46]ADMIN: jobban_keylist was empty
+[19:58:46]ADMIN: Loading appearance_rank
+[19:58:46]ADMIN: appearance_keylist was empty
+[19:58:46]ADMIN: Updating jobbanfile!
+[19:58:46]ADMIN: Loading Banlist
+[19:59:05]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[19:59:06]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[19:59:06]ACCESS: Logout: Zonr_0[DC]/(Zonr_0)
+[19:59:10]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[19:59:21]ACCESS: Logout: *no key*/(Zonr_0)
+[19:59:21]ACCESS: Login: Zonr_0/(John 'Zon' Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[19:59:51]ADMIN: Anju Seda/(Anju Seda) set the mode as wizard.
+[20:00:36]ADMIN: Anju Seda/(Anju Seda) set the mode as sandbox.
+[20:01:47]ADMIN: Anju Seda has started the game.
+[20:01:50]ACCESS: Logout: *no key*/(Anju Seda)
+[20:01:50]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[20:01:53]SAY: mouse/ : Squeek?
+[20:01:55]SAY: mouse/ : Squeek!
+[20:03:04]SAY: mouse/ : SQUEEK!
+[20:03:12]SAY: Ian/ : YAP
+[20:03:43]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:04:10]ACCESS: Login: Kokuten/(Kokuten) from 71.82.19.33-2740818427 || BYOND v498
+[20:05:53]ACCESS: Logout: *no key*/(Kokuten)
+[20:05:53]ACCESS: Login: Kokuten/(Kokuten Chiaki) from 71.82.19.33-2740818427 || BYOND v498
+[20:06:40]SAY: Carina Sanroma/Anju Seda : Hey.
+[20:06:57]SAY: Carina Sanroma/Anju Seda : Rebooted the server. Damage was too severe.
+[20:07:20]SAY: mouse/ : Squeek?
+[20:07:25]SAY: Kokuten Chiaki/Kokuten : Mind giving me all access when we&#39;re done here?
+[20:07:34]SAY: Pete/ : EHEHEHEHEH
+[20:08:01]SAY: mouse/ : SQUEEK!
+[20:08:08]SAY: mouse/ : Squeek?
+[20:09:22]SAY: Ian/ : Bark!
+[20:09:28]SAY: mouse/ : SQUEEK!
+[20:09:34]SAY: mouse/ : Squeek!
+[20:10:41]ADMIN: Anju Seda/(Carina Sanroma) jumped to 142,150,1 in the Holodeck Alpha
+[20:10:53]SAY: Tom/ : Squeek!
+[20:11:07]OOC: Carina Sanroma/Anju Seda : You alright Koku?
+[20:11:37]ADMIN: Zonr_0/(John 'Zon' Mitchell) jumped to Kokuten/(Kokuten Chiaki)
+[20:12:59]SAY: mouse/ : Squeek?
+[20:13:15]ACCESS: Logout: Zonr_0[DC]/(John 'Zon' Mitchell)
+[20:13:24]ADMIN: Anju Seda/(Carina Sanroma) jumped to Kokuten/(Kokuten Chiaki)
+[20:13:33]SAY: Carina Sanroma/Anju Seda : So here you are.
+[20:14:04]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Arrival Shuttle
+[20:14:22]ADMIN: Anju Seda/(Carina Sanroma) teleported Kokuten/(Kokuten Chiaki)
+[20:14:32]SAY: Carina Sanroma/Anju Seda : Welcome back
+[20:14:54]SAY: Ian/ : Woof!
+[20:14:57]SAY: Carina Sanroma/Anju Seda : Want my spare ID
+[20:15:11]SAY: Carina Sanroma/Anju Seda : Want my spare ID?
+[20:15:18]SAY: Kokuten Chiaki/Kokuten : Sure.
+[20:15:19]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:15:29]SAY: Carina Sanroma/Anju Seda : Yes, no?
+[20:15:38]SAY: Kokuten Chiaki/Kokuten : Yes.
+[20:15:59]SAY: Carina Sanroma/Anju Seda : Should get you healed up too.
+[20:16:30]SAY: Carina Sanroma/Anju Seda : Space Carp everywhere. Use it.
+[20:16:37]SAY: Runtime/ : Purr!
+[20:16:52]SAY: mouse/ : SQUEEK!
+[20:16:52]SAY: Poly/ : Wire the solars, you lazy bums!
+[20:16:56]SAY: mouse/ : Squeek!
+[20:17:04]SAY: Tom/ : Squeek!
+[20:17:26]SAY: Carina Sanroma/Anju Seda : Now to start this bitch.
+[20:17:48]SAY: Ian/ : YAP
+[20:19:41]SAY: mouse/ : Squeek?
+[20:20:16]GAME: PA Control Computer increased to 1 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:20:17]GAME: PA Control Computer increased to 2 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:20:19]GAME: PA Control Computer turned ON by anjuseda(Carina Sanroma) in (112,71,1)
+[20:20:31]SAY: mouse/ : Squeek!
+[20:22:06]SAY: Runtime/ : Purr!
+[20:22:54]GAME: PA Control Computer increased to 1 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:22:55]GAME: PA Control Computer increased to 2 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:23:29]SAY: mouse/ : Squeek!
+[20:23:33]SAY: Runtime/ : HSSSSS
+[20:23:41]SAY: Poly/ : Poly wanna cracker!
+[20:25:17]SAY: Carina Sanroma/Anju Seda : Power
+[20:25:30]SAY: mouse/ : SQUEEK!
+[20:25:34]SAY: mouse/ : SQUEEK!
+[20:25:36]SAY: Carina Sanroma/Anju Seda : Power&#39;s up.
+[20:26:55]SAY: mouse/ : Squeek?
+[20:28:49]SAY: Tom/ : Squeek?
+[20:29:09]SAY: Tom/ : SQUEEK!
+[20:29:50]SAY: mouse/ : SQUEEK!
+[20:31:46]SAY: mouse/ : Squeek!
+[20:31:48]SAY: mouse/ : SQUEEK!
+[20:32:17]SAY: mouse/ : SQUEEK!
+[20:35:23]SAY: mouse/ : SQUEEK!
+[20:35:54]SAY: mouse/ : Squeek!
+[20:35:56]SAY: Pete/ : eh?
+[20:37:02]SAY: mouse/ : Squeek!
+[20:37:11]SAY: Ian/ : YAP
+[20:37:25]SAY: mouse/ : SQUEEK!
+[20:37:48]SAY: Runtime/ : HSSSSS
+[20:39:30]SAY: mouse/ : Squeek?
+[20:41:09]SAY: Pete/ : eh?
+[20:41:34]SAY: mouse/ : Squeek?
+[20:43:27]SAY: Ian/ : AUUUUUU
+[20:45:45]ADMIN: Anju Seda/(Carina Sanroma) made all SMESs powered
+[20:45:45]ADMIN: Anju Seda/(Carina Sanroma) used secret quickpower
+[20:46:24]SAY: mouse/ : SQUEEK!
+[20:46:56]SAY: Runtime/ : Meow!
+[20:47:03]ADMIN: Anju Seda/(Carina Sanroma) jumped to Zonr_0[DC]/(John 'Zon' Mitchell)
+[20:47:11]ADMIN: Anju Seda/(Carina Sanroma) jumped to the AI Chamber
+[20:47:22]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Arrival Shuttle
+[20:47:30]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Arrival Shuttle Hallway
+[20:47:44]SAY: mouse/ : SQUEEK!
+[20:48:02]SAY: mouse/ : Squeek!
+[20:48:02]ADMIN: Anju Seda/(Carina Sanroma) jumped to Kokuten/(Kokuten Chiaki)
+[20:48:11]SAY: Carina Sanroma/Anju Seda : Researching?
+[20:48:14]SAY: Captain/Kokuten : Yeah.
+[20:48:31]SAY: Carina Sanroma/Anju Seda : Gonna go breed some slimes
+[20:48:34]SAY: Ian/ : Woof!
+[20:50:25]SAY: mouse/ : Squeek!
+[20:50:37]SAY: Runtime/ : Meow!
+[20:51:59]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[20:52:05]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[20:52:44]ADMIN: Anju Seda/(Carina Sanroma) has used rudimentary transformation on Anju Seda/(Carina Sanroma). Transforming to constructarmoured; deletemob=0
+[20:52:44]ACCESS: Logout: *no key*/(Carina Sanroma)
+[20:52:44]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[20:52:53]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:53:04]SAY: Carina Sanroma/Anju Seda : Sorry about that.
+[20:53:05]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:53:09]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:53:13]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:53:16]SAY: mouse/ : Squeek?
+[20:53:26]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:53:27]ACCESS: Logout: *no key*/(Carina Sanroma)
+[20:53:27]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[20:54:15]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:54:28]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:54:38]SAY: Pete/ : eh?
+[20:54:44]ADMIN: Anju Seda/(Carina Sanroma) has used rudimentary transformation on Anju Seda/(Carina Sanroma). Transforming to human; deletemob=1
+[20:54:44]ACCESS: Logout: *no key*/(Carina Sanroma)
+[20:54:44]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[20:54:51]ACCESS: Logout: *no key*/(Carina Sanroma)
+[20:54:51]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[20:54:56]SAY: Carina Sanroma/Anju Seda : There we go.
+[20:54:58]SAY: Kokuten Chiaki (as Captain)/Kokuten : ...
+[20:55:03]SAY: mouse/ : Squeek?
+[20:55:24]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:02]SAY: Kokuten Chiaki (as Captain)/Kokuten : Do you actually have to load the sleepers on this server?
+[20:56:11]SAY: Carina Sanroma/Anju Seda :  Load sleepers?
+[20:56:13]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:18]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:24]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:24]SAY: Kokuten Chiaki (as Captain)/Kokuten : The chems.
+[20:56:51]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:57]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:56:58]SAY: Carina Sanroma/Anju Seda :  No, they only work when you&#39;re not in critical.
+[20:57:13]SAY: mouse/ : Squeek!
+[20:57:16]SAY: Kokuten Chiaki (as Captain)/Kokuten : Then what the hell is the inaprovaline injections for?
+[20:57:26]SAY: Kokuten Chiaki (as Captain)/Kokuten : Then what the hell are the inaprovaline injections for?
+[20:57:27]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:57:34]EMOTE: Carina Sanroma/ : <B>Carina Sanroma</B> gasps!
+[20:57:35]ADMIN: Anju Seda/(Carina Sanroma) deleted Carina Sanroma at (159,116,1)
+[20:59:04]SAY: mouse/ : Squeek?
+[20:59:05]SAY: mouse/ : Squeek?
+[20:59:27]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:01:06]SAY: mouse/ : Squeek?
+[21:01:08]SAY: mouse/ : Squeek!
+[21:02:07]SAY: Ian/ : Bark!
+[21:02:21]SAY: mouse/ : SQUEEK!
+[21:02:35]SAY: mouse/ : SQUEEK!
+[21:02:46]SAY: mouse/ : SQUEEK!
+[21:03:07]SAY: Runtime/ : Purr!
+[21:04:19]GAME: Explosion with size (-1, 0, 2) in area Library 
+[21:04:28]SAY: Runtime/ : Esp!
+[21:05:10]SAY: mouse/ : SQUEEK!
+[21:06:47]SAY: mouse/ : Squeek?
+[21:09:06]SAY: mouse/ : Squeek?
+[21:10:49]SAY: mouse/ : Squeek?
+[21:11:46]SAY: Ian/ : Bark!
+[21:12:00]ACCESS: Logout: Kokuten[DC]/(Kokuten Chiaki)
+[21:12:07]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:17:18]SAY: Pete/ : EHEHEHEHEH
+[21:17:47]SAY: Poly/ : Poly wanna cracker!
+[21:17:49]SAY: mouse/ : SQUEEK!
+[21:17:53]SAY: Ian/ : Bark!
+[21:19:02]SAY: Ian/ : YAP
+[21:19:23]SAY: Carina Sanroma/Anju Seda :  You still on?
+[21:19:45]SAY: Poly/ : Poly wanna cracker!
+[21:22:04]SAY: mouse/ : Squeek!
+[21:22:47]SAY: mouse/ : Squeek?
+[21:23:27]SAY: Tom/ : Squeek?
+[21:25:31]ADMIN: Anju Seda/(Carina Sanroma) changed the equipment of Anju Seda/(Carina Sanroma) to death commando.
+[21:25:50]SAY: mouse/ : Squeek!
+[21:26:22]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:28:23]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:29:09]SAY: Pete/ : EHEHEHEHEH
+[21:29:22]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Arrival Shuttle Hallway
+[21:29:56]SAY: mouse/ : Squeek!
+[21:31:19]SAY: mouse/ : Squeek!
+[21:32:49]SAY: mouse/ : SQUEEK!
+[21:33:41]SAY: mouse/ : Squeek?
+[21:34:48]SAY: mouse/ : SQUEEK!
+[21:36:07]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:36:11]SAY: Poly/ : Poly wanna cracker!
+[21:36:13]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:36:15]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:36:17]SAY: mouse/ : SQUEEK!
+[21:36:38]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:36:40]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:36:52]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:37:37]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Centcom Control
+[21:38:02]SAY: mouse/ : Squeek!
+[21:38:02]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:38:07]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Centcom Supply Shuttle
+[21:38:16]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Centcom Control
+[21:38:47]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:00]SAY: mouse/ : SQUEEK!
+[21:39:18]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:24]SAY: Tom/ : SQUEEK!
+[21:39:24]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:30]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:34]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:36]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:49]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:51]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:39:57]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:40:01]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:40:14]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:40:16]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[21:40:18]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:40:38]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> gasps!
+[21:40:46]GAME: Explosion with size (-1, -1, 4) in area Centcom Control 
+[21:40:59]SAY: Runtime/ : HSSSSS
+[21:41:37]ADMIN: Anju Seda/(Carina Sanroma) jumped to the AI Satellite Teleporter Room
+[21:41:38]EMOTE: Kokuten Chiaki/Kokuten : <B>Kokuten Chiaki</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:41:44]SAY: mouse/ : SQUEEK!
+[21:41:44]ADMIN: Anju Seda/(Carina Sanroma) jumped to the AI Chamber
+[21:42:27]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Armory
+[21:42:34]ADMIN: Anju Seda/(Carina Sanroma) jumped to Atmospherics
+[21:42:42]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Bridge
+[21:43:24]SAY: Pete/ : eh?
+[21:43:52]SAY: mouse/ : Squeek!
+[21:44:54]SAY: mouse/ : SQUEEK!
+[21:48:48]SAY: mouse/ : Squeek!
+[21:49:23]SAY: mouse/ : Squeek!
+[21:50:46]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:51:42]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:54:42]SAY: mouse/ : Squeek!
+[21:54:54]SAY: Runtime/ : Esp!
+[21:55:04]SAY: mouse/ : SQUEEK!
+[21:56:06]SAY: Runtime/ : Esp!
+[21:56:23]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:57:54]ADMIN: Anju Seda/(Carina Sanroma) used secret whiteout
+[21:58:01]SAY: mouse/ : SQUEEK!
+[21:59:11]SAY: mouse/ : Squeek?
+[22:01:11]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[22:02:00]SAY: mouse/ : Squeek?
+[22:02:33]SAY: mouse/ : SQUEEK!
+[22:02:48]SAY: mouse/ : Squeek!
+[22:05:18]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:05:29]SAY: mouse/ : Squeek?
+[22:07:55]SAY: mouse/ : Squeek?
+[22:09:20]SAY: mouse/ : SQUEEK!
+[22:13:04]SAY: Tom/ : SQUEEK!
+[22:13:08]SAY: mouse/ : Squeek?
+[22:14:33]SAY: mouse/ : Squeek!
+[22:16:54]SAY: mouse/ : Squeek!
+[22:17:30]SAY: mouse/ : Squeek!
+[22:19:10]SAY: mouse/ : Squeek?
+[22:20:01]SAY: mouse/ : Squeek?
+[22:20:52]SAY: mouse/ : Squeek!
+[22:21:42]SAY: mouse/ : Squeek?
+[22:23:43]SAY: mouse/ : SQUEEK!
+[22:23:49]ADMIN: Anju Seda/(Carina Sanroma) AIized Anju Seda/(Carina Sanroma)
+[22:23:50]ACCESS: Logout: *no key*/(Carina Sanroma)
+[22:23:50]ACCESS: Login: Anju Seda/(B-4) from 98.82.77.244-1582101152 || BYOND v498
+[22:24:37]SAY: Tom/ : SQUEEK!
+[22:24:53]SAY: mouse/ : SQUEEK!
+[22:24:55]SAY: Runtime/ : Esp!
+[22:25:37]SAY: Pete/ : EHEHEHEHEH
+[22:26:45]ADMIN: Anju Seda/(Friendputer) used secret ionstorm
+[22:27:12]SAY: Poly/ : Poly wanna cracker!
+[22:30:03]SAY: Ian/ : YAP
+[22:30:06]ADMIN: Anju Seda/(Friendputer) used secret showailaws
+[22:30:17]ADMIN: Anju Seda/(Friendputer) used secret showgm
+[22:30:25]ADMIN: Anju Seda/(Friendputer) used secret ionstorm
+[22:30:36]SAY: mouse/ : Squeek!
+[22:30:53]ADMIN: Anju Seda/(Friendputer) used secret ionstorm
+[22:30:57]SAY: mouse/ : Squeek!
+[22:31:01]ADMIN: Anju Seda/(Friendputer) used secret energeticflux
+[22:32:01]GAME: Explosion with size (-1, 2, 4) in area Technical Storage 
+[22:33:00]SAY: mouse/ : SQUEEK!
+[22:33:17]ADMIN: Anju Seda/(Friendputer) used secret spaceninja
+[22:33:53]ADMIN: Anju Seda/(Friendputer) teleported Anju Seda/(Friendputer) to Abandoned Mining Station
+[22:34:08]ADMIN: Anju Seda/(Friendputer) has used rudimentary transformation on Anju Seda/(Friendputer). Transforming to hunter; deletemob=1
+[22:34:08]ACCESS: Logout: *no key*/(Friendputer)
+[22:34:08]ACCESS: Login: Anju Seda/(Friendputer) from 98.82.77.244-1582101152 || BYOND v498
+[22:34:42]ADMIN: Anju Seda/(Friendputer) jumped to *no key*/(Runtime)
+[22:35:47]ADMIN: Anju Seda/(Friendputer) has used rudimentary transformation on Anju Seda/(Friendputer). Transforming to human; deletemob=1
+[22:35:47]ACCESS: Logout: *no key*/(Friendputer)
+[22:35:47]ACCESS: Login: Anju Seda/(Friendputer) from 98.82.77.244-1582101152 || BYOND v498
+[22:36:12]ADMIN: <a href='?priv_msg=anjuseda'>Anju Seda</a>/(Friendputer) has wizard'ed Friendputer.
+[22:36:17]SAY: Tom/ : Squeek!
+[22:36:45]ADMIN: Anju Seda/(Friendputer) initiated an immediate reboot.
+[22:36:45]ACCESS: Logout: Anju Seda[DC]/(Friendputer)
+
+
+Starting up. 22:37.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'sandbox'
+[22:37:01]ADMIN: Loading Banlistjob
+[22:37:01]ADMIN: Loading jobban_rank
+[22:37:01]ADMIN: jobban_keylist was empty
+[22:37:01]ADMIN: Loading appearance_rank
+[22:37:01]ADMIN: appearance_keylist was empty
+[22:37:01]ADMIN: Updating jobbanfile!
+[22:37:01]ADMIN: Loading Banlist
+[22:37:07]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[22:37:53]ADMIN: Anju Seda/(Anju Seda) set the mode as wizard.
+[22:38:48]ADMIN: Anju Seda has started the game.
+[22:40:31]ADMIN: Anju Seda/(Anju Seda) set the mode as sandbox.
+[22:40:40]ADMIN: Anju Seda has started the game.
+[22:40:43]ACCESS: Logout: *no key*/(Anju Seda)
+[22:40:43]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[22:41:09]ADMIN: <a href='?priv_msg=anjuseda'>Anju Seda</a>/(Carina Sanroma) has wizard'ed Carina Sanroma.
+[22:41:41]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Wizard's Den
+[22:41:54]SAY: mouse/ : SQUEEK!
+[22:41:54]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[22:43:33]SAY: mouse/ : Squeek!
+[22:44:47]SAY: mouse/ : SQUEEK!
+[22:45:35]SAY: Ian/ : YAP
+[22:46:51]SAY: mouse/ : Squeek?
+[22:47:22]SAY: mouse/ : Squeek!
+[22:48:19]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Syndicate Mothership
+[22:48:35]ADMIN: <a href='?priv_msg=anjuseda'>Anju Seda</a>/(Gib Interplanetary Czar) has nuke op'ed Carina Sanroma.
+[22:49:41]SAY: mouse/ : Squeek?
+[22:49:52]SAY: Tom/ : Squeek!
+[22:50:11]ACCESS: Logout: *no key*/(Diana Metzer)
+[22:50:11]ACCESS: Login: Anju Seda/(Diana Metzer) from 98.82.77.244-1582101152 || BYOND v498
+[22:50:12]ADMIN: @Anju Seda[DC]/(Diana Metzer) jumped to @Anju Seda[DC]/(Diana Metzer)
+[22:50:28]ADMIN: Anju Seda/(Diana Metzer) jumped to @Anju Seda[DC]/(Diana Metzer)
+[22:50:36]ACCESS: Logout: *no key*/(Diana Metzer)
+[22:50:36]ACCESS: Login: Anju Seda/(Diana Metzer) from 98.82.77.244-1582101152 || BYOND v498
+[22:51:14]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to special ops officer.
+[22:53:41]SAY: Tom/ : Squeek!
+[22:53:45]SAY: mouse/ : Squeek!
+[22:54:37]SAY: Pete/ : EHEHEHEHEH
+[22:54:37]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:54:55]SAY: mouse/ : Squeek!
+[22:55:06]SAY: Poly/ : Poly wanna cracker!
+[22:55:12]SAY: mouse/ : Squeek?
+[22:55:14]SAY: mouse/ : SQUEEK!
+[22:55:53]SAY: Pete/ : eh?
+[22:59:41]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[23:00:26]SAY: mouse/ : Squeek?
+[23:00:44]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to death commando.
+[23:01:16]GAME: Explosion with size (-1, -1, 4) in area Syndicate Mothership 
+[23:01:37]SAY: Pete/ : EHEHEHEHEH
+[23:01:54]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to assassin.
+[23:02:22]SAY: mouse/ : Squeek?
+[23:02:39]SAY: Runtime/ : Esp!
+[23:02:47]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to space pirate.
+[23:03:03]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to centcom commander.
+[23:03:07]SAY: Pete/ : eh?
+[23:03:47]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to blue wizard.
+[23:04:30]SAY: Diana Metzer/Anju Seda : SCYAR NILA AFT PORT SOLAR ARRAY
+[23:04:47]ADMIN: Anju Seda/(Diana Metzer) jumped to the Bridge
+[23:04:56]ADMIN: Anju Seda/(Diana Metzer) jumped to the Wizard's Den
+[23:05:08]SAY: Runtime/ : HSSSSS
+[23:05:16]SAY: Diana Metzer/Anju Seda : FORTI`GY`AMA
+[23:05:54]ADMIN: Anju Seda/(Diana Metzer) jumped to the Syndicate Mothership
+[23:06:44]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to marisa wizard.
+[23:07:02]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to soviet admiral.
+[23:07:23]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to death commando.
+[23:07:49]SAY: mouse/ : Squeek?
+[23:08:34]SAY: mouse/ : SQUEEK!
+[23:09:05]GAME: Explosion with size (-1, -1, 4) in area Syndicate Mothership 
+[23:09:20]ADMIN: Anju Seda/(Diana Metzer) changed the equipment of Anju Seda/(Diana Metzer) to death commando.
+[23:09:36]SAY: mouse/ : Squeek?
+[23:09:45]GAME: Explosion with size (-1, -1, 4) in area Syndicate Forward Operating Base 
+[23:09:57]SAY: Runtime/ : Meow!
+[23:11:21]SAY: mouse/ : Squeek?
+[23:13:33]SAY: mouse/ : SQUEEK!
+[23:13:58]SAY: mouse/ : Squeek!
+[23:14:08]SAY: Ian/ : Bark!
+[23:14:21]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[23:14:50]GAME: Bomb valve opened in <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=204;Z=1'>north-west of SS13</a> with the timer attacher: Unknown Last touched by: Anju Seda
+[23:15:02]GAME: Explosion with size (1, 2, 4) in area north-west of SS13 
+[23:15:25]SAY: Poly/ : Check the singlo, you chucklefucks!
+[23:15:34]SAY: mouse/ : Squeek!
+[23:15:42]SAY: Ian/ : AUUUUUU
+[23:15:52]SAY: Runtime/ : HSSSSS
+[23:17:20]ADMIN: Anju Seda/(Diana Metzer) initiated an immediate reboot.
+[23:17:20]ACCESS: Logout: Anju Seda[DC]/(Diana Metzer)
+
+
+Starting up. 23:17.34
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'sandbox'
+[23:17:34]ADMIN: Loading Banlistjob
+[23:17:34]ADMIN: Loading jobban_rank
+[23:17:34]ADMIN: jobban_keylist was empty
+[23:17:34]ADMIN: Loading appearance_rank
+[23:17:34]ADMIN: appearance_keylist was empty
+[23:17:34]ADMIN: Updating jobbanfile!
+[23:17:34]ADMIN: Loading Banlist
+[23:17:43]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[23:18:03]ADMIN: Anju Seda/(Anju Seda) set the mode as nuclear.
+[23:18:10]ADMIN: Anju Seda has started the game.
+[23:18:24]ADMIN: Anju Seda/(Anju Seda) set the mode as traitor.
+[23:18:35]ADMIN: Anju Seda has started the game.
+[23:18:45]ADMIN: Anju Seda has started the game.
+[23:18:49]ADMIN: Anju Seda has started the game.
+[23:18:51]ACCESS: Logout: *no key*/(Anju Seda)
+[23:18:51]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[23:19:34]ADMIN: Anju Seda/(Carina Sanroma) initiated an immediate reboot.
+[23:19:34]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+
+
+Starting up. 23:19.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'traitor'
+[23:19:48]ADMIN: Loading Banlistjob
+[23:19:48]ADMIN: Loading jobban_rank
+[23:19:48]ADMIN: jobban_keylist was empty
+[23:19:48]ADMIN: Loading appearance_rank
+[23:19:48]ADMIN: appearance_keylist was empty
+[23:19:48]ADMIN: Updating jobbanfile!
+[23:19:48]ADMIN: Loading Banlist
+[23:19:56]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.77.244-1582101152 || BYOND v498
+[23:20:13]ADMIN: Anju Seda/(Anju Seda) set the mode as nuclear.
+[23:20:30]ADMIN: Anju Seda has started the game.
+[23:20:49]ADMIN: Anju Seda/(Anju Seda) set the mode as sandbox.
+[23:20:59]ADMIN: Anju Seda has started the game.
+[23:21:01]ACCESS: Logout: *no key*/(Anju Seda)
+[23:21:01]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.77.244-1582101152 || BYOND v498
+[23:22:39]SAY: Runtime/ : Meow!
+[23:24:52]SAY: mouse/ : Squeek?
+[23:25:04]SAY: mouse/ : SQUEEK!
+[23:26:50]SAY: mouse/ : Squeek?
+[23:27:04]SAY: Pete/ : EHEHEHEHEH
+[23:27:58]SAY: mouse/ : Squeek!
+[23:28:49]SAY: mouse/ : Squeek?
+[23:29:14]GAME: Explosion with size (-1, 0, 2) in area Bridge 
+[23:31:06]SAY: mouse/ : Squeek!
+[23:32:28]SAY: mouse/ : Squeek!
+[23:34:07]SAY: mouse/ : SQUEEK!
+[23:34:10]SAY: mouse/ : Squeek?
+[23:35:26]SAY: mouse/ : Squeek?
+[23:39:09]SAY: mouse/ : Squeek?
+[23:40:08]SAY: mouse/ : Squeek!
+[23:41:30]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Ruskie DJ Station
+[23:42:04]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Ruskie DJ Station
+[23:42:37]SAY: mouse/ : Squeek!
+[23:43:48]SAY: Runtime/ : HSSSSS
+[23:43:48]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #681715
+[23:43:50]SAY: mouse/ : Squeek!
+[23:44:03]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #1901155
+[23:44:09]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #681715
+[23:44:26]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #681715
+[23:44:45]SAY: mouse/ : Squeek!
+[23:45:17]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #1041215
+[23:45:24]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #681715
+[23:45:31]ADMIN: Anju Seda/(Carina Sanroma) jumped to Artifact Room #681715
+[23:45:45]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Solar Control
+[23:46:27]SAY: Pete/ : EHEHEHEHEH
+[23:50:11]SAY: mouse/ : Squeek?
+[23:50:47]SAY: Poly/ : Check the singlo, you chucklefucks!
+[23:51:03]SAY: mouse/ : Squeek?
+[23:52:36]SAY: Ian/ : YAP
+[23:52:57]SAY: mouse/ : SQUEEK!
+[23:53:09]SAY: Poly/ : Poly wanna cracker!
+[23:55:27]ADMIN: Anju Seda/(Carina Sanroma) deleted Canister: [O2] at (144,142,4)
+[23:55:53]SAY: mouse/ : Squeek!
+[23:57:07]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[23:58:29]SAY: mouse/ : SQUEEK!
+[23:58:46]SAY: mouse/ : SQUEEK!
+[23:58:52]SAY: Tom/ : Squeek?
+[23:59:21]SAY: mouse/ : Squeek?
+[00:00:34]SAY: Poly/ : Check the singlo, you chucklefucks!
+[00:01:01]SAY: mouse/ : Squeek!
+[00:02:20]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Cargo Office
+[00:02:33]ADMIN: Anju Seda/(Carina Sanroma) made all SMESs powered
+[00:02:33]ADMIN: Anju Seda/(Carina Sanroma) used secret quickpower
+[00:04:19]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Teleporter
+[00:05:42]SAY: mouse/ : Squeek!
+[00:07:23]SAY: Poly/ : Check the singlo, you chucklefucks!
+[00:08:26]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Primary Hallway
+[00:08:35]SAY: Ian/ : AUUUUUU
+[00:09:06]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:09:54]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:10:33]SAY: mouse/ : Squeek?
+[00:10:43]SAY: mouse/ : Squeek?
+[00:11:08]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Engineering SMES
+[00:11:58]SAY: mouse/ : Squeek?
+[00:12:19]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Primary Hallway
+[00:12:27]SAY: Ian/ : YAP
+[00:12:35]SAY: mouse/ : SQUEEK!
+[00:13:27]SAY: Ian/ : AUUUUUU
+[00:14:27]SAY: Ian/ : AUUUUUU
+[00:19:01]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:19:04]ADMIN: Anju Seda/(Carina Sanroma) jumped to Research Division
+[00:19:39]SAY: mouse/ : Squeek!
+[00:20:06]SAY: mouse/ : Squeek?
+[00:21:01]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Primary Hallway
+[00:21:05]SAY: mouse/ : Squeek!
+[00:21:22]SAY: mouse/ : SQUEEK!
+[00:21:42]SAY: mouse/ : Squeek!
+[00:23:20]SAY: mouse/ : Squeek?
+[00:23:20]SAY: Poly/ : Poly wanna cracker!
+[00:23:47]SAY: mouse/ : Squeek?
+[00:24:17]SAY: mouse/ : Squeek!
+[00:26:06]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Wizard's Den
+[00:26:57]SAY: Ian/ : AUUUUUU
+[00:27:00]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Bar
+[00:27:50]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Primary Hallway
+[00:28:48]SAY: mouse/ : Squeek!
+[00:32:50]SAY: mouse/ : SQUEEK!
+[00:35:58]SAY: mouse/ : Squeek?
+[00:38:00]SAY: mouse/ : SQUEEK!
+[00:38:17]SAY: mouse/ : Squeek!
+[00:39:33]SAY: mouse/ : Squeek?
+[00:40:16]SAY: mouse/ : Squeek?
+[00:44:14]SAY: Runtime/ : HSSSSS
+[00:46:24]SAY: Tom/ : Squeek?
+[00:46:30]SAY: Runtime/ : HSSSSS
+[00:46:30]SAY: Tom/ : Squeek!
+[00:46:45]SAY: mouse/ : SQUEEK!
+[00:47:08]SAY: mouse/ : Squeek!
+[00:47:24]SAY: mouse/ : Squeek!
+[00:48:14]SAY: mouse/ : SQUEEK!
+[00:50:26]SAY: Tom/ : SQUEEK!
+[00:53:28]SAY: mouse/ : Squeek?
+[00:54:05]SAY: Pete/ : eh?
+[00:55:19]SAY: mouse/ : Squeek?
+[00:55:46]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Engineering SMES
+[00:56:09]SAY: mouse/ : Squeek!
+[00:56:22]ADMIN: Anju Seda/(Carina Sanroma) jumped to the Derelict Solar Control
+[00:56:48]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:58:30]SAY: Tom/ : Squeek?
+[01:01:14]ADMIN: Anju Seda/(Carina Sanroma) jumped to Bridge Maintenance
+[01:01:52]SAY: mouse/ : SQUEEK!
+[01:02:02]SAY: mouse/ : Squeek?
+[01:03:44]SAY: mouse/ : Squeek?
+[01:04:23]SAY: Ian/ : Bark!
+[01:04:29]SAY: Pete/ : eh?
+[01:04:40]SAY: Runtime/ : Esp!
+[01:04:54]GAME: Explosion with size (-1, 0, 2) in area Xenobiology Lab 
+[01:04:55]GAME: Explosion with size (-1, 0, 2) in area Xenobiology Lab 
+[01:04:56]GAME: Explosion with size (-1, 0, 2) in area Xenobiology Lab 
+[01:05:46]SAY: Tom/ : SQUEEK!
+[01:06:00]GAME: Explosion with size (-1, 0, 2) in area Xenobiology Lab 
+[01:06:14]GAME: Explosion with size (-1, 0, 2) in area Toxins Storage 
+[01:06:29]GAME: Explosion with size (-1, 0, 2) in area Robotics Lab 
+[01:06:36]GAME: Explosion with size (-1, 0, 2) in area Research Division 
+[01:06:50]SAY: mouse/ : Squeek!
+[01:06:56]SAY: mouse/ : Squeek!
+[01:07:31]SAY: mouse/ : Squeek!
+[01:08:00]SAY: mouse/ : SQUEEK!
+[01:08:27]SAY: mouse/ : Squeek?
+[01:09:19]SAY: Tom/ : Squeek?
+[01:09:22]ADMIN: Anju Seda/(Carina Sanroma) has robotized Anju Seda.
+[01:09:23]ACCESS: Logout: *no key*/(Carina Sanroma)
+[01:09:23]ACCESS: Login: Anju Seda/(Default Cyborg-271) from 98.82.77.244-1582101152 || BYOND v498
+[01:10:31]SAY: Pete/ : eh?
+[01:11:10]SAY: Tom/ : Squeek!
+[01:11:14]SAY: mouse/ : Squeek!
+[01:13:04]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[01:15:16]SAY: mouse/ : Squeek!
+[01:15:29]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[01:16:26]SAY: mouse/ : SQUEEK!
+[01:16:55]ACCESS: Logout: Anju Seda[DC]/(Engineering Cyborg-271)
+[14:44:13]ACCESS: Login: Anju Seda/(Engineering Cyborg-271) from 98.82.102.143-1582101152 || BYOND v498
+[14:44:50]SAY: Pete/ : EHEHEHEHEH
+[14:45:07]SAY: mouse/ : SQUEEK!
+[14:45:11]SAY: Ian/ : Woof!
+[14:46:05]SAY: Poly/ : Wire the solars, you lazy bums!
+[14:47:18]SAY: Runtime/ : Meow!
+[14:47:26]ADMIN: Anju Seda/(Engineering Cyborg-271) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-271). Transforming to human; deletemob=1
+[14:47:26]ACCESS: Logout: *no key*/(Engineering Cyborg-271)
+[14:47:26]ACCESS: Login: Anju Seda/(Engineering Cyborg-271) from 98.82.102.143-1582101152 || BYOND v498
+[14:48:23]ADMIN: Anju Seda/(Engineering Cyborg-271) AIized Anju Seda/(Engineering Cyborg-271)
+[14:48:24]ACCESS: Logout: *no key*/(Engineering Cyborg-271)
+[14:48:24]ACCESS: Login: Anju Seda/(Bender) from 98.82.102.143-1582101152 || BYOND v498
+[14:48:37]SAY: Runtime/ : Esp!
+[14:49:10]SAY: mouse/ : Squeek?
+[14:49:20]SAY: mouse/ : Squeek!
+[14:51:07]SAY: mouse/ : SQUEEK!
+[14:51:16]SAY: mouse/ : Squeek!
+[14:51:48]ADMIN: Anju Seda/(Bender) used secret aliens
+[14:55:14]ADMIN: Anju Seda/(Bender) used secret ionstorm
+[14:55:55]ADMIN: Anju Seda/(Bender) used secret aliens
+[14:56:05]ADMIN: Anju Seda/(Bender) used secret carp
+[14:56:19]ADMIN: Anju Seda/(Bender) used secret wave
+[14:57:03]SAY: mouse/ : Squeek!
+[14:59:08]SAY: mouse/ : Squeek?
+[14:59:29]ADMIN: Anju Seda/(Bender) has used rudimentary transformation on Anju Seda/(Bender). Transforming to robot; deletemob=1
+[14:59:29]ACCESS: Logout: *no key*/(Bender)
+[14:59:29]ACCESS: Login: Anju Seda/(Bender) from 98.82.102.143-1582101152 || BYOND v498
+[15:00:04]ADMIN: Anju Seda/(Engineering Cyborg-637) jumped to the Cargo Bay
+[15:00:14]SAY: mouse/ : Squeek?
+[15:00:18]SAY: Ian/ : Woof!
+[15:00:20]SAY: mouse/ : Squeek!
+[15:00:26]ADMIN: Anju Seda/(Engineering Cyborg-637) jumped to the AI Chamber
+[15:00:37]ADMIN: Anju Seda/(Engineering Cyborg-637) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-637). Transforming to robot; deletemob=1
+[15:00:37]ACCESS: Logout: *no key*/(Engineering Cyborg-637)
+[15:00:37]ACCESS: Login: Anju Seda/(Engineering Cyborg-637) from 98.82.102.143-1582101152 || BYOND v498
+[15:01:07]ADMIN: Anju Seda/(Security Cyborg-873) jumped to the Cargo Bay
+[15:02:12]SAY: mouse/ : Squeek?
+[15:02:19]ADMIN: Anju Seda/(Security Cyborg-873) has used rudimentary transformation on Anju Seda/(Security Cyborg-873). Transforming to hunter; deletemob=1
+[15:02:19]ACCESS: Logout: *no key*/(Security Cyborg-873)
+[15:02:19]ACCESS: Login: Anju Seda/(Security Cyborg-873) from 98.82.102.143-1582101152 || BYOND v498
+[15:02:59]ADMIN: Anju Seda/(Security Cyborg-873) has used rudimentary transformation on Anju Seda/(Security Cyborg-873). Transforming to hunter; deletemob=1
+[15:02:59]ACCESS: Logout: *no key*/(Security Cyborg-873)
+[15:02:59]ACCESS: Login: Anju Seda/(Security Cyborg-873) from 98.82.102.143-1582101152 || BYOND v498
+[15:03:18]ADMIN: Anju Seda/(Security Cyborg-873) has used rudimentary transformation on Anju Seda/(Security Cyborg-873). Transforming to robot; deletemob=1
+[15:03:18]ACCESS: Logout: *no key*/(Security Cyborg-873)
+[15:03:18]ACCESS: Login: Anju Seda/(Security Cyborg-873) from 98.82.102.143-1582101152 || BYOND v498
+[15:03:36]SAY: Poly/ : Check the singlo, you chucklefucks!
+[15:04:59]SAY: Ian/ : YAP
+[15:05:24]SAY: mouse/ : SQUEEK!
+[15:06:01]SAY: mouse/ : Squeek!
+[15:07:01]ADMIN: Anju Seda/(Engineering Cyborg-911) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-911). Transforming to robot; deletemob=1
+[15:07:01]ACCESS: Logout: *no key*/(Engineering Cyborg-911)
+[15:07:01]ACCESS: Login: Anju Seda/(Engineering Cyborg-911) from 98.82.102.143-1582101152 || BYOND v498
+[15:08:21]ADMIN: Anju Seda/(Engineering Cyborg-531) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-531). Transforming to human; deletemob=1
+[15:08:21]ACCESS: Logout: *no key*/(Engineering Cyborg-531)
+[15:08:21]ACCESS: Login: Anju Seda/(Engineering Cyborg-531) from 98.82.102.143-1582101152 || BYOND v498
+[15:08:36]ADMIN: Anju Seda/(Engineering Cyborg-531) changed the equipment of Anju Seda/(Engineering Cyborg-531) to death commando.
+[15:08:38]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:08:48]SAY: mouse/ : Squeek!
+[15:08:58]SAY: Poly/ : Check the singlo, you chucklefucks!
+[15:09:10]SAY: Pete/ : eh?
+[15:09:10]SAY: Tom/ : Squeek?
+[15:09:40]ADMIN: Anju Seda/(Engineering Cyborg-531) has robotized Anju Seda.
+[15:09:41]ACCESS: Logout: *no key*/(Engineering Cyborg-531)
+[15:09:41]ACCESS: Login: Anju Seda/(Default Cyborg-257) from 98.82.102.143-1582101152 || BYOND v498
+[15:10:04]SAY: Runtime/ : Esp!
+[15:10:52]SAY: mouse/ : Squeek?
+[15:11:45]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[15:13:48]SAY: Runtime/ : Purr!
+[15:14:48]SAY: mouse/ : Squeek!
+[15:15:10]SAY: mouse/ : Squeek!
+[15:16:39]SAY: Runtime/ : Meow!
+[15:24:16]SAY: mouse/ : SQUEEK!
+[15:25:28]SAY: Pete/ : eh?
+[15:26:17]ADMIN: Anju Seda/(Engineering Cyborg-257) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-257). Transforming to constructarmoured; deletemob=1
+[15:26:17]ACCESS: Logout: *no key*/(Engineering Cyborg-257)
+[15:26:17]ACCESS: Login: Anju Seda/(Engineering Cyborg-257) from 98.82.102.143-1582101152 || BYOND v498
+[15:26:49]ADMIN: Anju Seda/(Engineering Cyborg-257) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-257). Transforming to robot; deletemob=1
+[15:26:49]ACCESS: Logout: *no key*/(Engineering Cyborg-257)
+[15:26:49]ACCESS: Login: Anju Seda/(Engineering Cyborg-257) from 98.82.102.143-1582101152 || BYOND v498
+[15:27:19]ADMIN: Anju Seda/(Janitor Cyborg-600) has used rudimentary transformation on Anju Seda/(Janitor Cyborg-600). Transforming to robot; deletemob=1
+[15:27:19]ACCESS: Logout: *no key*/(Janitor Cyborg-600)
+[15:27:19]ACCESS: Login: Anju Seda/(Janitor Cyborg-600) from 98.82.102.143-1582101152 || BYOND v498
+[15:27:40]SAY: mouse/ : Squeek?
+[15:28:15]ADMIN: Anju Seda/(Engineering Cyborg-829) has used rudimentary transformation on Anju Seda/(Engineering Cyborg-829). Transforming to robot; deletemob=1
+[15:28:15]ACCESS: Logout: *no key*/(Engineering Cyborg-829)
+[15:28:15]ACCESS: Login: Anju Seda/(Engineering Cyborg-829) from 98.82.102.143-1582101152 || BYOND v498
+[15:29:01]SAY: mouse/ : SQUEEK!
+[15:29:09]SAY: Poly/ : Poly wanna cracker!
+[15:30:55]ADMIN: Anju Seda/(Janitor Cyborg-997) has used rudimentary transformation on Anju Seda/(Janitor Cyborg-997). Transforming to human; deletemob=1
+[15:30:55]ACCESS: Logout: *no key*/(Janitor Cyborg-997)
+[15:30:55]ACCESS: Login: Anju Seda/(Janitor Cyborg-997) from 98.82.102.143-1582101152 || BYOND v498
+[15:31:14]ADMIN: Anju Seda/(Janitor Cyborg-997) changed the equipment of Anju Seda/(Janitor Cyborg-997) to special ops officer.
+[15:32:08]ADMIN: Anju Seda/(Janitor Cyborg-997) changed the equipment of Anju Seda/(Janitor Cyborg-997) to death commando.
+[15:33:02]SAY: Runtime/ : HSSSSS
+[15:33:19]SAY: Tom/ : Squeek?
+[15:33:50]EMOTE: Janitor Cyborg-997/Anju Seda : <B>Janitor Cyborg-997</B> gasps!
+[15:33:54]EMOTE: Janitor Cyborg-997/Anju Seda : <B>Janitor Cyborg-997</B> gasps!
+[15:39:21]ADMIN: Anju Seda/(Janitor Cyborg-997) initiated an immediate reboot.
+[15:39:21]ACCESS: Logout: Anju Seda[DC]/(Janitor Cyborg-997)

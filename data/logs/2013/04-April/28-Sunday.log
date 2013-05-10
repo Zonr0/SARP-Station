@@ -1,0 +1,1180 @@
+
+
+Starting up. 00:58.16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[00:58:16]ADMIN: Loading Banlistjob
+[00:58:16]ADMIN: Banlistjob is empty.
+[00:58:16]ADMIN: Banlistjob missing base dir.
+[00:58:16]ADMIN: Loading jobban_rank
+[00:58:16]ADMIN: jobban_keylist was empty
+[00:58:16]ADMIN: Loading appearance_rank
+[00:58:16]ADMIN: appearance_keylist was empty
+[00:58:16]ADMIN: Updating jobbanfile!
+[00:58:16]ADMIN: Loading Banlist
+[00:58:16]ADMIN: Banlist is empty.
+[00:58:16]ADMIN: Banlist missing base dir.
+[00:58:30]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[01:00:00]ACCESS: Logout: *no key*/(Zonr_0)
+[01:00:00]ACCESS: Login: Zonr_0/(Rachael Isaman) from 127.0.0.1-3070003764 || BYOND v498
+[01:03:08]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:05:05]SAY: Tom/ : Squeek!
+[01:05:19]SAY: Ian/ : AUUUUUU
+[01:06:21]SAY: mouse/ : Squeek!
+[01:06:47]SAY: Tom/ : Squeek?
+[01:07:02]SAY: mouse/ : SQUEEK!
+[01:09:58]SAY: Runtime/ : Esp!
+[01:10:12]SAY: mouse/ : Squeek?
+[01:11:54]ACCESS: Logout: Zonr_0[DC]/(Rachael Isaman)
+
+
+Starting up. 01:12.31
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[01:12:31]ADMIN: Loading Banlistjob
+[01:12:31]ADMIN: Loading jobban_rank
+[01:12:31]ADMIN: jobban_keylist was empty
+[01:12:31]ADMIN: Loading appearance_rank
+[01:12:31]ADMIN: appearance_keylist was empty
+[01:12:31]ADMIN: Updating jobbanfile!
+[01:12:31]ADMIN: Loading Banlist
+[01:18:19]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[01:19:49]ACCESS: Logout: *no key*/(Zonr_0)
+[01:19:49]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[01:23:26]SAY: Runtime/ : Esp!
+[01:25:41]SAY: mouse/ : Squeek!
+[01:27:01]SAY: Pete/ : EHEHEHEHEH
+[01:27:42]SAY: mouse/ : SQUEEK!
+[01:30:21]SAY: mouse/ : SQUEEK!
+[01:31:23]SAY: mouse/ : Squeek!
+[01:31:31]SAY: Pete/ : eh?
+[01:32:39]SAY: mouse/ : SQUEEK!
+[01:33:02]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:34:33]SAY: Runtime/ : Meow!
+[01:35:08]SAY: mouse/ : SQUEEK!
+[01:35:51]SAY: mouse/ : SQUEEK!
+[01:41:12]SAY: Poly/ : Check the singlo, you chucklefucks!
+[01:42:40]SAY: mouse/ : Squeek?
+[01:43:46]SAY: Tom/ : Squeek!
+[01:46:50]GAME: Explosion with size (0, 2, 5) in area Bar 
+[01:47:26]SAY: mouse/ : Squeek?
+[01:47:40]SAY: mouse/ : SQUEEK!
+[01:48:26]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[01:51:05]SAY: mouse/ : SQUEEK!
+[01:51:34]SAY: Ian/ : Woof!
+[01:51:57]SAY: Poly/ : Poly wanna cracker!
+[01:52:17]SAY: Tom/ : Squeek!
+[01:53:30]SAY: mouse/ : Squeek?
+[01:54:22]SAY: mouse/ : Squeek?
+[01:55:19]SAY: mouse/ : SQUEEK!
+[01:57:40]SAY: Pete/ : EHEHEHEHEH
+[01:58:06]SAY: Tom/ : Squeek!
+[01:58:21]SAY: Pete/ : eh?
+[01:58:31]SAY: mouse/ : Squeek?
+[01:58:41]SAY: mouse/ : Squeek?
+[01:59:02]SAY: mouse/ : SQUEEK!
+[01:59:16]SAY: Poly/ : Check the singlo, you chucklefucks!
+[01:59:20]SAY: Pete/ : EHEHEHEHEH
+[01:59:59]SAY: mouse/ : SQUEEK!
+[02:00:51]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[02:00:59]SAY: mouse/ : SQUEEK!
+[02:01:30]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[02:01:43]SAY: Ian/ : Bark!
+[02:03:24]SAY: Ian/ : Bark!
+[02:04:22]SAY: Runtime/ : Meow!
+[02:05:09]SAY: mouse/ : SQUEEK!
+[02:05:40]SAY: mouse/ : SQUEEK!
+[02:07:05]SAY: mouse/ : SQUEEK!
+[02:07:17]SAY: Runtime/ : HSSSSS
+[02:09:25]SAY: Poly/ : Poly wanna cracker!
+[02:12:01]SAY: mouse/ : SQUEEK!
+[02:12:28]SAY: Poly/ : Poly wanna cracker!
+[02:14:45]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+
+
+Starting up. 15:58.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[15:58:45]ADMIN: Loading Banlistjob
+[15:58:45]ADMIN: Loading jobban_rank
+[15:58:45]ADMIN: jobban_keylist was empty
+[15:58:45]ADMIN: Loading appearance_rank
+[15:58:45]ADMIN: appearance_keylist was empty
+[15:58:45]ADMIN: Updating jobbanfile!
+[15:58:45]ADMIN: Loading Banlist
+[15:59:00]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[16:00:30]ACCESS: Logout: *no key*/(Zonr_0)
+[16:00:30]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[16:00:38]SAY: mouse/ : Squeek!
+[16:02:02]SAY: mouse/ : Squeek!
+[16:02:18]SAY: mouse/ : Squeek!
+[16:02:43]SAY: mouse/ : Squeek!
+[16:03:22]SAY: Pete/ : EHEHEHEHEH
+[16:04:39]SAY: mouse/ : SQUEEK!
+[16:08:30]SAY: Tom/ : Squeek!
+[16:12:11]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[16:14:03]SAY: mouse/ : Squeek!
+[16:14:20]SAY: Runtime/ : Purr!
+[16:16:09]SAY: mouse/ : Squeek!
+[16:19:09]SAY: Pete/ : eh?
+[16:20:11]SAY: Ian/ : Woof!
+[16:20:56]SAY: mouse/ : SQUEEK!
+[16:21:11]SAY: mouse/ : Squeek!
+[16:21:44]SAY: mouse/ : Squeek!
+[16:22:04]SAY: Runtime/ : HSSSSS
+[16:23:38]SAY: Ian/ : YAP
+[16:24:52]SAY: Tom/ : Squeek!
+[16:25:32]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[16:26:55]SAY: Tom/ : SQUEEK!
+[16:28:33]SAY: Poly/ : Poly wanna cracker!
+[16:29:27]SAY: Ian/ : Woof!
+[16:29:32]SAY: mouse/ : Squeek!
+[16:30:34]SAY: Ian/ : YAP
+[16:31:11]SAY: mouse/ : Squeek?
+[16:32:46]SAY: mouse/ : Squeek?
+[16:32:50]SAY: Runtime/ : HSSSSS
+[16:33:42]SAY: mouse/ : SQUEEK!
+[16:35:33]SAY: Ian/ : AUUUUUU
+[16:35:50]SAY: Tom/ : SQUEEK!
+[16:36:23]GAME: PA Control Computer turned ON by zonr0(John Mitchell) in (112,71,1)
+[16:36:35]GAME: PA Control Computer increased to 1 by zonr0(John Mitchell) in (112,71,1)
+[16:36:37]GAME: PA Control Computer increased to 2 by zonr0(John Mitchell) in (112,71,1)
+[16:36:52]SAY: mouse/ : Squeek?
+[16:36:58]SAY: mouse/ : SQUEEK!
+[16:39:04]ACCESS: Logout: *no key*/(John Mitchell)
+[16:39:04]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[16:39:26]GAME: Explosion with size (-1, 0, 2) in area Engineering 
+[16:40:26]SAY: Runtime/ : Esp!
+[16:40:40]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[16:41:09]SAY: Tom/ : SQUEEK!
+[16:41:46]GAME: Emitter deleted at (122,57,1)
+[16:42:44]SAY: mouse/ : Squeek!
+[16:43:44]SAY: mouse/ : Squeek!
+[16:44:19]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[16:44:27]SAY: Tom/ : Squeek!
+[16:44:29]SAY: Ian/ : Woof!
+[16:45:02]SAY: Poly/ : Poly wanna cracker!
+[16:45:47]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[16:45:47]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+
+
+Starting up. 16:46.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[16:46:01]ADMIN: Loading Banlistjob
+[16:46:01]ADMIN: Loading jobban_rank
+[16:46:01]ADMIN: jobban_keylist was empty
+[16:46:01]ADMIN: Loading appearance_rank
+[16:46:01]ADMIN: appearance_keylist was empty
+[16:46:01]ADMIN: Updating jobbanfile!
+[16:46:01]ADMIN: Loading Banlist
+[16:46:10]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[16:46:12]ACCESS: Logout: Zonr_0[DC]/(Zonr_0)
+[16:46:12]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[16:47:47]ACCESS: Logout: *no key*/(Zonr_0)
+[16:47:47]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[16:49:06]SAY: Tom/ : Squeek!
+[16:51:17]SAY: Poly/ : Check the singlo, you chucklefucks!
+[16:51:54]SAY: Ian/ : Bark!
+[16:52:46]SAY: Runtime/ : Esp!
+[16:53:36]SAY: mouse/ : SQUEEK!
+[16:53:46]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[16:55:07]SAY: Runtime/ : HSSSSS
+[16:56:31]GAME: PA Control Computer increased to 1 by zonr0(John Mitchell) in (112,71,1)
+[16:56:32]GAME: PA Control Computer increased to 2 by zonr0(John Mitchell) in (112,71,1)
+[16:56:33]GAME: PA Control Computer turned ON by zonr0(John Mitchell) in (112,71,1)
+[16:57:37]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[17:03:30]SAY: Runtime/ : HSSSSS
+[17:05:53]SAY: Runtime/ : HSSSSS
+[17:08:53]SAY: mouse/ : Squeek?
+[17:09:53]SAY: Ian/ : Woof!
+[17:11:30]SAY: Pete/ : eh?
+[17:13:08]SAY: mouse/ : Squeek?
+[17:13:43]SAY: Poly/ : Wire the solars, you lazy bums!
+[17:15:24]SAY: mouse/ : Squeek?
+[17:16:22]SAY: mouse/ : SQUEEK!
+[17:16:38]SAY: Poly/ : Poly wanna cracker!
+[17:16:53]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[17:18:34]SAY: mouse/ : Squeek!
+[17:18:53]SAY: Tom/ : SQUEEK!
+[17:19:26]SAY: Ian/ : Bark!
+[17:21:47]SAY: Tom/ : Squeek?
+[17:21:50]SAY: Runtime/ : Meow!
+[17:24:13]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[20:41:28]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[20:41:54]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:42:03]GAME: PA Control Computer increased to 1 by zonr0(John Mitchell) in (112,71,1)
+[20:42:06]GAME: PA Control Computer increased to 2 by zonr0(John Mitchell) in (112,71,1)
+[20:42:11]GAME: PA Control Computer turned ON by zonr0(John Mitchell) in (112,71,1)
+[20:46:00]SAY: mouse/ : SQUEEK!
+[20:48:22]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[20:50:22]SAY: mouse/ : Squeek!
+[20:51:29]OOC: John Mitchell/Zonr_0 : Oh, I didn&#39;t you logged on.
+[20:51:43]SAY: mouse/ : SQUEEK!
+[20:51:58]SAY: John Mitchell/Zonr_0 : Use &#34;say ;words&#34; to use the station radio, like so:
+[20:53:57]SAY: mouse/ : Squeek?
+[20:54:47]SAY: Pete/ : EHEHEHEHEH
+[20:56:05]SAY: mouse/ : Squeek?
+[20:56:09]SAY: Tom/ : Squeek!
+[21:00:05]ACCESS: Logout: *no key*/(Tanka)
+[21:00:05]ACCESS: Login: Tanka/(Sydney Murray) from 24.113.74.218-2284255718 || BYOND v498
+[21:01:30]SAY: Runtime/ : Meow!
+[21:02:48]SAY: Pete/ : EHEHEHEHEH
+[21:03:01]SAY: John Mitchell/Zonr_0 : type say ;blahblah to speak on station radio
+[21:03:03]SAY: John Mitchell/Zonr_0 : like so
+[21:03:20]SAY: John Mitchell/Zonr_0 : hmm, did the station comms get shut down?
+[21:03:35]OOC: John Mitchell/Zonr_0 : odd.
+[21:04:10]OOC: John Mitchell/Zonr_0 : going to reboot/reset the round. Should lose connection for a minute, just keep the window open.
+[21:04:23]ADMIN: Zonr_0/(John Mitchell) initiated a reboot.
+[21:04:23]SAY: mouse/ : Squeek?
+[21:04:27]EMOTE: Sydney Murray/Tanka : <B>Sydney Murray</B> gasps!
+[21:04:28]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[21:04:28]ACCESS: Logout: Tanka[DC]/(Sydney Murray)
+
+
+Starting up. 21:04.42
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:04:43]ADMIN: Loading Banlistjob
+[21:04:43]ADMIN: Loading jobban_rank
+[21:04:43]ADMIN: jobban_keylist was empty
+[21:04:43]ADMIN: Loading appearance_rank
+[21:04:43]ADMIN: appearance_keylist was empty
+[21:04:43]ADMIN: Updating jobbanfile!
+[21:04:43]ADMIN: Loading Banlist
+[21:06:07]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[21:07:32]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[21:07:37]ACCESS: Logout: *no key*/(Zonr_0)
+[21:07:37]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[21:08:04]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:08:23]SAY: mouse/ : SQUEEK!
+[21:08:26]OOC: John Mitchell/Zonr_0 : I&#39;m going to start the singularity engine so we don&#39;t run out of power.
+[21:08:59]ACCESS: Logout: *no key*/(Tanka)
+[21:08:59]ACCESS: Login: Tanka/(Khloe Caldwell) from 24.113.74.218-2284255718 || BYOND v498
+[21:09:19]OOC: John Mitchell/Zonr_0 : type &#34;ooc blahblah&#34; to chat
+[21:09:45]OOC: Khloe Caldwell/Tanka : I&#39;m here
+[21:10:04]SAY: Runtime/ : Meow!
+[21:10:09]OOC: John Mitchell/Zonr_0 : eh, o nsecond thought, I&#39;m lazy, I won&#39;t do the engine right now
+[21:11:08]OOC: Khloe Caldwell/Tanka : ok I can move
+[21:11:15]SAY: John Mitchell/Zonr_0 : type say blahblah to speak
+[21:11:18]OOC: Khloe Caldwell/Tanka : past thatnota clue
+[21:11:21]SAY: Tom/ : SQUEEK!
+[21:11:30]SAY: Khloe Caldwell/Tanka : hi
+[21:11:33]SAY: John Mitchell/Zonr_0 : and say &#34;;blahblah to speak on station radio.
+[21:12:02]SAY: John Mitchell/Zonr_0 : there&#39;s also department radios as well
+[21:12:07]SAY: John Mitchell/Zonr_0 : test
+[21:12:14]SAY: John Mitchell/Zonr_0 : which you don&#39;t have as an assitant.
+[21:12:25]SAY: Khloe Caldwell/Tanka : radio talking
+[21:13:03]SAY: John Mitchell/Zonr_0 : so let&#39;s see, basic inventory management...
+[21:13:13]SAY: mouse/ : SQUEEK!
+[21:13:16]SAY: John Mitchell/Zonr_0 : also, Kyle is posting in the JP
+[21:13:33]SAY: Runtime/ : Purr!
+[21:14:25]SAY: Khloe Caldwell/Tanka : I saw
+[21:15:08]SAY: John Mitchell/Zonr_0 : so if somebody is pulling oyu like this
+[21:15:19]SAY: Pete/ : EHEHEHEHEH
+[21:15:25]SAY: John Mitchell/Zonr_0 : you can attempt to break out by clicking the icon left of the drop icon in the lower right
+[21:16:21]SAY: John Mitchell/Zonr_0 : so the interface is awful to warn you
+[21:16:29]SAY: mouse/ : Squeek!
+[21:16:32]SAY: John Mitchell/Zonr_0 : try picking up the pie.
+[21:16:38]SAY: mouse/ : Squeek!
+[21:18:10]SAY: John Mitchell/Zonr_0 : to eat the pie, with the hand holding the pi eactive
+[21:18:30]SAY: John Mitchell/Zonr_0 : click on your character once you&#39;re holding it
+[21:18:33]SAY: mouse/ : Squeek?
+[21:18:58]SAY: Khloe Caldwell/Tanka : eet it
+[21:19:10]SAY: John Mitchell/Zonr_0 : the pie probably has multiple uses
+[21:19:23]SAY: John Mitchell/Zonr_0 : let&#39;s go to the medbay and I&#39;ll show you the different stances.
+[21:19:44]SAY: John Mitchell/Zonr_0 : we&#39;re in medbay gunsight
+[21:19:59]SAY: John Mitchell/Zonr_0 : (being totally ooc and whatnot as I show Tanka stuff)
+[21:20:27]OOC: Khloe Caldwell/Tanka : brb
+[21:21:03]ACCESS: Login: Gunsight1/(Gunsight1) from 75.36.133.159-3568745376 || BYOND v498
+[21:21:04]SAY: Poly/ : Poly wanna cracker!
+[21:23:52]OOC: Khloe Caldwell/Tanka : Gunsight is build his char right now
+[21:24:27]SAY: mouse/ : Squeek?
+[21:24:41]SAY: mouse/ : SQUEEK!
+[21:26:08]ACCESS: Logout: *no key*/(Gunsight1)
+[21:26:08]ACCESS: Login: Gunsight1/(Kyle Lancaster) from 75.36.133.159-3568745376 || BYOND v498
+[21:26:26]OOC: John Mitchell/Zonr_0 : oh dear, did somebdoy do something to medbay?
+[21:26:33]SAY: Kyle Lancaster/Gunsight1 : hello!
+[21:26:37]SAY: mouse/ : Squeek?
+[21:26:41]OOC: Khloe Caldwell/Tanka : I hit the firealarm didn&#39;t know what it did
+[21:26:53]OOC: Kyle Lancaster/Gunsight1 : its gunny
+[21:27:34]SAY: mouse/ : Squeek!
+[21:27:45]SAY: John Mitchell/Zonr_0 : alright
+[21:27:51]SAY: John Mitchell/Zonr_0 : so, the different intents
+[21:28:05]SAY: mouse/ : Squeek!
+[21:28:18]SAY: mouse/ : Squeek?
+[21:28:48]SAY: John Mitchell/Zonr_0 : so, different intents
+[21:28:51]SAY: John Mitchell/Zonr_0 : there&#39;s the helpful
+[21:28:57]SAY: mouse/ : Squeek?
+[21:28:58]OOC: Kyle Lancaster/Gunsight1 : hows ya guys like the epic beard? :3
+[21:28:59]SAY: John Mitchell/Zonr_0 : disarm
+[21:29:11]SAY: mouse/ : Squeek!
+[21:29:24]SAY: John Mitchell/Zonr_0 : and then aggressive
+[21:30:13]SAY: John Mitchell/Zonr_0 : that should heal your bruises
+[21:30:23]OOC: Khloe Caldwell/Tanka : ?? what are you doing ot me??
+[21:30:44]OOC: John Mitchell/Zonr_0 : I was trying to show you the different intents :P
+[21:30:57]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:31:55]ADMIN: Zonr_0/(John Mitchell) jumped to Gunsight1/(Kyle Lancaster)
+[21:32:15]ADMIN: Zonr_0/(John Mitchell) jumped to Tanka/(Khloe Caldwell)
+[21:32:27]OOC: John Mitchell/Zonr_0 : so, let&#39;s see here...
+[21:32:48]OOC: John Mitchell/Zonr_0 : like I said, the interface is pretty terrible, the hand system in particular is unintuitive.
+[21:33:03]OOC: John Mitchell/Zonr_0 : and you can end up doing thigns by accident.
+[21:33:40]OOC: John Mitchell/Zonr_0 : the wiki has some pretty good tutorials and such
+[21:34:00]OOC: John Mitchell/Zonr_0 : if you want to check it out and go through some of the new players guide if you&#39;d rather learn things by your own pace.
+[21:34:33]OOC: John Mitchell/Zonr_0 : I might reset the server though and turn on the singularity engine.
+[21:35:18]OOC: Kyle Lancaster/Gunsight1 : ok
+[21:35:25]SAY: Pete/ : eh?
+[21:35:25]OOC: John Mitchell/Zonr_0 : I&#39;ll give Mog a chance to get in first
+[21:35:28]OOC: John Mitchell/Zonr_0 : so I can explain
+[21:36:55]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[21:36:55]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[21:36:55]ACCESS: Logout: Tanka[DC]/(Khloe Caldwell)
+[21:36:55]ACCESS: Logout: Gunsight1[DC]/(Kyle Lancaster)
+
+
+Starting up. 21:37.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:37:09]ADMIN: Loading Banlistjob
+[21:37:09]ADMIN: Loading jobban_rank
+[21:37:09]ADMIN: jobban_keylist was empty
+[21:37:09]ADMIN: Loading appearance_rank
+[21:37:09]ADMIN: appearance_keylist was empty
+[21:37:09]ADMIN: Updating jobbanfile!
+[21:37:09]ADMIN: Loading Banlist
+[21:37:40]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[21:38:46]ACCESS: Logout: *no key*/(Zonr_0)
+[21:38:46]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[21:39:08]ACCESS: Login: Gunsight1/(Gunsight1) from 75.36.133.159-3568745376 || BYOND v498
+[21:39:30]ACCESS: Logout: *no key*/(Gunsight1)
+[21:39:30]ACCESS: Login: Gunsight1/(Kyle Lancaster) from 75.36.133.159-3568745376 || BYOND v498
+[21:41:53]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[21:41:56]SAY: mouse/ : SQUEEK!
+[21:42:02]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[21:42:28]SAY: mouse/ : SQUEEK!
+[21:42:31]ACCESS: Logout: *no key*/(Tanka)
+[21:42:31]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[21:43:58]ACCESS: Logout: *no key*/(RequiMog)
+[21:43:58]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[21:44:29]SAY: Mog/RequiMog : Welp, I&#39;m in
+[21:44:57]OOC: John Mitchell/Zonr_0 : ugh, this is such a pita to do with one person, heh.
+[21:46:07]SAY: mouse/ : SQUEEK!
+[21:47:16]GAME: PA Control Computer increased to 1 by zonr0(John Mitchell) in (112,71,1)
+[21:47:17]GAME: PA Control Computer increased to 2 by zonr0(John Mitchell) in (112,71,1)
+[21:47:18]GAME: PA Control Computer turned ON by zonr0(John Mitchell) in (112,71,1)
+[21:47:36]SAY: Mog/RequiMog : I can&#39;t even figure out how to put on clothing
+[21:48:04]SAY: mouse/ : Squeek!
+[21:48:21]SAY: mouse/ : SQUEEK!
+[21:49:07]OOC: John Mitchell/Zonr_0 : alright, engine is up.
+[21:49:18]SAY: Freyja/Tanka : hello mog
+[21:49:18]SAY: Mog/RequiMog : lol
+[21:49:21]SAY: Mog/RequiMog : hi
+[21:49:26]SAY: Mog/RequiMog : I just blinded myself
+[21:51:58]SAY: mouse/ : SQUEEK!
+[21:52:25]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:52:35]SAY: Runtime/ : Esp!
+[21:52:49]OOC: John Mitchell/Zonr_0 : let me know if you need anything.
+[21:53:09]SAY: Mog/RequiMog : The  instructions to putting on jumpsuits
+[21:53:34]SAY: Mog/RequiMog : It says I need a suit before I can put on a jumpusit
+[21:54:44]SAY: Mog/RequiMog : also how to drop items you&#39;ve picked up.
+[21:54:52]SAY: mouse/ : Squeek!
+[21:55:09]OOC: Mog/RequiMog : How to put on jumpsuits, and how to drop itmes you&#39;ve picked up
+[21:56:29]OOC: John Mitchell/Zonr_0 : to drop items either press the HOME key,
+[21:56:33]SAY: Tom/ : SQUEEK!
+[21:56:41]OOC: John Mitchell/Zonr_0 : or the little icon in the lower right that looks like somebody droppign something.
+[21:56:55]OOC: John Mitchell/Zonr_0 : to put on a new jumpsuit, you first have to take your current one off.
+[21:57:07]OOC: Mog/RequiMog : ah, thanks
+[21:57:26]OOC: John Mitchell/Zonr_0 : which will drop your PDA and ID
+[21:57:29]OOC: John Mitchell/Zonr_0 : so make sure you pick those up
+[21:57:59]SAY: Pete/ : EHEHEHEHEH
+[22:00:15]SAY: mouse/ : Squeek?
+[22:00:23]OOC: Freyja/Tanka : why can&#39;t we get into the mech bay
+[22:00:52]SAY: Pete/ : eh?
+[22:00:53]OOC: John Mitchell/Zonr_0 : you might not have access
+[22:01:01]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:01:15]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:01:18]ADMIN: Zonr_0/(John Mitchell) jumped to Tanka/(Freyja)
+[22:01:52]OOC: John Mitchell/Zonr_0 : also, make sure you have your ID in your ID slot.
+[22:02:01]OOC: John Mitchell/Zonr_0 : or you might not be able to open doors that you should be able to.
+[22:02:10]SAY: mouse/ : SQUEEK!
+[22:02:53]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[22:03:26]SAY: mouse/ : Squeek?
+[22:04:30]EMOTE: Freyja/Tanka : <B>Freyja</B> gasps!
+[22:04:32]EMOTE: Freyja/Tanka : <B>Freyja</B> gasps!
+[22:04:51]EMOTE: Freyja/Tanka : <B>Freyja</B> gasps!
+[22:04:55]EMOTE: Freyja/Tanka : <B>Freyja</B> gasps!
+[22:05:13]EMOTE: Freyja/Tanka : <B>Freyja</B> seizes up and falls limp, her eyes dead and lifeless...
+[22:05:22]SAY: Kyle Lancaster/Gunsight1 : baaalllllssss!!!
+[22:05:40]EMOTE: Kyle Lancaster/Gunsight1 : <B>Kyle Lancaster</B> gasps!
+[22:05:46]EMOTE: Kyle Lancaster/Gunsight1 : <B>Kyle Lancaster</B> gasps!
+[22:05:54]OOC: Freyja/Tanka : airlocks suck
+[22:06:05]OOC: Kyle Lancaster/Gunsight1 : um...Im in SPAAAAACE
+[22:06:11]EMOTE: Kyle Lancaster/Gunsight1 : <B>Kyle Lancaster</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:06:29]OOC: Kyle Lancaster/Gunsight1 : how does one respawn?
+[22:08:26]SAY: mouse/ : Squeek?
+[22:09:08]ADMIN: Zonr_0/(John Mitchell) teleported Gunsight1/(Kyle Lancaster)
+[22:09:09]SAY: Ian/ : Woof!
+[22:10:06]OOC: Kyle Lancaster/Gunsight1 : all my prescious bloods all ovah
+[22:10:21]OOC: John Mitchell/Zonr_0 : gotta remember how the cryotubes work
+[22:10:35]OOC: Kyle Lancaster/Gunsight1 : cool
+[22:11:28]SAY: Poly/ : Poly wanna cracker!
+[22:11:32]SAY: Runtime/ : Purr!
+[22:11:38]SAY: mouse/ : Squeek!
+[22:11:40]OOC: Kyle Lancaster/Gunsight1 : maybe I should just relog?
+[22:11:54]ACCESS: Logout: Tanka[DC]/(Freyja)
+[22:11:58]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[22:12:44]OOC: John Mitchell/Zonr_0 : I don&#39;t think you can.
+[22:13:00]OOC: Kyle Lancaster/Gunsight1 : different character maybe?
+[22:13:25]OOC: Kyle Lancaster/Gunsight1 : ohjh cloning...
+[22:13:54]SAY: mouse/ : SQUEEK!
+[22:14:10]OOC: John Mitchell/Zonr_0 : *tries to remember how to take stuff off of people*
+[22:16:53]SAY: Tom/ : Squeek!
+[22:17:20]ACCESS: Login: Centurion0507/(Centurion0507) from 137.100.97.11-175961113 || BYOND v498
+[22:17:38]SAY: Poly/ : Poly wanna cracker!
+[22:17:57]SAY: mouse/ : SQUEEK!
+[22:18:13]SAY: Tom/ : SQUEEK!
+[22:18:19]SAY: mouse/ : SQUEEK!
+[22:18:43]OOC: Kyle Lancaster/Gunsight1 : me lays, dead on the floor and carries on being dead
+[22:18:44]SAY: mouse/ : Squeek?
+[22:19:11]SAY: Poly/ : Check the singlo, you chucklefucks!
+[22:19:25]SAY: mouse/ : Squeek!
+[22:19:31]SAY: mouse/ : Squeek?
+[22:19:54]SAY: mouse/ : Squeek!
+[22:19:55]OOC: John Mitchell/Zonr_0 : trying to remember how to do this
+[22:20:11]OOC: Kyle Lancaster/Gunsight1 : no worries :)
+[22:20:22]SAY: Poly/ : Poly wanna cracker!
+[22:20:59]SAY: Pete/ : eh?
+[22:21:11]SAY: mouse/ : SQUEEK!
+[22:21:15]SAY: mouse/ : SQUEEK!
+[22:22:48]OOC: Mog (as Freyja)/RequiMog : How do you use the crowbar to, say, break open a windo?
+[22:22:52]OOC: John Mitchell/Zonr_0 : I thought you just had to pull the person towards you.
+[22:23:42]SAY: mouse/ : SQUEEK!
+[22:24:18]OOC: Kyle Lancaster/Gunsight1 : I can just try and log in with a new character
+[22:24:19]SAY: mouse/ : Squeek!
+[22:24:23]OOC: John Mitchell/Zonr_0 : go ahead and try
+[22:24:28]OOC: John Mitchell/Zonr_0 : I don&#39;t know if it&#39;ll let you.
+[22:24:39]OOC: John Mitchell/Zonr_0 : Mog, what kind of window?
+[22:24:44]SAY: mouse/ : Squeek?
+[22:24:48]OOC: Mog (as Freyja)/RequiMog : A rteinforced one
+[22:24:55]OOC: John Mitchell/Zonr_0 : but in general, to use an item on something, hold it in your active hand and click on the object/tile.
+[22:25:21]ACCESS: Logout: Gunsight1[DC]/(Kyle Lancaster)
+[22:25:34]OOC: John Mitchell/Zonr_0 : http://wiki.nanotrasen.com/index.php?title=Deconstruction#Deconstruction
+[22:25:39]ACCESS: Login: Gunsight1/(Kyle Lancaster) from 75.36.133.159-3568745376 || BYOND v498
+[22:25:48]OOC: Kyle Lancaster/Gunsight1 : nope....
+[22:25:49]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:25:51]OOC: John Mitchell/Zonr_0 : there&#39;s a very specific order of tools you need to use on a reinforced window
+[22:25:55]SAY: mouse/ : Squeek!
+[22:25:57]OOC: John Mitchell/Zonr_0 : in order to break it
+[22:26:13]OOC: Kyle Lancaster/Gunsight1 : still dead.....
+[22:27:22]OOC: John Mitchell/Zonr_0 : it wants me to remove your mask, and I&#39;m trying to figure out how to do that.
+[22:27:24]SAY: mouse/ : SQUEEK!
+[22:27:38]SAY: mouse/ : SQUEEK!
+[22:29:19]SAY: mouse/ : Squeek!
+[22:29:27]SAY: Ian/ : Bark!
+[22:31:04]SAY: mouse/ : Squeek?
+[22:31:07]ACCESS: Logout: *no key*/(Centurion0507)
+[22:31:07]ACCESS: Login: Centurion0507/(Frank West) from 137.100.97.11-175961113 || BYOND v498
+[22:31:11]OOC: John Mitchell/Zonr_0 : alright, reset time because I can&#39;t figure it out
+[22:31:17]OOC: Kyle Lancaster/Gunsight1 : ok
+[22:31:24]OOC: John Mitchell/Zonr_0 : so sit tight
+[22:31:30]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[22:31:30]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[22:31:30]ACCESS: Logout: RequiMog[DC]/(Mog)
+[22:31:30]ACCESS: Logout: Gunsight1[DC]/(Kyle Lancaster)
+[22:31:30]ACCESS: Logout: Tanka[DC]/(Freyja)
+[22:31:30]ACCESS: Logout: Centurion0507[DC]/(Frank West)
+
+
+Starting up. 22:31.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[22:31:44]ADMIN: Loading Banlistjob
+[22:31:44]ADMIN: Loading jobban_rank
+[22:31:44]ADMIN: jobban_keylist was empty
+[22:31:44]ADMIN: Loading appearance_rank
+[22:31:44]ADMIN: appearance_keylist was empty
+[22:31:44]ADMIN: Updating jobbanfile!
+[22:31:44]ADMIN: Loading Banlist
+[22:32:16]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[22:32:37]ACCESS: Login: Centurion0507/(Centurion0507) from 137.100.97.11-175961113 || BYOND v498
+[22:33:21]ACCESS: Logout: *no key*/(Centurion0507)
+[22:33:21]ACCESS: Login: Centurion0507/(Frank West) from 137.100.97.11-175961113 || BYOND v498
+[22:33:29]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[22:33:40]SAY: Frank West/Centurion0507 : Hey zonr
+[22:34:09]SAY: Poly/ : Poly wanna cracker!
+[22:34:20]ACCESS: Logout: *no key*/(Tanka)
+[22:34:20]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[22:34:42]SAY: mouse/ : Squeek?
+[22:34:57]SAY: Runtime/ : Meow!
+[22:35:01]SAY: mouse/ : Squeek?
+[22:35:29]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[22:35:50]ACCESS: Login: Gunsight1/(Gunsight1) from 75.36.133.159-3568745376 || BYOND v498
+[22:35:51]ACCESS: Logout: *no key*/(RequiMog)
+[22:35:51]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[22:36:37]ACCESS: Logout: *no key*/(Zonr_0)
+[22:36:37]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[22:38:20]SAY: Tom/ : SQUEEK!
+[22:39:04]SAY: mouse/ : SQUEEK!
+[22:39:06]SAY: Ian/ : AUUUUUU
+[22:39:12]SAY: mouse/ : Squeek!
+[22:39:56]ACCESS: Logout: Centurion0507[DC]/(Frank West)
+[22:40:30]ACCESS: Logout: *no key*/(Gunsight1)
+[22:40:30]ACCESS: Login: Gunsight1/(Yamashiro Sakura) from 75.36.133.159-3568745376 || BYOND v498
+[22:40:39]SAY: mouse/ : Squeek!
+[22:41:10]OOC: John Mitchell/Zonr_0 : we probably have enough people who play SS13 regularly to sustain a small SARP SS13 server, heh.
+[22:41:24]ACCESS: Login: Centurion0507/(Frank West) from 137.100.97.11-175961113 || BYOND v498
+[22:41:41]SAY: Poly/ : Check the singlo, you chucklefucks!
+[22:41:44]SAY: Frank West/Centurion0507 : I&#39;m trapped
+[22:42:41]SAY: mouse/ : Squeek?
+[22:43:02]SAY: mouse/ : Squeek?
+[22:43:08]SAY: mouse/ : Squeek!
+[22:43:12]ACCESS: Logout: Centurion0507[DC]/(Frank West)
+[22:44:12]SAY: Pete/ : eh?
+[22:44:20]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[22:45:22]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[22:45:54]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:46:02]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:46:04]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:46:14]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:46:21]SAY: mouse/ : SQUEEK!
+[22:46:23]OOC: Yamashiro Sakura/Gunsight1 : damnit.
+[22:46:38]OOC: Yamashiro Sakura/Gunsight1 : just died in the telecom room....wtf.
+[22:46:52]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:46:53]OOC: John Mitchell/Zonr_0 : that&#39;s weird. I&#39;ll check to see what killed you i na second
+[22:46:56]SAY: mouse/ : SQUEEK!
+[22:47:07]OOC: Yamashiro Sakura/Gunsight1 : actuially noit dead am crityicval...save me!
+[22:47:14]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[22:47:20]ADMIN: Zonr_0/(John Mitchell) jumped to Zonr_0/(John Mitchell)
+[22:47:32]ADMIN: Zonr_0/(John Mitchell) jumped to Centurion0507[DC]/(Frank West)
+[22:47:39]ADMIN: Zonr_0/(John Mitchell) jumped to Gunsight1/(Yamashiro Sakura)
+[22:47:45]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> seizes up and falls limp, her eyes dead and lifeless...
+[22:47:57]OOC: John Mitchell/Zonr_0 : you probably got electrocuted
+[22:47:59]OOC: Yamashiro Sakura/Gunsight1 : bleam Im dead already
+[22:48:07]OOC: John Mitchell/Zonr_0 : I think I know how to clone you now
+[22:48:10]OOC: John Mitchell/Zonr_0 : for realzies
+[22:48:13]OOC: Yamashiro Sakura/Gunsight1 : ok
+[22:50:54]OOC: John Mitchell/Zonr_0 : get in ze pod damnit!
+[22:50:56]SAY: Runtime/ : Esp!
+[22:51:21]OOC: Yamashiro Sakura/Gunsight1 : lol
+[22:51:33]SAY: mouse/ : Squeek?
+[22:51:45]ACCESS: Logout: *no key*/(Yamashiro Sakura)
+[22:51:45]ACCESS: Login: Gunsight1/(Yamashiro Sakura) from 75.36.133.159-3568745376 || BYOND v498
+[22:51:56]SAY: Poly/ : Poly wanna cracker!
+[22:52:50]OOC: Unknown/Gunsight1 : ok so crit now
+[22:52:51]EMOTE: Unknown/Gunsight1 : <B>Unknown</B> gasps!
+[22:52:56]SAY: mouse/ : Squeek?
+[22:53:06]EMOTE: Unknown/Gunsight1 : <B>Unknown</B> gasps!
+[22:53:22]EMOTE: Unknown/Gunsight1 : <B>Unknown</B> gasps!
+[22:53:43]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[22:54:03]SAY: Pete/ : EHEHEHEHEH
+[22:55:20]SAY: mouse/ : Squeek?
+[22:55:22]OOC: Yamashiro Sakura/Gunsight1 : wow my dead body is there....
+[22:55:52]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[22:55:53]ADMIN: Zonr_0/(John Mitchell) jumped to *no key*/(Yamashiro Sakura)
+[22:56:00]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[22:56:03]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[22:56:15]SAY: John Mitchell/Zonr_0 : oops, almost suffocated, heh
+[22:56:21]SAY: Runtime/ : Meow!
+[22:57:34]SAY: Runtime/ : Meow!
+[22:58:25]SAY: mouse/ : Squeek?
+[22:58:31]OOC: Yamashiro Sakura/Gunsight1 : hmm my PDA vanidhed and my chjaracters appearence changed
+[22:58:50]SAY: John Mitchell/Zonr_0 : the appearance is probably because of a genetic defect from cloning
+[22:58:54]SAY: John Mitchell/Zonr_0 : which I think I can fix
+[22:59:16]SAY: John Mitchell/Zonr_0 : not sure about the PDA
+[22:59:17]SAY: Yamashiro Sakura/Gunsight1 : ok
+[22:59:23]SAY: Ian/ : AUUUUUU
+[22:59:37]SAY: Yamashiro Sakura/Gunsight1 : also locked in here
+[23:00:05]OOC: Yamashiro Sakura/Gunsight1 : sonofa
+[23:00:20]OOC: John Mitchell/Zonr_0 : wow that medicine is a pita to make
+[23:00:36]OOC: Yamashiro Sakura/Gunsight1 : yeah still stuck
+[23:00:42]ADMIN: Zonr_0/(John Mitchell) jumped to *no key*/(Yamashiro Sakura)
+[23:01:00]SAY: Yamashiro Sakura/Gunsight1 : boo my long hair is gone
+[23:01:05]ADMIN: Zonr_0/(John Mitchell) teleported *no key*/(Yamashiro Sakura)
+[23:01:31]OOC: John Mitchell/Zonr_0 : ha, any admin commands that target you end up targeting your body.
+[23:01:34]OOC: John Mitchell/Zonr_0 : this is the way out btw
+[23:01:45]SAY: Tom/ : SQUEEK!
+[23:01:57]OOC: Yamashiro Sakura/Gunsight1 : huh?
+[23:02:14]OOC: Mog/RequiMog : Now if only I hadn&#39;t blinded myself
+[23:02:48]OOC: Mog/RequiMog : Can blindness be fixed?
+[23:02:51]OOC: Yamashiro Sakura/Gunsight1 : says I have minor genetic deformities :(
+[23:03:08]OOC: John Mitchell/Zonr_0 : yeah, blindness can be fixed.
+[23:03:18]OOC: John Mitchell/Zonr_0 : genetic deformaties can be cured, but I don&#39;t really know how.
+[23:03:29]OOC: John Mitchell/Zonr_0 : I know the chemist way, but it&#39;s difficult and requires radium.
+[23:03:35]SAY: Poly/ : Poly wanna cracker!
+[23:03:54]SAY: Pete/ : EHEHEHEHEH
+[23:04:01]OOC: John Mitchell/Zonr_0 : how did you blind yourself Mog?
+[23:04:07]OOC: Yamashiro Sakura/Gunsight1 : bleh
+[23:04:10]OOC: Mog/RequiMog : Welding
+[23:04:17]OOC: Mog/RequiMog : I have no idea where I am
+[23:04:20]OOC: John Mitchell/Zonr_0 : haha, yeah, you need eye protection.
+[23:04:21]SAY: Ian/ : Bark!
+[23:04:39]SAY: mouse/ : Squeek?
+[23:04:41]OOC: Mog/RequiMog : I&#39;m in engineering now
+[23:05:09]OOC: John Mitchell/Zonr_0 : if you can make your way to medbay, I can cure you
+[23:05:24]OOC: Mog/RequiMog : Which way from engineering
+[23:05:48]OOC: John Mitchell/Zonr_0 : uh, north up the hall, then head east until you see the cross sign.
+[23:06:36]OOC: Mog/RequiMog : My sight radius is a 3x3 square
+[23:06:45]SAY: mouse/ : SQUEEK!
+[23:07:06]OOC: Mog/RequiMog : I believe I reached the shuttles
+[23:08:21]OOC: John Mitchell/Zonr_0 : hold still
+[23:08:48]ADMIN: Zonr_0/(John Mitchell) jumped to RequiMog/(Mog)
+[23:08:50]OOC: Freyja/Tanka : sorry
+[23:09:00]OOC: Yamashiro Sakura/Gunsight1 : sooooo lost access to almost the entire station
+[23:09:05]OOC: Mog/RequiMog : I made it!
+[23:09:16]OOC: Mog/RequiMog : I used a map from the wiki
+[23:09:22]SAY: John Mitchell/Zonr_0 : can you see now?
+[23:09:30]SAY: Mog/RequiMog : no
+[23:10:06]SAY: John Mitchell/Zonr_0 : how about now?
+[23:10:12]SAY: Mog/RequiMog : nope
+[23:10:14]OOC: Yamashiro Sakura/Gunsight1 : anyone have a flashlight?
+[23:10:18]SAY: Pete/ : eh?
+[23:10:21]SAY: John Mitchell/Zonr_0 : well, the power is starting to go out too
+[23:10:27]SAY: John Mitchell/Zonr_0 : but let me find a medical scanner
+[23:10:35]SAY: mouse/ : Squeek!
+[23:10:39]SAY: Poly/ : Poly wanna cracker!
+[23:10:51]SAY: Mog/RequiMog : goddamn bird
+[23:11:03]SAY: John Mitchell/Zonr_0 : it&#39;s probably just the power, let me fnish getting the solars up
+[23:11:14]SAY: Mog/RequiMog : kk
+[23:11:19]OOC: Yamashiro Sakura/Gunsight1 : oh come on
+[23:11:29]SAY: mouse/ : SQUEEK!
+[23:11:35]OOC: John Mitchell/Zonr_0 : haha, what?
+[23:11:50]OOC: Yamashiro Sakura/Gunsight1 : tankas being a troll
+[23:12:42]SAY: Mog/RequiMog : ow.
+[23:13:03]SAY: Freyja/Tanka : I HOLD EL POWERS OLE!
+[23:13:03]OOC: Yamashiro Sakura/Gunsight1 : uh is the station loosing power? its all dark
+[23:13:10]OOC: John Mitchell/Zonr_0 : yes
+[23:13:17]OOC: Yamashiro Sakura/Gunsight1 : peachy
+[23:13:20]SAY: mouse/ : Squeek!
+[23:13:23]OOC: Freyja/Tanka : whys?
+[23:13:25]OOC: John Mitchell/Zonr_0 : I didn&#39;t start the egnine
+[23:13:28]OOC: Yamashiro Sakura/Gunsight1 : I only have access to this one hallway now...
+[23:14:16]OOC: Yamashiro Sakura/Gunsight1 : also due to continued beatings from tanka Im almost dead and cannot get back into medical
+[23:14:21]OOC: John Mitchell/Zonr_0 : did you put your ID back in your ID slot?
+[23:14:27]OOC: Yamashiro Sakura/Gunsight1 : yes
+[23:14:55]SAY: Mog/RequiMog : Uh?
+[23:15:19]GAME: Explosion with size (3, 5, 7) in area Arrivals North Maintenance 
+[23:15:22]ACCESS: Logout: *no key*/(John Mitchell)
+[23:15:22]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[23:15:36]OOC: John Mitchell/Zonr_0 : alright going to reset things.
+[23:15:40]OOC: John Mitchell/Zonr_0 : after blowing things up
+[23:16:14]GAME: Explosion with size (3, 5, 7) in area Medbay 
+[23:16:16]ACCESS: Logout: *no key*/(Freyja)
+[23:16:16]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:16:16]ACCESS: Logout: *no key*/(Yamashiro Sakura)
+[23:16:16]ACCESS: Login: Gunsight1/(Yamashiro Sakura) from 75.36.133.159-3568745376 || BYOND v498
+[23:16:27]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[23:16:27]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[23:16:27]ACCESS: Logout: Tanka[DC]/(Freyja)
+[23:16:27]ACCESS: Logout: RequiMog[DC]/(Mog)
+[23:16:27]ACCESS: Logout: Gunsight1[DC]/(Yamashiro Sakura)
+
+
+Starting up. 23:16.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[23:16:43]ADMIN: Loading Banlistjob
+[23:16:43]ADMIN: Loading jobban_rank
+[23:16:43]ADMIN: jobban_keylist was empty
+[23:16:43]ADMIN: Loading appearance_rank
+[23:16:43]ADMIN: appearance_keylist was empty
+[23:16:43]ADMIN: Updating jobbanfile!
+[23:16:43]ADMIN: Loading Banlist
+[23:17:10]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[23:17:10]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[23:17:14]ACCESS: Login: Gunsight1/(Gunsight1) from 75.36.133.159-3568745376 || BYOND v498
+[23:17:47]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[23:18:20]ACCESS: Logout: *no key*/(Tanka)
+[23:18:20]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:18:21]ACCESS: Logout: *no key*/(Gunsight1)
+[23:18:21]ACCESS: Login: Gunsight1/(Yamashiro Sakura) from 75.36.133.159-3568745376 || BYOND v498
+[23:18:21]ACCESS: Logout: *no key*/(RequiMog)
+[23:18:21]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[23:18:27]SAY: mouse/ : Squeek?
+[23:18:42]OOC: Yamashiro Sakura/Gunsight1 : oh win
+[23:18:55]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[23:19:02]OOC: Mog/RequiMog : So I&#39;m head of personnel
+[23:19:14]SAY: mouse/ : SQUEEK!
+[23:19:21]ACCESS: Login: DeepPinkPockets/(DeepPinkPockets) from 70.95.189.17-1451392164 || BYOND v498
+[23:19:24]SAY: mouse/ : SQUEEK!
+[23:19:27]ACCESS: Logout: *no key*/(DeepPinkPockets)
+[23:19:27]ACCESS: Login: DeepPinkPockets/(Gage Murray) from 70.95.189.17-1451392164 || BYOND v498
+[23:19:40]ACCESS: Logout: DeepPinkPockets[DC]/(Gage Murray)
+[23:20:39]ACCESS: Logout: *no key*/(Zonr_0)
+[23:20:39]ACCESS: Login: Zonr_0/(Bubble) from 192.168.1.11-3070003764 || BYOND v498
+[23:22:04]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[23:23:27]SAY: mouse/ : Squeek?
+[23:23:35]SAY: Poly/ : Wire the solars, you lazy bums!
+[23:23:40]SAY: mouse/ : Squeek?
+[23:25:13]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[23:26:00]SAY: Tom/ : Squeek!
+[23:26:17]SAY: Urist McBubbleStone/Zonr_0 : HONK
+[23:26:44]SAY: mouse/ : Squeek!
+[23:26:52]SAY: Pete/ : EHEHEHEHEH
+[23:26:56]SAY: Ian/ : Bark!
+[23:28:41]ACCESS: Logout: *no key*/(Agarre17664)
+[23:28:41]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[23:28:56]SAY: mouse/ : Squeek!
+[23:29:02]SAY: Mog/RequiMog : ???
+[23:29:09]SAY: Tom/ : Squeek!
+[23:29:28]SAY: Urist McBubbleStone/Zonr_0 : Rude!
+[23:29:35]SAY: mouse/ : SQUEEK!
+[23:30:05]SAY: Mog/RequiMog : I&#39;m not sure what to do
+[23:30:17]SAY: mouse/ : Squeek!
+[23:30:26]SAY: Urist McBubbleStone/Zonr_0 : In a normal round
+[23:30:44]SAY: Urist McBubbleStone/Zonr_0 : a few people on the station spawn as some form of traitor.
+[23:30:50]SAY: Urist McBubbleStone/Zonr_0 : or antagonist
+[23:30:56]SAY: Mog/RequiMog : mm.
+[23:31:18]SAY: Urist McBubbleStone/Zonr_0 : and they have specific goals to accomplish that ussually involve killing people
+[23:31:27]ADMIN: Zonr_0/(Urist McBubbleStone) made all areas powered
+[23:31:30]ADMIN: Zonr_0/(Urist McBubbleStone) used secret power
+[23:31:30]SAY: Mog/RequiMog : got it
+[23:32:31]SAY: Tom/ : Squeek!
+[23:32:35]SAY: mouse/ : Squeek!
+[23:32:47]SAY: Ira Ramirez/Agarre17664 : Hey guys
+[23:33:07]SAY: Mog/RequiMog : hai
+[23:33:20]EMOTE: Freyja/Tanka : <B>Freyja</B> gasps!
+[23:33:47]EMOTE: Freyja/Tanka : <B>Freyja</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:34:03]ADMIN: Zonr_0/(Urist McBubbleStone) has alienized Agarre17664.
+[23:34:03]ADMIN: Zonr_0/(Urist McBubbleStone) made Agarre17664/(Ira Ramirez) into an alien.
+[23:34:04]ACCESS: Logout: *no key*/(Ira Ramirez)
+[23:34:04]ACCESS: Login: Agarre17664/(alien hunter (943)) from 108.93.220.247-3644641028 || BYOND v495
+[23:34:22]SAY: alien hunter (943)/Agarre17664 : Hey man
+[23:34:45]OOC: Freyja/Tanka : for her crimes Freyja was airlocked
+[23:35:13]SAY: alien hunter (943)/Agarre17664 : Hey, thisssss isss your new captiiiian
+[23:35:33]SAY: alien hunter (943)/Agarre17664 : come to the air locks so I can eat you
+[23:35:37]SAY: alien hunter (943)/Agarre17664 : I mean meet you
+[23:36:06]SAY: alien hunter (943)/Agarre17664 : Did you get my revolved?
+[23:36:08]SAY: alien hunter (943)/Agarre17664 : Hey chill
+[23:36:12]SAY: alien hunter (943)/Agarre17664 : Chill mog
+[23:37:30]SAY: Gunsight1/(Yamashiro Sakura) has made a Centcomm announcement: Gah
+[23:37:46]ACCESS: Logout: *no key*/(Urist McBubbleStone)
+[23:37:46]ACCESS: Login: Zonr_0/(Urist McBubbleStone) from 192.168.1.11-3070003764 || BYOND v498
+[23:38:35]OOC: Urist McBubbleStone/Zonr_0 : haha, oh dear
+[23:38:44]EMOTE: Mog/RequiMog : <B>Mog</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:38:50]OOC: Mog/RequiMog : That alien came out fo nowhere
+[23:39:00]OOC: Urist McBubbleStone/Zonr_0 : yeah, that&#39;s Ira
+[23:39:01]OOC: Yamashiro Sakura/Gunsight1 : peachy
+[23:39:05]OOC: Mog/RequiMog : And I am out of oxygen somehow
+[23:39:36]ADMIN: Zonr_0/(Urist McBubbleStone) jumped to RequiMog/(Mog)
+[23:39:56]OOC: alien hunter (943)/Agarre17664 : bitch
+[23:40:01]SAY: mouse/ : Squeek?
+[23:40:07]GAME: Gunsight1/(Yamashiro Sakura) has called the shuttle.
+[23:40:25]GAME: Explosion with size (-1, 0, 2) in area Engineering 
+[23:40:26]GAME: Explosion with size (-1, 0, 2) in area Engineering Maintenance 
+[23:41:06]OOC: Urist McBubbleStone/Zonr_0 : how is the lag by the way?
+[23:41:14]OOC: Yamashiro Sakura/Gunsight1 : not bad
+[23:41:16]OOC: Urist McBubbleStone/Zonr_0 : this is just hosted on my personal computer, heh
+[23:41:32]SAY: mouse/ : Squeek?
+[23:41:38]OOC: Urist McBubbleStone/Zonr_0 : but it&#39;s also only like 5 people, so the load isn&#39;t much.
+[23:41:43]OOC: Mog/RequiMog : I&#39;m deader than a duck
+[23:42:16]OOC: Mog/RequiMog : Can I have a respawn :P
+[23:42:18]SAY: Ian/ : Woof!
+[23:42:33]ACCESS: Logout: Tanka[DC]/(Freyja)
+[23:42:39]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:42:57]SAY: alien hunter (943)/Agarre17664 : Thats wha you get for shooting me!
+[23:43:07]SAY: mouse/ : SQUEEK!
+[23:43:27]ACCESS: Logout: *no key*/(Freyja)
+[23:43:27]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:43:34]OOC: Urist McBubbleStone/Zonr_0 : I can&#39;t clone you, I ghosted myself.
+[23:43:45]OOC: Urist McBubbleStone/Zonr_0 : and if there&#39;s an admin command for raising the dead, I can&#39;t find it.
+[23:43:55]OOC: Urist McBubbleStone/Zonr_0 : (though there probably is one somewhere)
+[23:44:05]OOC: Mog/RequiMog : OOc respawn?
+[23:44:40]OOC: Urist McBubbleStone/Zonr_0 : doesn&#39;t do anything on my end
+[23:44:52]OOC: Mog/RequiMog : hm
+[23:45:01]OOC: alien hunter (943)/Agarre17664 : now I feel bad
+[23:45:09]SAY: alien hunter (943)/Agarre17664 : Wait!
+[23:45:46]ADMIN: Zonr_0/(Urist McBubbleStone) jumped to RequiMog/(Mog)
+[23:46:04]OOC: Mog/RequiMog : is anybody evem alive?
+[23:46:28]OOC: Freyja/Tanka : gunsight is
+[23:46:33]OOC: Urist McBubbleStone/Zonr_0 : right. restart time it is then :P
+[23:46:38]OOC: Yamashiro Sakura/Gunsight1 : lol
+[23:46:41]OOC: alien hunter (943)/Agarre17664 : chill
+[23:46:46]SAY: alien hunter (943)/Agarre17664 : ooc imma res him
+[23:47:03]ADMIN: Zonr_0/(Urist McBubbleStone) has possessed Medbay (/obj/machinery/door/airlock/glass_medical) at (140, 121, 1)
+[23:48:06]SAY: alien hunter (943)/Agarre17664 : ooc imma res him
+[23:48:10]SAY: mouse/ : Squeek!
+[23:49:16]EMOTE: Yamashiro Sakura/Gunsight1 : <B>Yamashiro Sakura</B> gasps!
+[23:49:46]OOC: alien hunter (943)/Agarre17664 : well.
+[23:50:05]OOC: alien hunter (943)/Agarre17664 : I have no clue where the cloner is
+[23:50:17]OOC: Urist McBubbleStone/Zonr_0 : you have very efficiently spread blood throughout the entire bay
+[23:50:27]SAY: alien hunter (943)/Agarre17664 : Yes I have
+[23:50:38]SAY: alien hunter (943)/Agarre17664 : I have also did a total epic beast kill
+[23:50:42]ADMIN: Zonr_0/(Urist McBubbleStone) healed / Revived RequiMog/(Mog)
+[23:50:50]OOC: Urist McBubbleStone/Zonr_0 : found it!
+[23:50:58]SAY: mouse/ : SQUEEK!
+[23:51:33]ADMIN: Zonr_0/(Urist McBubbleStone) healed / Revived RequiMog/(Mog)
+[23:51:47]OOC: Urist McBubbleStone/Zonr_0 : did that revive you Mog?
+[23:51:52]SAY: Mog/RequiMog : thanks
+[23:51:57]OOC: Mog/RequiMog : yes
+[23:52:14]SAY: Mog/RequiMog : ow
+[23:52:51]SAY: mouse/ : Squeek!
+[23:52:53]SAY: Poly/ : Wire the solars, you lazy bums!
+[23:53:15]OOC: Yamashiro Sakura/Gunsight1 : woooo!!!
+[23:53:16]SAY: Mog/RequiMog : whoops
+[23:53:20]OOC: Mog/RequiMog : welp
+[23:53:27]OOC: Mog/RequiMog : I need to open that vault
+[23:53:55]ADMIN: Zonr_0/(Urist McBubbleStone) toggled respawn to On.
+[23:54:15]OOC: Yamashiro Sakura/Gunsight1 : says I may now respawn?
+[23:54:15]GAME: Freyja/Tanka used abandon mob.
+[23:54:15]ACCESS: Logout: *no key*/(Freyja)
+[23:54:15]ACCESS: Login: Tanka/(new player) from 24.113.74.218-2284255718 || BYOND v498
+[23:54:25]OOC: Urist McBubbleStone/Zonr_0 : I found a thing.
+[23:54:34]ACCESS: Logout: *no key*/(new player)
+[23:54:34]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:55:07]ADMIN: Zonr_0/(Urist McBubbleStone) used secret showgm
+[23:55:08]GAME: Antagonists at round end were...
+[23:55:08]GAME: Hunters: alien hunter (943)(Agarre17664).
+[23:55:16]ADMIN: Zonr_0/(Urist McBubbleStone) used secret clear_virus
+[23:55:21]ADMIN: Zonr_0/(Urist McBubbleStone) used secret DNA
+[23:55:32]SAY: mouse/ : Squeek!
+[23:55:37]ACCESS: Logout: Zonr_0[DC]/(Urist McBubbleStone)
+[23:55:37]ACCESS: Logout: Tanka[DC]/(Freyja)
+[23:55:37]ACCESS: Logout: Gunsight1[DC]/(Yamashiro Sakura)
+[23:55:37]ACCESS: Logout: RequiMog[DC]/(Mog)
+[23:55:37]ACCESS: Logout: Agarre17664[DC]/(alien hunter (943))
+
+
+Starting up. 23:55.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[23:55:53]ADMIN: Loading Banlistjob
+[23:55:53]ADMIN: Loading jobban_rank
+[23:55:53]ADMIN: jobban_keylist was empty
+[23:55:53]ADMIN: Loading appearance_rank
+[23:55:53]ADMIN: appearance_keylist was empty
+[23:55:53]ADMIN: Updating jobbanfile!
+[23:55:53]ADMIN: Loading Banlist
+[23:56:01]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[23:56:01]ACCESS: Login: Gunsight1/(Gunsight1) from 75.36.133.159-3568745376 || BYOND v498
+[23:56:01]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[23:56:21]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[23:57:30]ACCESS: Logout: *no key*/(Gunsight1)
+[23:57:30]ACCESS: Login: Gunsight1/(Yamashiro Sakura) from 75.36.133.159-3568745376 || BYOND v498
+[23:57:30]ACCESS: Logout: *no key*/(Tanka)
+[23:57:30]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[23:57:30]ACCESS: Logout: *no key*/(RequiMog)
+[23:57:30]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[23:58:30]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[23:58:54]ACCESS: Logout: *no key*/(Zonr_0)
+[23:58:54]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[23:58:59]ACCESS: Logout: *no key*/(Agarre17664)
+[23:58:59]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[23:59:23]SAY: Runtime/ : HSSSSS
+[23:59:57]SAY: Ira Ramirez/Agarre17664 : Uh, who is this?
+[00:00:05]SAY: Ira Ramirez/Agarre17664 : Wrong office doofus
+[00:00:13]SAY: Ira Ramirez/Agarre17664 : Your office is over there
+[00:00:20]SAY: Ira Ramirez/Agarre17664 : Why arey ou going through my things :&lt;
+[00:00:34]SAY: Ira Ramirez/Agarre17664 : WRONG OFFICE
+[00:01:08]ACCESS: Login: Grumps_McGurt/(Grumps_McGurt) from 58.164.17.130-3611451171 || BYOND v498
+[00:01:14]OOC: Ira Ramirez/Agarre17664 : who is freyja
+[00:01:21]OOC: John Mitchell/Zonr_0 : probably Tanka
+[00:01:40]SAY: Ira Ramirez/Agarre17664 : ah
+[00:01:57]SAY: Ira Ramirez/Agarre17664 : Where is everybody located?
+[00:02:19]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[00:02:35]SAY: mouse/ : Squeek!
+[00:02:39]SAY: Ira Ramirez/Agarre17664 : nice
+[00:03:09]SAY: mouse/ : Squeek?
+[00:03:38]GAME: Gunsight1/(Yamashiro Sakura) has changed the security level to green.
+[00:03:48]SAY: mouse/ : Squeek?
+[00:03:54]SAY: Gunsight1/(Yamashiro Sakura) has made a captain announcement: Wheres the beef?
+[00:04:17]SAY: mouse/ : Squeek!
+[00:04:34]ACCESS: Logout: *no key*/(Grumps_McGurt)
+[00:04:34]ACCESS: Login: Grumps_McGurt/(Jim Hennessey) from 58.164.17.130-3611451171 || BYOND v498
+[00:04:50]SAY: mouse/ : SQUEEK!
+[00:04:52]SAY: Jim Hennessey/Grumps_McGurt : : I am the law.
+[00:05:00]SAY: Jim Hennessey/Grumps_McGurt :  I am the law
+[00:05:05]SAY: Ira Ramirez/Agarre17664 : ooc hey go ahead and xenomorph me
+[00:05:13]SAY: Ira Ramirez/Agarre17664 : ooc hey Zonr_0 goahead an xeno me
+[00:05:13]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[00:05:33]OOC: John Mitchell/Zonr_0 : k
+[00:05:35]SAY: Jim Hennessey/Grumps_McGurt : : Also, has someone forgotten to switch the engine on or something?
+[00:05:36]PRAY: Agarre17664/(Ira Ramirez): oh great an amazing god, please make me a xeno
+[00:05:41]SAY: mouse/ : Squeek!
+[00:05:56]SAY: Jim Hennessey/Grumps_McGurt :  Also, has someone forgotten to switch the engine on or something?
+[00:06:04]ADMIN: Zonr_0/(John Mitchell) jumped to Agarre17664/(Ira Ramirez)
+[00:06:19]OOC: Ira Ramirez/Agarre17664 : life cycle me though
+[00:06:23]SAY: mouse/ : Squeek!
+[00:06:23]ADMIN: Zonr_0/(John Mitchell) has alienized Agarre17664.
+[00:06:23]ADMIN: Zonr_0/(John Mitchell) made Agarre17664/(Ira Ramirez) into an alien.
+[00:06:24]ACCESS: Logout: *no key*/(Ira Ramirez)
+[00:06:24]ACCESS: Login: Agarre17664/(alien drone (53)) from 108.93.220.247-3644641028 || BYOND v495
+[00:06:33]SAY: Tom/ : Squeek?
+[00:06:43]SAY: Jim Hennessey/Grumps_McGurt : &#39;sup.
+[00:07:07]SAY: mouse/ : Squeek?
+[00:07:25]SAY: Tom/ : Squeek!
+[00:07:36]SAY: mouse/ : Squeek?
+[00:08:12]OOC: John Mitchell/Zonr_0 : by the way, I&#39;m semi-AFK.
+[00:08:23]GAME: Gunsight1/(Yamashiro Sakura) has changed the security level to blue.
+[00:08:35]SAY: Gunsight1/(Yamashiro Sakura) has made a captain announcement: I have the nuclear codes...
+[00:08:39]SAY: Pete/ : EHEHEHEHEH
+[00:08:46]OOC: Mog/RequiMog : lolwhut
+[00:08:47]SAY: mouse/ : Squeek?
+[00:09:30]OOC: Yamashiro Sakura/Gunsight1 : thats right
+[00:10:00]OOC: John Mitchell/Zonr_0 : so, if I&#39;m reading the server config right
+[00:10:06]OOC: Yamashiro Sakura/Gunsight1 : ok
+[00:10:23]SAY: Jim Hennessey/Grumps_McGurt :  With this Security Beret, I cease being Jim Hennessey, and become...The Law.
+[00:10:29]OOC: John Mitchell/Zonr_0 : if somebody picks elligability for a traitor role at round prep, then it&#39;ll switch from extended.
+[00:10:56]SAY: Jim Hennessey/Grumps_McGurt :  Now to find the HoP to make make it official...
+[00:11:21]SAY: Tom/ : Squeek!
+[00:11:33]SAY: Mog/RequiMog : Heyo.
+[00:11:46]SAY: Jim Hennessey/Grumps_McGurt : Go about your daily routines, ple-uh, Citizen.
+[00:11:56]SAY: mouse/ : Squeek?
+[00:11:57]SAY: Mog/RequiMog : freak
+[00:12:52]SAY: mouse/ : SQUEEK!
+[00:13:03]SAY: Jim Hennessey/Grumps_McGurt : The Law has arrived at assigned department in Science.
+[00:13:57]SAY: Mog/RequiMog : uh
+[00:15:11]SAY: Jim Hennessey/Grumps_McGurt : The Law is going off net temporarily while adjusting radio equipment.
+[00:15:12]ACCESS: Logout: *no key*/(alien drone (53))
+[00:15:12]ACCESS: Login: Agarre17664/(alien queen) from 108.93.220.247-3644641028 || BYOND v495
+[00:15:55]SAY: Tom/ : SQUEEK!
+[00:16:02]SAY: Jim Hennessey/Grumps_McGurt : The Law needs radio check.
+[00:16:33]SAY: Jim Hennessey/Grumps_McGurt : The Law needs radio check
+[00:17:03]SAY: Jim Hennessey/Grumps_McGurt : The Law needs radio check.
+[00:18:59]SAY: mouse/ : Squeek?
+[00:19:56]SAY: Gunsight1/(Yamashiro Sakura) has made a captain announcement: Alert: Southern section of the station infected
+[00:20:10]SAY: mouse/ : Squeek?
+[00:20:39]SAY: Jim Hennessey/Grumps_McGurt : The Law is responding to reported infection in Southern station
+[00:20:53]SAY: Jim Hennessey/Grumps_McGurt : The Law has made contact!
+[00:20:55]SAY: Runtime/ : HSSSSS
+[00:21:11]SAY: Jim Hennessey/Grumps_McGurt : The Law has made contact, requesting back up and heavy wepons.
+[00:21:19]SAY: Mog/RequiMog : welp
+[00:21:22]SAY: Mog/RequiMog : we&#39;re doomed
+[00:21:26]SAY: Ian/ : Bark!
+[00:21:31]SAY: Mog/RequiMog : unless we can break into engineering
+[00:21:34]SAY: Jim Hennessey/Grumps_McGurt : Any count on how many Tangos?
+[00:21:35]OOC: Yamashiro Sakura/Gunsight1 : whos Jim Hennessey?
+[00:21:41]OOC: alien queen/Agarre17664 : no idea
+[00:21:42]SAY: Mog/RequiMog : nope
+[00:21:52]OOC: Jim Hennessey/Grumps_McGurt : It&#39;s Jimmy. Fool. -,-
+[00:21:52]SAY: Mog/RequiMog : but I killed a sac with a saw
+[00:22:00]SAY: Jim Hennessey/Grumps_McGurt : Good man.
+[00:22:00]OOC: Yamashiro Sakura/Gunsight1 : ok lol
+[00:22:14]SAY: Mog/RequiMog : i say we bust open the armory
+[00:22:17]SAY: Jim Hennessey/Grumps_McGurt : Any chance we have a QM to call in weapons crates?
+[00:22:25]SAY: Mog/RequiMog : warden&#39;s dead
+[00:22:32]SAY: alien queen/Agarre17664 : So, who is grumps?
+[00:22:39]SAY: alien queen/Agarre17664 : ooc so who is grumps
+[00:22:44]SAY: mouse/ : SQUEEK!
+[00:22:51]SAY: Jim Hennessey/Grumps_McGurt : No wonder the Security comms weren&#39;t working...
+[00:22:56]OOC: alien queen/Agarre17664 : is anybody willing to be a test subject of mine?
+[00:23:17]SAY: Ian/ : Woof!
+[00:23:39]SAY: Freyja/Tanka : call the shuttle
+[00:23:53]SAY: Yamashiro Sakura/Gunsight1 : nah we got this
+[00:24:06]SAY: Mog/RequiMog : I don&#39;t have access. I&#39;m just a doctor.
+[00:24:27]SAY: Jim Hennessey/Grumps_McGurt : I don&#39;t either, I&#39;m just a security officer.
+[00:24:28]SAY: Mog/RequiMog : if we had a full set of tools, i could get in
+[00:24:49]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[00:25:49]SAY: Ian/ : Bark!
+[00:26:03]SAY: Mog/RequiMog : so then, toolkit?
+[00:26:04]SAY: Jim Hennessey/Grumps_McGurt : I&#39;ve grabbed some more medical supplies.
+[00:26:11]SAY: Mog/RequiMog : I have ALL of the meds
+[00:26:50]SAY: Jim Hennessey/Grumps_McGurt : Nadda
+[00:27:16]SAY: Mog/RequiMog : now we have to get out.
+[00:28:24]SAY: mouse/ : Squeek!
+[00:28:24]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:29:20]SAY: alien queen/Agarre17664 : Duuuude
+[00:29:28]SAY: alien queen/Agarre17664 : Relax maaan
+[00:29:36]SAY: alien queen/Agarre17664 : Why you trippin foo?
+[00:29:51]SAY: Pete/ : eh?
+[00:29:53]SAY: mouse/ : Squeek!
+[00:30:22]SAY: Jim Hennessey/Grumps_McGurt : Pfft!
+[00:31:06]SAY: Pete/ : eh?
+[00:31:08]SAY: alien queen/Agarre17664 : Serrle down maaan
+[00:31:11]SAY: alien queen/Agarre17664 : ooc yall chill
+[00:31:14]SAY: Ian/ : AUUUUUU
+[00:31:15]SAY: alien queen/Agarre17664 : ooc yall chill
+[00:31:19]OOC: alien queen/Agarre17664 : yall chill
+[00:31:44]SAY: Mog/RequiMog : I need access
+[00:32:13]SAY: Mog/RequiMog : it won&#39;t breakt hat way
+[00:32:16]SAY: Mog/RequiMog : or
+[00:32:20]SAY: Mog/RequiMog : i guess it will
+[00:32:27]SAY: Jim Hennessey/Grumps_McGurt : I am a professional.
+[00:32:56]SAY: Mog/RequiMog : grab the hardsuit
+[00:33:07]SAY: Jim Hennessey/Grumps_McGurt : Grab the suit
+[00:33:26]SAY: Jim Hennessey/Grumps_McGurt : All I&#39;ve got are weapons against humans.
+[00:33:33]SAY: Jim Hennessey/Grumps_McGurt : Stun shit won&#39;t do much.
+[00:33:45]SAY: Mog/RequiMog : take my riot suit
+[00:34:07]SAY: mouse/ : SQUEEK!
+[00:34:17]OOC: Yamashiro Sakura/Gunsight1 : bridge computers are out...
+[00:35:13]SAY: mouse/ : SQUEEK!
+[00:35:25]SAY: mouse/ : SQUEEK!
+[00:36:11]SAY: Tom/ : SQUEEK!
+[00:36:27]SAY: Runtime/ : Meow!
+[00:36:56]SAY: Jim Hennessey/Grumps_McGurt : Take this tank.
+[00:37:04]SAY: Jim Hennessey/Grumps_McGurt : It&#39;ll last you longer than an emergency one.
+[00:37:35]SAY: Mog/RequiMog : Better hardsuit in here
+[00:37:39]SAY: Poly/ : i guess it will
+[00:38:41]SAY: Runtime/ : Meow!
+[00:39:12]SAY: Mog/RequiMog : i&#39;m going to break into the arms locker now
+[00:39:22]SAY: Mog/RequiMog : stick to radio
+[00:41:32]OOC: Yamashiro Sakura/Gunsight1 : we need to restore main power
+[00:41:44]OOC: Jim Hennessey/Grumps_McGurt : Can&#39;t.
+[00:41:44]OOC: Freyja/Tanka : or die horribly
+[00:41:55]OOC: Yamashiro Sakura/Gunsight1 : why not?
+[00:42:09]OOC: alien queen/Agarre17664 : I can get into engineering
+[00:42:19]OOC: Jim Hennessey/Grumps_McGurt : No engineers to get through the doors to hook up solars, and not enough juice to kick start the Sing even if we could open the doors.
+[00:42:23]OOC: Mog/RequiMog : We just did
+[00:42:32]OOC: Mog/RequiMog : engy&#39;s open
+[00:42:32]SAY: alien queen/Agarre17664 : ooc that sucks
+[00:42:36]SAY: Jim Hennessey/Grumps_McGurt : Different doors.
+[00:42:38]OOC: alien queen/Agarre17664 : that fucking sucks
+[00:42:43]SAY: Jim Hennessey/Grumps_McGurt : Mog, give me the jet boots.
+[00:42:43]OOC: alien queen/Agarre17664 : MY EPIC NEEEEST
+[00:42:55]SAY: Jim Hennessey/Grumps_McGurt : I&#39;ll fly out to the solars and hook them up.
+[00:43:13]SAY: mouse/ : Squeek!
+[00:43:34]SAY: mouse/ : Squeek!
+[00:44:03]SAY: Jim Hennessey/Grumps_McGurt :  Mog, get back here!
+[00:44:10]OOC: alien queen/Agarre17664 : for the record I am not trying top kill any of you
+[00:44:50]SAY: mouse/ : SQUEEK!
+[00:47:56]SAY: Tom/ : Squeek?
+[00:49:51]OOC: Mog/RequiMog : Welp, that was pointless
+[00:50:04]OOC: Jim Hennessey/Grumps_McGurt : Welp, I&#39;m fucked.
+[00:50:20]OOC: Jim Hennessey/Grumps_McGurt : Thanks for not hanging around and not giving me the jet boots, Mog.
+[00:50:36]OOC: Jim Hennessey/Grumps_McGurt : I&#39;ll go live on the other station for a while when I finally drift into it.
+[00:50:57]OOC: alien queen/Agarre17664 : how do I get there jimmy?
+[00:51:23]OOC: Mog/RequiMog : I never got jetboots
+[00:51:29]OOC: Mog/RequiMog : I got magboots
+[00:51:45]SAY: mouse/ : Squeek!
+[00:51:45]SAY: mouse/ : Squeek!
+[00:51:48]OOC: Jim Hennessey/Grumps_McGurt : Whatever, they would have made the space walk much easier.
+[00:52:06]OOC: Mog/RequiMog : there wasn&#39;t ione with the fancy isaac hardsuit
+[00:52:07]OOC: alien queen/Agarre17664 : you should have grabbed a fire extinguisher
+[00:52:10]OOC: Mog/RequiMog : ?
+[00:52:57]SAY: mouse/ : Squeek!
+[00:53:59]SAY: mouse/ : Squeek?
+[00:54:21]OOC: Mog/RequiMog : medkits aren&#39;t working for me, I can&#39;t open them
+[00:55:35]OOC: Yamashiro Sakura/Gunsight1 : how do you eat?
+[00:55:51]OOC: alien queen/Agarre17664 : touch your self with the food
+[00:55:57]SAY: alien queen/Agarre17664 : ooc litirally
+[00:56:05]OOC: alien queen/Agarre17664 : litirally
+[00:56:21]OOC: Yamashiro Sakura/Gunsight1 : not working, just saying I attacked myself with it
+[00:56:26]PRAY: Agarre17664/(alien queen): we need you Zon_r
+[00:56:36]ADMIN: HELP: Agarre17664/(alien queen): zonr_0 - heard by 0 non-AFK admins.
+[00:58:10]SAY: mouse/ : Squeek?
+[00:58:33]OOC: Yamashiro Sakura/Gunsight1 : erh aliens are loose
+[00:58:41]SAY: mouse/ : Squeek?
+[01:00:18]SAY: mouse/ : SQUEEK!
+[01:00:48]OOC: Jim Hennessey/Grumps_McGurt : Make sure you&#39;re on HELP mode
+[01:00:54]OOC: Mog/RequiMog : I wasted my time
+[01:01:05]OOC: Mog/RequiMog : there aren&#39;t any weapons in the armory
+[01:04:52]OOC: John Mitchell/Zonr_0 : jesus christ, what did you guys do to the station?
+[01:05:05]OOC: Yamashiro Sakura/Gunsight1 : donno it just happened
+[01:05:06]OOC: alien queen/Agarre17664 : hey if you wanna restart I&#39;d lkike to learn AI
+[01:05:31]OOC: alien queen/Agarre17664 : I did everything I can do here, even face raping punpun
+[01:05:33]OOC: John Mitchell/Zonr_0 : alright, I&#39;ll reboot
+[01:05:38]SAY: Pete/ : EHEHEHEHEH
+[01:05:42]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[01:05:42]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[01:05:42]ACCESS: Logout: Gunsight1[DC]/(Yamashiro Sakura)
+[01:05:42]ACCESS: Logout: Tanka[DC]/(Freyja)
+[01:05:42]ACCESS: Logout: RequiMog[DC]/(Mog)
+[01:05:42]ACCESS: Logout: Grumps_McGurt[DC]/(Jim Hennessey)
+[01:05:42]ACCESS: Logout: Agarre17664[DC]/(alien queen)

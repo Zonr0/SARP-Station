@@ -1,0 +1,1260 @@
+
+
+Starting up. 01:06.00
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[01:06:00]ADMIN: Loading Banlistjob
+[01:06:00]ADMIN: Loading jobban_rank
+[01:06:00]ADMIN: jobban_keylist was empty
+[01:06:00]ADMIN: Loading appearance_rank
+[01:06:00]ADMIN: appearance_keylist was empty
+[01:06:00]ADMIN: Updating jobbanfile!
+[01:06:00]ADMIN: Loading Banlist
+[01:06:31]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[01:06:32]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[01:07:34]ACCESS: Logout: *no key*/(Zonr_0)
+[01:07:34]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[01:07:37]ACCESS: Logout: *no key*/(RequiMog)
+[01:07:37]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[01:07:51]OOC: Mog/RequiMog : aw, balls
+[01:07:57]OOC: Mog/RequiMog : I&#39;m the chef
+[01:08:40]ACCESS: Login: Grumps_McGurt/(Grumps_McGurt) from 58.164.17.130-3611451171 || BYOND v498
+[01:09:37]ACCESS: Logout: *no key*/(Grumps_McGurt)
+[01:09:37]ACCESS: Login: Grumps_McGurt/(Jim Hennessey) from 58.164.17.130-3611451171 || BYOND v498
+[01:09:54]SAY: mouse/ : SQUEEK!
+[01:09:57]ACCESS: Login: Centurion0507/(Centurion0507) from 137.100.97.11-175961113 || BYOND v498
+[01:10:18]ACCESS: Logout: Centurion0507[DC]/(Centurion0507)
+[01:10:25]SAY: Ian/ : AUUUUUU
+[01:10:34]SAY: Jim Hennessey/Grumps_McGurt : Fuck off
+[01:10:39]SAY: Mog/RequiMog : I&#39;m a chef!
+[01:10:43]ACCESS: Login: Centurion0507/(Centurion0507) from 137.100.97.11-175961113 || BYOND v498
+[01:10:43]SAY: Mog/RequiMog : I can&#39;t do jack shit!
+[01:10:50]SAY: Jim Hennessey/Grumps_McGurt : Yeah, and I&#39;m the Cheif.
+[01:11:13]ACCESS: Logout: *no key*/(Centurion0507)
+[01:11:13]ACCESS: Login: Centurion0507/(Frank West) from 137.100.97.11-175961113 || BYOND v498
+[01:11:39]SAY: mouse/ : SQUEEK!
+[01:12:18]SAY: mouse/ : Squeek!
+[01:13:06]SAY: mouse/ : Squeek!
+[01:13:10]SAY: Frank West/Centurion0507 : II have no idea what I&#39;m doing
+[01:13:41]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:14:10]SAY: mouse/ : SQUEEK!
+[01:14:18]SAY: mouse/ : Squeek?
+[01:14:50]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[01:15:51]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/beach_ball
+[01:15:53]SAY: mouse/ : Squeek!
+[01:15:56]SAY: Jim Hennessey/Grumps_McGurt : Imma slice the fuck outta you!
+[01:17:01]SAY: Tom/ : SQUEEK!
+[01:18:07]SAY: Runtime/ : Purr!
+[01:18:13]SAY: mouse/ : SQUEEK!
+[01:18:54]ACCESS: Logout: *no key*/(Agarre17664)
+[01:18:54]ACCESS: Login: Agarre17664/(Jacqueline Hanford) from 108.93.220.247-3644641028 || BYOND v495
+[01:19:36]OOC: Jacqueline Hanford/Agarre17664 : AI ME UP
+[01:22:00]SAY: mouse/ : Squeek!
+[01:22:33]OOC: John Mitchell/Zonr_0 : oh, sorry, I figured you would have just taken the AI job at round start
+[01:22:59]ADMIN: Zonr_0/(John Mitchell) AIized Agarre17664/(Jacqueline Hanford)
+[01:22:59]ACCESS: Logout: *no key*/(Jacqueline Hanford)
+[01:22:59]ACCESS: Login: Agarre17664/(Box) from 108.93.220.247-3644641028 || BYOND v495
+[01:23:04]SAY: Jim Hennessey/Grumps_McGurt : Motherfucking beautiful wiring by moi.
+[01:23:27]SAY: I.R.A/Agarre17664 : Indeed
+[01:23:33]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:23:45]SAY: Jim Hennessey/Grumps_McGurt : Motherfucking power on.
+[01:23:48]SAY: mouse/ : Squeek!
+[01:24:02]SAY: I.R.A/Agarre17664 : JIMMY YOU NEED TO WORK BETTER
+[01:24:19]SAY: Tom/ : SQUEEK!
+[01:25:40]OOC: Jim Hennessey/Grumps_McGurt : Server&#39;s buggy. Solar Smes isn&#39;t working.
+[01:25:48]SAY: Jim Hennessey/Grumps_McGurt : AI STOP FUCKING WITH THE SMES
+[01:25:56]SAY: I.R.A/Agarre17664 : WHAT?
+[01:26:00]SAY: I.R.A/Agarre17664 : ME, NEVER.
+[01:26:43]SAY: I.R.A/Agarre17664 : I LOVE YOU JIM
+[01:27:00]SAY: Runtime/ : Esp!
+[01:27:01]SAY: Jim Hennessey/Grumps_McGurt : FUCKING RIGHT!
+[01:27:06]SAY: Frank West/Centurion0507 : Hey Jimmy
+[01:27:36]SAY: Jim Hennessey/Grumps_McGurt : Get outta here, scum!
+[01:28:33]SAY: mouse/ : Squeek!
+[01:29:07]SAY: Jim Hennessey/Grumps_McGurt : Did you just break my station?
+[01:29:14]SAY: Frank West/Centurion0507 : Wasn&#39;t me
+[01:29:26]SAY: Jim Hennessey/Grumps_McGurt : You&#39;re only standing in it!
+[01:29:37]SAY: Frank West/Centurion0507 : shit fell on me
+[01:29:37]SAY: Jim Hennessey/Grumps_McGurt : I&#39;LL BE WATCHING YOU.
+[01:30:05]OOC: I.R.A/Agarre17664 : this is alot like being GOD
+[01:30:22]SAY: mouse/ : SQUEEK!
+[01:31:02]SAY: Frank West/Centurion0507 : I have no idea what I&#39;m doing
+[01:31:23]SAY: I.R.A/Agarre17664 : WHAT ARE YOU DOING MOG
+[01:31:26]SAY: Jim Hennessey/Grumps_McGurt :  AI, Go to South Solar and jiggle the console from Off to Auto again for me.
+[01:31:38]SAY: Jim Hennessey/Grumps_McGurt : DO I HAVE TO CUT A MOTHERFUCKER!?
+[01:31:54]SAY: Jim Hennessey/Grumps_McGurt : BEST NOT BE BREAKING INTO MY ENGINE ROOM MOG!
+[01:32:00]SAY: Jim Hennessey/Grumps_McGurt : BEST NOT BE
+[01:32:04]OOC: John Mitchell/Zonr_0 : people are just dicking around right now Frank
+[01:32:15]SAY: I.R.A/Agarre17664 : revenge
+[01:32:20]SAY: Ian/ : Bark!
+[01:32:22]SAY: I.R.A/Agarre17664 : REVENGE!
+[01:32:24]SAY: Frank West/Centurion0507 : I&#39;m being literal, it&#39;s centurion, never played this game before
+[01:32:39]SAY: mouse/ : Squeek!
+[01:32:49]SAY: I.R.A/Agarre17664 : JIM i CAN NOT GO TO SOUTH SOLAR
+[01:32:57]SAY: I.R.A/Agarre17664 : HA HA HA.
+[01:33:00]SAY: I.R.A/Agarre17664 : MOG GO DOWN
+[01:33:18]SAY: Tom/ : Squeek!
+[01:33:30]SAY: I.R.A/Agarre17664 : ARE YOU SHITTING ME
+[01:34:20]SAY: mouse/ : Squeek?
+[01:34:51]SAY: mouse/ : SQUEEK!
+[01:35:16]SAY: I.R.A/Agarre17664 : JIM
+[01:35:22]SAY: I.R.A/Agarre17664 : MOG IS COMING TO DESTROY ME
+[01:35:26]SAY: I.R.A/Agarre17664 : HE IS JEALOUS OF OUR LOVE
+[01:35:37]SAY: Jim Hennessey/Grumps_McGurt : urn your turrets on.
+[01:35:46]SAY: Jim Hennessey/Grumps_McGurt :  Turn your turrets on.
+[01:35:55]OOC: I.R.A/Agarre17664 : NO REALLY WE LOST POWER AGAIN
+[01:36:15]SAY: I.R.A/Agarre17664 : i DO NOT KNOW WHAT I AM DOING JIM
+[01:36:34]SAY: Runtime/ : Esp!
+[01:36:38]SAY: mouse/ : SQUEEK!
+[01:36:45]SAY: Jim Hennessey/Grumps_McGurt :  Power is not coming from the Solars.
+[01:37:04]SAY: I.R.A/Agarre17664 : WHERE IS IT?
+[01:37:50]OOC: John Mitchell/Zonr_0 : Centurion, need any help with something?
+[01:37:55]SAY: I.R.A/Agarre17664 : OKAY i AM AT THE SOUTH sOLARS
+[01:37:55]SAY: Pete/ : EHEHEHEHEH
+[01:37:57]SAY: mouse/ : Squeek!
+[01:38:07]OOC: Frank West/Centurion0507 : trying to figure out how stuff works
+[01:38:26]OOC: I.R.A/Agarre17664 : ZONR COACH CENTURION ON THE BASICS BRO
+[01:39:10]OOC: John Mitchell/Zonr_0 : alright, have you figured out how the inventory stuff works? More or less?
+[01:39:26]OOC: Frank West/Centurion0507 : more or less I think so
+[01:40:02]OOC: John Mitchell/Zonr_0 : cool. Make sure you really understand the concept of the active hands system, it&#39;s really annoying when you accidently drop or destroy something instead of doing what you want with it, heh.
+[01:41:01]SAY: mouse/ : Squeek!
+[01:41:06]OOC: John Mitchell/Zonr_0 : so, the basic idea in a normal game is that you start with a job
+[01:41:28]OOC: I.R.A/Agarre17664 : HOW THE HELL DO i ACTIVATE MY TURRETS
+[01:41:39]OOC: John Mitchell/Zonr_0 : and you do that job to the best of your abilty until the station goes to hell through some combination of traitors, incompetence, or trolling.
+[01:42:05]OOC: John Mitchell/Zonr_0 : at which point you try to survive until you can escape on the emergency shuttle.
+[01:42:19]SAY: Jim Hennessey/Grumps_McGurt :  Okay, desperate measures, I&#39;m plugging the solars directly into the APC.
+[01:42:24]SAY: I.R.A/Agarre17664 : JIMMY
+[01:42:28]OOC: John Mitchell/Zonr_0 : you might not be able to activate the turrets as the power is running out in the station.
+[01:42:36]SAY: mouse/ : Squeek!
+[01:42:40]OOC: I.R.A/Agarre17664 : THIS IS HORRIBLE
+[01:42:42]SAY: I.R.A/Agarre17664 : JIM
+[01:42:47]SAY: I.R.A/Agarre17664 : i AM GOING TO DIE SOON
+[01:42:49]ACCESS: Logout: Centurion0507[DC]/(Frank West)
+[01:42:56]SAY: I.R.A/Agarre17664 : mY CHERRY BROSSOMS ARE WILLLLLLTING
+[01:42:56]ADMIN: Zonr_0/(John Mitchell) made all SMESs powered
+[01:42:56]ADMIN: Zonr_0/(John Mitchell) used secret quickpower
+[01:43:00]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:43:00]ADMIN: Zonr_0/(John Mitchell) made all areas powered
+[01:43:03]ADMIN: Zonr_0/(John Mitchell) used secret power
+[01:43:16]OOC: John Mitchell/Zonr_0 : *waves the admin magic wand*
+[01:43:21]SAY: I.R.A/Agarre17664 : ROFL
+[01:43:26]SAY: I.R.A/Agarre17664 : OOC ROFL
+[01:43:45]OOC: John Mitchell/Zonr_0 : so anyway,
+[01:44:01]OOC: John Mitchell/Zonr_0 : what you&#39;re doing moment to moment changes drastically depending on what job you are.
+[01:44:39]SAY: Poly/ : Yeah, and I&amp;#39;m the Cheif.
+[01:44:55]OOC: John Mitchell/Zonr_0 : in general, once you get the basic controls down, the assistant is kind of a bad job to play since you generally won&#39;t have much to do.
+[01:45:06]SAY: mouse/ : SQUEEK!
+[01:45:26]OOC: John Mitchell/Zonr_0 : if you haven&#39;t already, you can click the wiki button up top and check out a job guide.
+[01:45:42]SAY: Pete/ : EHEHEHEHEH
+[01:45:48]SAY: Tom/ : Squeek?
+[01:45:57]OOC: John Mitchell/Zonr_0 : you guys mind if I reset so I can slot as captain and show Centurion around?
+[01:46:07]SAY: mouse/ : Squeek?
+[01:46:13]OOC: I.R.A/Agarre17664 : i SAY GO FOR IT
+[01:46:41]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[01:46:41]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[01:46:41]ACCESS: Logout: Grumps_McGurt[DC]/(Jim Hennessey)
+[01:46:41]ACCESS: Logout: RequiMog[DC]/(Mog)
+[01:46:41]ACCESS: Logout: Agarre17664[DC]/(I.R.A)
+
+
+Starting up. 01:46.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[01:46:58]ADMIN: Loading Banlistjob
+[01:46:58]ADMIN: Loading jobban_rank
+[01:46:58]ADMIN: jobban_keylist was empty
+[01:46:58]ADMIN: Loading appearance_rank
+[01:46:58]ADMIN: appearance_keylist was empty
+[01:46:58]ADMIN: Updating jobbanfile!
+[01:46:58]ADMIN: Loading Banlist
+[01:47:03]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[01:47:08]ACCESS: Logout: Zonr_0[DC]/(Zonr_0)
+[01:47:09]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[01:47:58]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[01:48:12]ACCESS: Login: Grumps_McGurt/(Grumps_McGurt) from 58.164.17.130-3611451171 || BYOND v498
+[01:48:35]ACCESS: Logout: *no key*/(Zonr_0)
+[01:48:35]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[01:48:58]SAY: mouse/ : Squeek!
+[01:49:00]ACCESS: Logout: *no key*/(Grumps_McGurt)
+[01:49:00]ACCESS: Login: Grumps_McGurt/(Jim Hennessey) from 58.164.17.130-3611451171 || BYOND v498
+[01:49:25]ACCESS: Logout: *no key*/(RequiMog)
+[01:49:25]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[01:50:06]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:50:48]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[01:51:48]ACCESS: Logout: *no key*/(Agarre17664)
+[01:51:48]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[01:52:44]SAY: Tom/ : Squeek!
+[01:53:50]SAY: Ian/ : Woof!
+[01:54:33]SAY: mouse/ : Squeek?
+[01:54:34]SAY: John Mitchell/Zonr_0 : I have an all access ID for you if you want it.
+[01:55:06]OOC: Mog/RequiMog : I don&#39;t know how to radio, so yes please!
+[01:55:14]SAY: Tom/ : Squeek?
+[01:55:26]OOC: John Mitchell/Zonr_0 : it&#39;s say &#34;;blahblah&#34;
+[01:55:39]SAY: John Mitchell/Zonr_0 : &#34;:h blahblah for department radios.
+[01:55:53]SAY: John Mitchell/Zonr_0 : h:blahbalh
+[01:56:00]SAY: John Mitchell/Zonr_0 : hblah
+[01:56:09]OOC: John Mitchell/Zonr_0 : I lied
+[01:56:26]SAY: John Mitchell/Zonr_0 : test
+[01:56:37]OOC: John Mitchell/Zonr_0 : it&#39;s say &#34;:hblah&#34;
+[01:56:57]SAY: Mog/RequiMog : So, how about now?
+[01:56:58]OOC: John Mitchell/Zonr_0 : where are you Mog?
+[01:57:20]OOC: Mog/RequiMog : engineering
+[01:57:50]SAY: John Mitchell/Zonr_0 : oops.
+[01:57:55]SAY: Mog/RequiMog : thanks
+[01:58:19]OOC: Sandbox 1/RequiMog : Is Ira in yet?
+[01:58:29]SAY: Tom/ : Squeek?
+[02:01:08]SAY: mouse/ : Squeek!
+[02:01:41]SAY: Sandbox 1/RequiMog : it&#39;s dark in here
+[02:01:54]OOC: Ira Ramirez/Agarre17664 : ZONR can you transfer me some Bananium ore?
+[02:02:05]SAY: Ian/ : Bark!
+[02:02:09]OOC: John Mitchell/Zonr_0 : I&#39;m not sure
+[02:03:14]SAY: Ira Ramirez/Agarre17664 : Hello Jon!
+[02:03:18]ACCESS: Login: DeepPinkPockets/(DeepPinkPockets) from 70.95.189.17-1451392164 || BYOND v498
+[02:03:30]SAY: John Mitchell/Zonr_0 : hello, one moment.
+[02:04:00]OOC: John Mitchell/Zonr_0 : so many damn admin commands.
+[02:04:20]ACCESS: Logout: *no key*/(DeepPinkPockets)
+[02:04:20]ACCESS: Login: DeepPinkPockets/(Lister McSister Fister) from 70.95.189.17-1451392164 || BYOND v498
+[02:04:39]SAY: mouse/ : Squeek!
+[02:04:42]SAY: Ira Ramirez/Agarre17664 : I need glass too
+[02:04:44]ACCESS: Login: Glassmirror/(Glassmirror) from 210.187.187.66-237290458 || BYOND v498
+[02:05:20]SAY: mouse/ : Squeek!
+[02:05:24]ACCESS: Logout: *no key*/(John Mitchell)
+[02:05:24]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:05:29]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:05:59]ACCESS: Logout: *no key*/(Glassmirror)
+[02:05:59]ACCESS: Login: Glassmirror/(Fian Vel Steyr) from 210.187.187.66-237290458 || BYOND v498
+[02:06:00]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:06:02]OOC: John Mitchell/Zonr_0 : I know there&#39;s an object spawn command, I used it earlier.
+[02:06:41]SAY: Fian Vel Steyr/Glassmirror : CE why is there no power in the main halls
+[02:06:59]SAY: Lister McSister Fister/DeepPinkPockets : YO FIAN
+[02:07:00]SAY: Fian Vel Steyr/Glassmirror : I need an all access and mech
+[02:07:03]SAY: Lister McSister Fister/DeepPinkPockets : CHECK THIS SHIT OUT
+[02:07:06]SAY: Ira Ramirez/Agarre17664 : Mother of god
+[02:07:06]SAY: Ian/ : YAP
+[02:07:11]GAME: PA Control Computer turned ON by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[02:07:13]GAME: PA Control Computer increased to 1 by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[02:07:15]SAY: Ira Ramirez/Agarre17664 : yo?
+[02:07:19]GAME: PA Control Computer increased to 2 by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[02:07:19]SAY: Fian Vel Steyr/Glassmirror : Mech
+[02:07:21]SAY: Lister McSister Fister/DeepPinkPockets : HEY GUYS
+[02:07:24]SAY: Ira Ramirez/Agarre17664 : I need glass
+[02:07:24]SAY: Fian Vel Steyr/Glassmirror : FER MININ
+[02:07:28]SAY: Lister McSister Fister/DeepPinkPockets : CHECK SOMETHING OUT IT WILL BE SO COOL
+[02:07:29]SAY: Ira Ramirez/Agarre17664 : But I&#39;ll get started
+[02:07:43]SAY: Fian Vel Steyr/Glassmirror : DO YOU EVEN ROBOTICS
+[02:07:44]SAY: Lister McSister Fister/DeepPinkPockets : Fian, come!
+[02:07:50]SAY: Ira Ramirez/Agarre17664 : Yes I do
+[02:08:02]SAY: Lister McSister Fister/DeepPinkPockets : IM LIKE EVANGELION
+[02:08:12]SAY: Jim Hennessey/Grumps_McGurt :  Heavy latecny condition is slowing progress.
+[02:08:19]SAY: Lister McSister Fister/DeepPinkPockets : I KNOWWWW
+[02:08:24]SAY: Lister McSister Fister/DeepPinkPockets : I KNOW IVE LET YOU DOOWWWN
+[02:08:27]SAY: Sandbox 1/RequiMog : I actually don&#39;t know how to wire. I got my degree in engineering from a crackerjack box
+[02:08:29]OOC: John Mitchell/Zonr_0 : somebody just let the singularity loose
+[02:08:30]SAY: Lister McSister Fister/DeepPinkPockets : IVE BEEN A FOOL TO MYSEEEELLLLLLF
+[02:08:38]OOC: Sandbox 1/RequiMog : It was Ira.
+[02:08:39]SAY: mouse/ : Squeek!
+[02:08:41]OOC: Fian Vel Steyr/Glassmirror : JIMMY YOU SUCK
+[02:08:45]OOC: Ira Ramirez/Agarre17664 : Yes blame meh
+[02:08:49]EMOTE: Lister McSister Fister/DeepPinkPockets : <B>Lister McSister Fister</B> gasps!
+[02:08:52]OOC: John Mitchell/Zonr_0 : haha, no worries.
+[02:08:56]OOC: Lister McSister Fister/DeepPinkPockets : SPACE
+[02:09:01]OOC: Lister McSister Fister/DeepPinkPockets : THE FINAL FRONTIER
+[02:09:05]OOC: John Mitchell/Zonr_0 : Damnit, I knew there was an item spawner somewhere.
+[02:09:06]EMOTE: Lister McSister Fister/DeepPinkPockets : <B>Lister McSister Fister</B> seizes up and falls limp, his eyes dead and lifeless...
+[02:09:17]SAY: Ira Ramirez/Agarre17664 : ooc google?
+[02:09:25]OOC: Ira Ramirez/Agarre17664 : google it?
+[02:09:33]SAY: Tom/ : Squeek!
+[02:09:35]OOC: John Mitchell/Zonr_0 : google and SS13 hate each other.
+[02:09:53]SAY: Fian Vel Steyr/Glassmirror : DO YOU EVEN RIPLEY CONTROL AND PERIPHERALS CIRCUITS
+[02:09:58]SAY: Ira Ramirez/Agarre17664 : I need it all
+[02:10:40]GAME: PA Control Computer turned ON by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[02:10:46]ACCESS: Logout: *no key*/(John Mitchell)
+[02:10:46]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:10:55]SAY: Ian/ : Woof!
+[02:11:05]ACCESS: Logout: DeepPinkPockets[DC]/(Lister McSister Fister)
+[02:11:26]GAME: PA Control Computer increased to 2 by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[02:11:29]ACCESS: Logout: *no key*/(John Mitchell)
+[02:11:29]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:11:43]SAY: mouse/ : Squeek?
+[02:12:24]ACCESS: Logout: *no key*/(John Mitchell)
+[02:12:24]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:13:00]SAY: Runtime/ : Purr!
+[02:13:17]SAY: mouse/ : Squeek!
+[02:13:17]SAY: mouse/ : Squeek!
+[02:13:25]SAY: Poly/ : Check the singlo, you chucklefucks!
+[02:13:33]OOC: John Mitchell/Zonr_0 : here it is
+[02:13:50]OOC: Sandbox 1/RequiMog : Where is &#34;here&#34;
+[02:14:06]SAY: Ira Ramirez/Agarre17664 : Oh Awesome
+[02:14:11]SAY: Ira Ramirez/Agarre17664 : I need it all
+[02:14:21]SAY: Ira Ramirez/Agarre17664 : mother boards, metals
+[02:14:24]SAY: Jim Hennessey/Grumps_McGurt : Crew, this is the Chief Engineer speaking. We apoligise for the delay in power, but difficult work conditions slowed down progress.
+[02:14:29]SAY: Ira Ramirez/Agarre17664 : I am gonna go beserk in here
+[02:14:55]SAY: Jim Hennessey/Grumps_McGurt : The current lack of visibility is most likely caused by broken lights from an electrical storm in your area.
+[02:14:55]OOC: John Mitchell/Zonr_0 : I just have to find the right items in a dialogue box that is slower than hell
+[02:15:31]SAY: Jim Hennessey/Grumps_McGurt : Be adivsed, the Janitor and I will begin fixing broken lights as we encounter them. Thank you for your patience.
+[02:16:52]SAY: Tom/ : Squeek?
+[02:17:40]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:41]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:41]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:42]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:43]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:49]OOC: John Mitchell/Zonr_0 : bananium at my feet
+[02:17:49]SAY: mouse/ : SQUEEK!
+[02:17:56]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/clown
+[02:17:57]SAY: mouse/ : Squeek!
+[02:18:06]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/diamond
+[02:18:06]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/diamond
+[02:18:07]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/diamond
+[02:18:11]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/gold
+[02:18:11]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/gold
+[02:18:12]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/gold
+[02:18:16]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/silver
+[02:18:17]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/silver
+[02:18:17]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/silver
+[02:18:18]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/ore/silver
+[02:18:24]SAY: mouse/ : SQUEEK!
+[02:18:35]SAY: Ira Ramirez/Agarre17664 : epic
+[02:18:36]SAY: mouse/ : Squeek!
+[02:18:55]SAY: mouse/ : SQUEEK!
+[02:19:04]SAY: Sandbox 1/RequiMog : I brought a present
+[02:19:10]SAY: Ira Ramirez/Agarre17664 : So...how do I process the ore?
+[02:19:12]SAY: mouse/ : SQUEEK!
+[02:19:26]SAY: John Mitchell/Zonr_0 : that is an excellent question.
+[02:19:32]SAY: mouse/ : SQUEEK!
+[02:19:35]SAY: John Mitchell/Zonr_0 : it might have to be done in mining.
+[02:19:39]SAY: Ira Ramirez/Agarre17664 : hell if their is a processing machine send it on doooown
+[02:19:47]OOC: John Mitchell/Zonr_0 : luckily, I just found where the sheets are
+[02:19:50]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/clown
+[02:19:50]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/clown
+[02:19:51]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/clown
+[02:19:55]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/gold
+[02:19:56]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/gold
+[02:19:56]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/gold
+[02:20:02]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/diamond
+[02:20:03]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/diamond
+[02:20:03]SAY: Ira Ramirez/Agarre17664 : Mog you want a mech?
+[02:20:07]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/silver
+[02:20:08]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/mineral/silver
+[02:20:18]SAY: Sandbox 1/RequiMog : You now have a nuke
+[02:20:20]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/metal
+[02:20:21]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/metal
+[02:20:22]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/metal
+[02:20:23]SAY: Sandbox 1/RequiMog : Mech please.
+[02:20:24]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/plasteel
+[02:20:25]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/plasteel
+[02:20:26]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/stack/sheet/plasteel
+[02:22:01]SAY: Sandbox 1/RequiMog : A nuke, ira.
+[02:22:15]SAY: mouse/ : SQUEEK!
+[02:22:25]SAY: Ira Ramirez/Agarre17664 : Okie dookie
+[02:22:36]SAY: Ira Ramirez/Agarre17664 : Zonr! I need mother boards bro
+[02:22:53]PRAY: Agarre17664/(Ira Ramirez): oh myghty god, How I wish for some mother boards and shit for the mechs
+[02:24:19]SAY: Runtime/ : Esp!
+[02:24:49]SAY: Pete/ : eh?
+[02:25:36]SAY: Tom/ : Squeek?
+[02:25:41]SAY: mouse/ : Squeek!
+[02:25:43]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/circuitboard/robotics
+[02:25:44]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/circuitboard/robotics
+[02:25:56]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/circuitboard/mecha_control
+[02:25:57]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/circuitboard/mecha_control
+[02:26:06]SAY: Ira Ramirez/Agarre17664 : WTF
+[02:26:15]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/circuitboard
+[02:26:40]ADMIN: SubtlePM: Zonr_0/(John Mitchell) -> Agarre17664/(Ira Ramirez) : I have no idea what you need
+[02:27:02]SAY: Jim Hennessey/Grumps_McGurt :  Captain, please order a crate of spare lightbulbs from the QM&#39;s office.
+[02:27:10]PRAY: Agarre17664/(Ira Ramirez): I am trying to figurei t out, I am having ss13 wiki fial and mog is annoying me
+[02:27:15]SAY: Pete/ : EHEHEHEHEH
+[02:27:26]SAY: Jim Hennessey/Grumps_McGurt :  Captain, please order a crate of lightbulbs from the Cargo Hold.
+[02:27:27]SAY: mouse/ : Squeek?
+[02:28:07]SAY: Ira Ramirez/Agarre17664 : FUCK!
+[02:28:13]SAY: Ira Ramirez/Agarre17664 : This game seriously needs a goddamned wiki
+[02:28:27]SAY: Sandbox 1/RequiMog : there is
+[02:28:38]SAY: Sandbox 1/RequiMog : http://wiki.nanotrasen.com/index.php?title=Main_Page
+[02:28:44]SAY: Ian/ : Bark!
+[02:28:48]SAY: Ira Ramirez/Agarre17664 : say ah hell
+[02:28:53]SAY: Sandbox 1/RequiMog : also, i will activate this nuke in the next five mintues
+[02:29:05]SAY: Ira Ramirez/Agarre17664 : or it
+[02:29:06]SAY: mouse/ : SQUEEK!
+[02:29:08]SAY: Ira Ramirez/Agarre17664 : go for it
+[02:29:25]SAY: mouse/ : Squeek!
+[02:29:26]PRAY: Agarre17664/(Ira Ramirez): I wish for mog to suffer a seizure
+[02:30:53]SAY: Sandbox 1/RequiMog : hm
+[02:30:55]SAY: mouse/ : SQUEEK!
+[02:31:07]SAY: mouse/ : Squeek?
+[02:31:10]ADMIN: Zonr_0/(John Mitchell) made the Nuclear Fission Explosive at 173, 119, 1. make a sound
+[02:31:18]SAY: Ira Ramirez/Agarre17664 : eh?
+[02:31:31]SAY: Sandbox 1/RequiMog : nuke&#39;s not working
+[02:31:50]PRAY: Agarre17664/(Ira Ramirez): dear wise and forgiving lord, smite mog
+[02:32:06]PRAY: Agarre17664/(Ira Ramirez): better yet, paralyse him
+[02:33:00]SAY: mouse/ : Squeek!
+[02:33:05]SAY: Fian Vel Steyr/Glassmirror : HEY THANKS FOR THE RIPLEY
+[02:33:07]SAY: Ira Ramirez/Agarre17664 : Prayed for it?
+[02:33:10]SAY: Fian Vel Steyr/Glassmirror : I&#39;M GOING MINING NOW
+[02:33:11]SAY: Ira Ramirez/Agarre17664 : Word
+[02:33:15]SAY: Fian Vel Steyr/Glassmirror : NO, BUILT IT MYSELF
+[02:33:15]SAY: Ira Ramirez/Agarre17664 : Awesome sauce!
+[02:33:24]SAY: Fian Vel Steyr/Glassmirror : IN THE NEXT ROOM
+[02:33:50]SAY: Tom/ : Squeek?
+[02:34:15]SAY: Runtime/ : Esp!
+[02:35:24]ADMIN: Zonr_0/(John Mitchell) attempting to monkeyize RequiMog/(Mog)
+[02:35:27]SAY: Ira Ramirez/Agarre17664 : man you really loose it when you stop playing it
+[02:35:29]ACCESS: Logout: *no key*/(Mog)
+[02:35:29]ACCESS: Login: RequiMog/(monkey (478)) from 24.147.22.172-4103612613 || BYOND v498
+[02:35:32]SAY: mouse/ : Squeek?
+[02:35:36]SAY: monkey/RequiMog : dafuq
+[02:36:11]SAY: monkey/RequiMog : WHAT
+[02:36:18]SAY: monkey/RequiMog : FUUUCK YOUUUUU
+[02:36:19]SAY: Pete/ : EHEHEHEHEH
+[02:36:29]ADMIN: Zonr_0/(John Mitchell) healed / Revived RequiMog/(monkey (478))
+[02:36:35]SAY: monkey/RequiMog : dafuq
+[02:36:37]ACCESS: Login: DeepPinkPockets/(Lister McSister Fister) from 70.95.189.17-1451392164 || BYOND v498
+[02:36:50]ACCESS: Logout: DeepPinkPockets[DC]/(Lister McSister Fister)
+[02:36:55]OOC: monkey/RequiMog : dafuq
+[02:36:58]SAY: Tom/ : Squeek!
+[02:37:06]OOC: monkey/RequiMog : why
+[02:37:08]ADMIN: Zonr_0/(John Mitchell) healed / Revived RequiMog/(monkey (478))
+[02:37:09]OOC: Ira Ramirez/Agarre17664 : nothing is working right :&lt;
+[02:37:14]OOC: Fian Vel Steyr/Glassmirror : What
+[02:37:21]SAY: monkey/RequiMog : I had just figured it out
+[02:37:24]OOC: John Mitchell/Zonr_0 : apparently you can&#39;t switch somebody back from monkey by healing them. :(
+[02:37:30]OOC: monkey/RequiMog : I had just figured it out
+[02:37:33]SAY: Tom/ : Squeek!
+[02:37:35]OOC: Fian Vel Steyr/Glassmirror : You have to use a human SE
+[02:37:38]OOC: Jim Hennessey/Grumps_McGurt : Well, at least I&#39;ve got the air and power working.
+[02:37:43]OOC: Ira Ramirez/Agarre17664 : :&lt;
+[02:37:44]OOC: John Mitchell/Zonr_0 : admin healing that is
+[02:37:47]OOC: Jim Hennessey/Grumps_McGurt : I&#39;m jsut about to go and check communications.
+[02:37:51]OOC: Fian Vel Steyr/Glassmirror : But unless you saved the IE-UE from the previous human body, then that ID is lost forever
+[02:37:58]SAY: Ira Ramirez/Agarre17664 : daw
+[02:38:13]OOC: Fian Vel Steyr/Glassmirror : Also, Ira you are a terrible Roboticist
+[02:38:14]OOC: monkey/RequiMog : ira, examine the nuke authentication disc in my inventoruy
+[02:38:21]OOC: Ira Ramirez/Agarre17664 : its been a while
+[02:38:36]SAY: Ira Ramirez/Agarre17664 : ooc and this is why I do sec
+[02:38:41]SAY: Ira Ramirez/Agarre17664 : ooc and this is why I love sec
+[02:38:45]ACCESS: Logout: Grumps_McGurt[DC]/(Jim Hennessey)
+[02:38:48]OOC: Ira Ramirez/Agarre17664 : and this is why I love sec
+[02:38:51]ACCESS: Login: Grumps_McGurt/(Jim Hennessey) from 58.164.17.130-3611451171 || BYOND v498
+[02:39:15]OOC: John Mitchell/Zonr_0 : server check
+[02:39:17]SAY: Ira Ramirez/Agarre17664 : ooc also I can&#39;t find any of the guides
+[02:39:24]OOC: Ira Ramirez/Agarre17664 : and I can not find the guides
+[02:39:39]SAY: Ian/ : Bark!
+[02:39:39]OOC: Fian Vel Steyr/Glassmirror : I pretty much rebuilt the Robotics machine in the next room and built an entire ripley from scratch while you were figuring out how
+[02:39:54]OOC: Ira Ramirez/Agarre17664 : thatst he thing, I did not even figure out how, I can&#39;t find the guide
+[02:40:04]SAY: mouse/ : SQUEEK!
+[02:40:10]OOC: monkey/RequiMog : goddamnit ira read the disc, then double click on the bomb with an empty hand
+[02:40:13]OOC: Fian Vel Steyr/Glassmirror : It is there in the Nanotransen robotics guide
+[02:40:17]OOC: John Mitchell/Zonr_0 : you&#39;ve checked the wiki?
+[02:40:28]OOC: Ira Ramirez/Agarre17664 : your damn guide did not do shit
+[02:40:34]SAY: Ira Ramirez/Agarre17664 : ooc just made me feel played
+[02:40:40]OOC: Ira Ramirez/Agarre17664 : just made me feel played
+[02:40:41]SAY: mouse/ : Squeek!
+[02:41:13]OOC: Fian Vel Steyr/Glassmirror : http://wiki.nanotrasen.com/index.php?title=Guide_to_robotics#Ripley_APLU
+[02:41:16]SAY: mouse/ : SQUEEK!
+[02:41:41]OOC: Ira Ramirez/Agarre17664 : thanks, I got it now
+[02:41:51]OOC: Jim Hennessey/Grumps_McGurt : Can we get a crate of lightbulbs delivered while I fix comms?
+[02:42:13]OOC: Fian Vel Steyr/Glassmirror : Surely there is a crate of lightbulbs somewhere
+[02:42:13]OOC: Jim Hennessey/Grumps_McGurt : Since there doesn&#39;t appear to be a janitor it&#39;s only me doing the boring stuff.
+[02:42:19]OOC: Fian Vel Steyr/Glassmirror : Check medical maint, south
+[02:42:27]OOC: Jim Hennessey/Grumps_McGurt : In the janitors office. -_-
+[02:42:32]OOC: monkey/RequiMog : Well, I&#39;ve been turned into a MONKEY
+[02:42:33]ADMIN: Zonr_0/(John Mitchell) used secret whiteout
+[02:42:44]OOC: Fian Vel Steyr/Glassmirror : I know, I am just suggesting an alternative
+[02:42:53]OOC: Fian Vel Steyr/Glassmirror : Do you want to be human back? I know the IC way to do it
+[02:43:02]OOC: monkey/RequiMog : please do
+[02:43:12]OOC: John Mitchell/Zonr_0 : taking Mog to the cloning chamber.
+[02:43:45]OOC: Fian Vel Steyr/Glassmirror : Heading there now too
+[02:43:53]OOC: John Mitchell/Zonr_0 : I&#39;ll be going AFK for several minutes here shortly.
+[02:44:03]OOC: John Mitchell/Zonr_0 : also, Ira, killed monkeymog
+[02:44:21]OOC: Fian Vel Steyr/Glassmirror : Ira killed the monkeymog?
+[02:44:32]OOC: monkey/RequiMog : So I can&#39;t be rezd?
+[02:44:44]OOC: Ira Ramirez/Agarre17664 : yea, they can rez you, I was tryin to take yer brain
+[02:44:50]EMOTE: Jim Hennessey/Grumps_McGurt : <B>Jim Hennessey</B> gasps!
+[02:44:51]OOC: Fian Vel Steyr/Glassmirror : Okay just point out which monkey it is and I&#39;ll handle it
+[02:45:03]OOC: monkey/RequiMog : Dead monkey on ai holopad
+[02:45:57]SAY: Fian Vel Steyr/Glassmirror : Do I have to do everything here.jpg
+[02:46:09]PRAY: Agarre17664/(Ira Ramirez): hey can you change my job for me? Or just give me the QM&#39;s ID
+[02:46:13]OOC: John Mitchell/Zonr_0 : FYI: whoever setup the SMES in engineering didn&#39;t set their output levels high enough.
+[02:46:28]ACCESS: Logout: *no key*/(monkey (478))
+[02:46:28]ACCESS: Login: RequiMog/(monkey (478)) from 24.147.22.172-4103612613 || BYOND v498
+[02:46:47]SAY: mouse/ : SQUEEK!
+[02:46:56]SAY: mouse/ : SQUEEK!
+[02:47:10]OOC: Fian Vel Steyr/Glassmirror : Mog get your ghost back into your body
+[02:47:19]ADMIN: SubtlePM: Zonr_0/(John Mitchell) -> Agarre17664/(Ira Ramirez) : the ID mog had should let you into the HoP
+[02:47:24]SAY: mouse/ : Squeek!
+[02:47:30]OOC: monkey (478)/RequiMog : &#34;you have no body&#34;
+[02:47:38]OOC: monkey (478)/RequiMog : I never left it
+[02:47:39]ADMIN: SubtlePM: Zonr_0/(John Mitchell) -> Agarre17664/(Ira Ramirez) : *HoP office. Go ahead and create more all access pass IDs and spread them around.
+[02:47:39]OOC: Fian Vel Steyr/Glassmirror : Try again
+[02:47:58]OOC: monkey (478)/RequiMog : Same result
+[02:48:02]SAY: mouse/ : SQUEEK!
+[02:48:06]OOC: Fian Vel Steyr/Glassmirror : Okay youre fucked
+[02:48:13]OOC: Fian Vel Steyr/Glassmirror : Re-sign in with another account
+[02:48:20]SAY: Tom/ : SQUEEK!
+[02:48:21]OOC: Ira Ramirez/Agarre17664 : yall just wanna reboot?
+[02:48:31]OOC: monkey (478)/RequiMog : Can somebody activate the nuke then?
+[02:49:04]OOC: Fian Vel Steyr/Glassmirror : Reboot is shuttle call
+[02:49:09]OOC: Fian Vel Steyr/Glassmirror : Unles we have admin priv
+[02:49:33]OOC: John Mitchell/Zonr_0 : give me a second, I want to check the solars real quick
+[02:49:33]OOC: Ira Ramirez/Agarre17664 : fug it, call the shuttle.
+[02:49:36]OOC: John Mitchell/Zonr_0 : Jimmy says they&#39;re not working
+[02:49:38]ACCESS: Logout: *no key*/(John Mitchell)
+[02:49:38]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:49:52]SAY: Ian/ : YAP
+[02:50:04]OOC: monkey (478)/RequiMog : there&#39;s a nuke lying in one of the labs
+[02:50:13]OOC: John Mitchell/Zonr_0 : alright, rebooting.
+[02:50:21]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[02:50:25]OOC: John Mitchell/Zonr_0 : after that, I&#39;ll be AFK for a bit
+[02:50:27]OOC: Ira Ramirez/Agarre17664 : see yall in a few, I&#39;ll go QM and order shit
+[02:50:34]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[02:50:34]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[02:50:34]ACCESS: Logout: RequiMog[DC]/(monkey (478))
+[02:50:34]ACCESS: Logout: Agarre17664[DC]/(Ira Ramirez)
+[02:50:34]ACCESS: Logout: Grumps_McGurt[DC]/(Jim Hennessey)
+[02:50:34]ACCESS: Logout: Glassmirror[DC]/(Fian Vel Steyr)
+
+
+Starting up. 02:50.50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[02:50:50]ADMIN: Loading Banlistjob
+[02:50:50]ADMIN: Loading jobban_rank
+[02:50:50]ADMIN: jobban_keylist was empty
+[02:50:50]ADMIN: Loading appearance_rank
+[02:50:50]ADMIN: appearance_keylist was empty
+[02:50:50]ADMIN: Updating jobbanfile!
+[02:50:50]ADMIN: Loading Banlist
+[02:50:58]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[02:51:01]ACCESS: Logout: Zonr_0[DC]/(Zonr_0)
+[02:51:03]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[02:51:23]ACCESS: Login: RequiMog/(RequiMog) from 24.147.22.172-4103612613 || BYOND v498
+[02:51:26]ACCESS: Login: Grumps_McGurt/(Grumps_McGurt) from 58.164.17.130-3611451171 || BYOND v498
+[02:52:28]ACCESS: Logout: *no key*/(Zonr_0)
+[02:52:28]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[02:52:28]ACCESS: Logout: *no key*/(RequiMog)
+[02:52:28]ACCESS: Login: RequiMog/(Mog) from 24.147.22.172-4103612613 || BYOND v498
+[02:52:28]ACCESS: Logout: *no key*/(Grumps_McGurt)
+[02:52:28]ACCESS: Login: Grumps_McGurt/(Jim Hennessey) from 58.164.17.130-3611451171 || BYOND v498
+[02:52:33]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[02:53:05]ACCESS: Logout: *no key*/(Agarre17664)
+[02:53:05]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[02:53:54]ACCESS: Login: Glassmirror/(Glassmirror) from 210.187.187.66-237290458 || BYOND v498
+[02:54:15]ACCESS: Logout: *no key*/(Glassmirror)
+[02:54:15]ACCESS: Login: Glassmirror/(Fian Vel Steyr) from 210.187.187.66-237290458 || BYOND v498
+[02:54:58]SAY: Fian Vel Steyr/Glassmirror : All crew report to my office to receive captain level IDs
+[02:55:15]SAY: Jim Hennessey/Grumps_McGurt :  Engineering will be delayed.
+[02:55:18]SAY: Ira Ramirez/Agarre17664 : Hook it uuuup
+[02:55:23]SAY: Fian Vel Steyr/Glassmirror : Gimme your ID
+[02:55:36]SAY: Jim Hennessey/Grumps_McGurt :  Mog, did you nick another hardsuit again.
+[02:56:20]SAY: Ira Ramirez/Agarre17664 : toss me back my PDA
+[02:57:41]SAY: mouse/ : Squeek?
+[02:57:41]SAY: Ian/ : Bark!
+[02:57:42]SAY: Fian Vel Steyr/Glassmirror : All crew report to my office for Captain level IDs
+[02:57:48]SAY: Pete/ : eh?
+[02:58:47]SAY: Jim Hennessey/Grumps_McGurt :  In a minute, love, I&#39;m busy!
+[02:59:27]SAY: Tom/ : SQUEEK!
+[02:59:44]SAY: Mog/RequiMog : h: where?
+[02:59:51]SAY: Mog/RequiMog : where?
+[03:00:24]SAY: Jim Hennessey/Grumps_McGurt : Where what?
+[03:00:26]SAY: mouse/ : Squeek?
+[03:00:44]OOC: Mog/RequiMog : I&#39;m waiting at the office delivery window
+[03:00:53]OOC: Fian Vel Steyr/Glassmirror : IC in OOC ban he
+[03:01:09]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[03:01:18]SAY: Fian Vel Steyr/Glassmirror : ID
+[03:01:21]OOC: Mog/RequiMog : my radio messages don;t work properly
+[03:01:34]SAY: Fian Vel Steyr/Glassmirror : Also, pass me your headset too
+[03:02:13]SAY: Ira Ramirez/Agarre17664 : OH-H OM-ME ON
+[03:02:26]SAY: Ira Ramirez/Agarre17664 : y-yea
+[03:02:31]SAY: Ira Ramirez/Agarre17664 : I l-lik-ke i r-r-roug-g-gh-h
+[03:02:57]SAY: Fian Vel Steyr/Glassmirror : Your headset is working fine
+[03:02:59]SAY: Fian Vel Steyr/Glassmirror : Try harder
+[03:03:19]SAY: Mog/RequiMog : i think it only broadcasts to eengineers,
+[03:03:22]SAY: Mog/RequiMog : but w/e
+[03:03:33]OOC: Ira Ramirez/Agarre17664 : why are we all unknowns?
+[03:03:52]SAY: mouse/ : Squeek!
+[03:04:01]OOC: Fian Vel Steyr/Glassmirror : Are you guys wearing your IDs
+[03:04:06]SAY: Ira Ramirez/Agarre17664 : yea?
+[03:04:11]SAY: Ira Ramirez/Agarre17664 : ooc yep
+[03:04:15]OOC: Ira Ramirez/Agarre17664 : yep
+[03:04:38]OOC: Fian Vel Steyr/Glassmirror : It shouldnt happen
+[03:05:11]SAY: Pete/ : EHEHEHEHEH
+[03:07:23]SAY: mouse/ : Squeek?
+[03:09:25]SAY: Fian Vel Steyr/Glassmirror : All crew please report to R&amp;D Counter for your 2nd Amendmend Rights
+[03:09:36]SAY: Ian/ : Woof!
+[03:09:46]SAY: mouse/ : SQUEEK!
+[03:09:56]GAME: PA Control Computer turned ON by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[03:09:57]GAME: PA Control Computer increased to 1 by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[03:09:57]GAME: PA Control Computer increased to 2 by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[03:10:27]GAME: PA Control Computer turned ON by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[03:10:53]SAY: mouse/ : SQUEEK!
+[03:11:12]SAY: Mog/RequiMog : cool
+[03:12:05]SAY: mouse/ : SQUEEK!
+[03:13:09]SAY: mouse/ : SQUEEK!
+[03:13:13]GAME: PA Control Computer turned ON by grumpsmcgurt(Jim Hennessey) in (112,71,1)
+[03:13:30]SAY: Poly/ : Wire the solars, you lazy bums!
+[03:15:48]SAY: Fian Vel Steyr/Glassmirror : I am heading out to mine
+[03:16:33]SAY: mouse/ : Squeek?
+[03:16:45]SAY: Runtime/ : Esp!
+[03:19:41]SAY: Tom/ : Squeek!
+[03:19:51]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[03:20:06]SAY: mouse/ : Squeek!
+[03:20:24]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[03:20:55]ADMIN: Zonr_0/(John Mitchell) healed / Revived Zonr_0/(John Mitchell)
+[03:21:20]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[03:21:22]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[03:22:12]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[03:23:13]SAY: Tom/ : SQUEEK!
+[03:24:23]SAY: mouse/ : SQUEEK!
+[03:24:55]ACCESS: Logout: Agarre17664[DC]/(Ira Ramirez)
+[03:24:59]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/weapon/gun/projectile/deagle/gold
+[03:25:21]SAY: mouse/ : Squeek?
+[03:25:35]SAY: Ian/ : Bark!
+[03:27:15]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/ammo_magazine/a50
+[03:27:41]SAY: Poly/ : Poly wanna cracker!
+[03:27:56]EMOTE: Jim Hennessey/Grumps_McGurt : <B>Jim Hennessey</B> gasps!
+[03:28:12]ADMIN: Zonr_0/(John Mitchell) created a /obj/item/ammo_magazine/a50
+[03:30:59]SAY: Ian/ : YAP
+[03:31:18]ACCESS: Logout: RequiMog[DC]/(Mog)
+[03:31:51]SAY: Jim Hennessey/Grumps_McGurt : Hi
+[03:32:16]SAY: Tom/ : SQUEEK!
+[03:32:33]ADMIN: Zonr_0/(John Mitchell) jumped to RequiMog[DC]/(Mog)
+[03:32:47]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:33:03]SAY: Pete/ : EHEHEHEHEH
+[03:33:14]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:33:26]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:33:44]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:04]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:08]SAY: mouse/ : Squeek?
+[03:34:20]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:39]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:41]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:54]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:34:56]SAY: mouse/ : Squeek!
+[03:35:06]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:35:08]EMOTE: Mog/RequiMog : <B>Mog</B> gasps!
+[03:35:12]EMOTE: Mog/RequiMog : <B>Mog</B> seizes up and falls limp, his eyes dead and lifeless...
+[03:36:05]SAY: Jim Hennessey/Grumps_McGurt : Captain.
+[03:36:16]SAY: Jim Hennessey/Grumps_McGurt : Sir, is something wrong?
+[03:36:44]SAY: John Mitchell/Zonr_0 : just taking care of buisness.
+[03:36:53]SAY: mouse/ : Squeek?
+[03:37:05]SAY: Jim Hennessey/Grumps_McGurt : But sir, the system is already running at optium capacity.
+[03:37:06]SAY: mouse/ : SQUEEK!
+[03:37:19]SAY: John Mitchell/Zonr_0 : by the way, if you see any janitors, tell them there&#39;s a big bloodstain in R&amp;D.
+[03:37:31]SAY: Jim Hennessey/Grumps_McGurt : Uh, yessir
+[03:37:35]SAY: Pete/ : EHEHEHEHEH
+[03:38:54]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[03:43:40]SAY: mouse/ : Squeek?
+[03:44:22]SAY: Pete/ : EHEHEHEHEH
+[03:44:40]SAY: mouse/ : Squeek?
+[03:45:05]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[03:45:13]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[03:45:22]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[03:45:34]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> gasps!
+[03:45:44]EMOTE: John Mitchell/Zonr_0 : <B>John Mitchell</B> seizes up and falls limp, his eyes dead and lifeless...
+[03:47:50]SAY: Pete/ : EHEHEHEHEH
+[03:48:37]SAY: mouse/ : Squeek!
+[03:49:39]SAY: mouse/ : Squeek?
+[03:49:57]SAY: Ian/ : AUUUUUU
+[03:51:37]SAY: Jim Hennessey/Grumps_McGurt :  Radio check, over.
+[03:51:52]SAY: Fian Vel Steyr/Glassmirror : Sup
+[03:52:53]SAY: mouse/ : SQUEEK!
+[03:53:04]SAY: Runtime/ : Purr!
+[03:57:03]SAY: mouse/ : Squeek!
+[03:57:11]SAY: mouse/ : Squeek?
+[03:59:19]SAY: mouse/ : Squeek!
+[03:59:58]SAY: mouse/ : Squeek?
+[04:00:21]SAY: mouse/ : Squeek!
+[04:02:22]SAY: Fian Vel Steyr/Glassmirror : I am heading back out to mining
+[04:03:31]SAY: Jim Hennessey/Grumps_McGurt : Attention crew, please report any electrical faults to maintainance personnell.
+[04:05:07]SAY: Fian Vel Steyr/Glassmirror : Jim
+[04:05:16]SAY: Fian Vel Steyr/Glassmirror : Could you go on a spess adventure and find bananium?
+[04:05:23]SAY: Fian Vel Steyr/Glassmirror : Grab a hand TP so you wont get lost
+[04:06:25]SAY: Jim Hennessey/Grumps_McGurt :  Radio check.
+[04:06:27]SAY: mouse/ : Squeek!
+[04:06:32]SAY: Fian Vel Steyr/Glassmirror : Whats up?
+[04:06:37]OOC: Jim Hennessey/Grumps_McGurt : Are the radios down again?
+[04:06:41]SAY: mouse/ : SQUEEK!
+[04:06:49]OOC: Fian Vel Steyr/Glassmirror : EMP probably resetted your headset
+[04:06:57]SAY: Jim Hennessey/Grumps_McGurt : Radio check.
+[04:07:45]SAY: Jim Hennessey/Grumps_McGurt :  Radio check
+[04:07:49]SAY: Fian Vel Steyr/Glassmirror : Reading
+[04:08:11]SAY: Jim Hennessey/Grumps_McGurt :  Radio check
+[04:08:15]SAY: Fian Vel Steyr/Glassmirror : Yo
+[04:08:17]SAY: Jim Hennessey/Grumps_McGurt : Okay, fixed.
+[04:08:26]OOC: Fian Vel Steyr/Glassmirror : y u no hear me
+[04:08:28]OOC: Fian Vel Steyr/Glassmirror : I can hear you
+[04:08:41]OOC: Jim Hennessey/Grumps_McGurt : Emp had messed with my headset.
+[04:09:14]OOC: Jim Hennessey/Grumps_McGurt : I work closer to the outside of the station than the rest of you, so I&#39;m more susceptable to it.
+[04:10:08]SAY: mouse/ : Squeek!
+[04:10:16]SAY: mouse/ : SQUEEK!
+[04:10:59]SAY: Jim Hennessey/Grumps_McGurt : Alright, where is my full access.
+[04:11:31]SAY: Fian Vel Steyr/Glassmirror : I am mining
+[04:11:37]SAY: Fian Vel Steyr/Glassmirror : Go hack into either genetics or R&amp;D
+[04:11:44]SAY: Fian Vel Steyr/Glassmirror : Mogs and Zonr&#39;s bodies are there
+[04:12:14]SAY: mouse/ : Squeek!
+[04:12:22]SAY: Jim Hennessey/Grumps_McGurt : I think you&#39;ve been mining for over an hour.
+[04:12:30]SAY: Jim Hennessey/Grumps_McGurt : ...
+[04:12:40]SAY: Fian Vel Steyr/Glassmirror : No, I cam back once
+[04:12:42]SAY: Jim Hennessey/Grumps_McGurt : What happened to Mog and Zonr_0
+[04:12:43]SAY: Fian Vel Steyr/Glassmirror : You just didnt hear it
+[04:12:48]SAY: Fian Vel Steyr/Glassmirror : Zonr killed mog
+[04:12:51]SAY: Fian Vel Steyr/Glassmirror : I killed Zonr
+[04:12:55]SAY: Jim Hennessey/Grumps_McGurt : ...
+[04:13:07]SAY: Poly/ : Poly wanna cracker!
+[04:13:15]SAY: Jim Hennessey/Grumps_McGurt : um.
+[04:13:53]SAY: Ian/ : Bark!
+[04:14:18]SAY: Fian Vel Steyr/Glassmirror : Go on a space adventure or something
+[04:14:21]SAY: Fian Vel Steyr/Glassmirror : Bring a hand TP
+[04:14:25]SAY: Fian Vel Steyr/Glassmirror : And find some bananium
+[04:15:12]SAY: Jim Hennessey/Grumps_McGurt : I think I&#39;m just going to sit in the Maltese Falcon and smoke...
+[04:16:03]SAY: Jim Hennessey/Grumps_McGurt : Fucking bullshit...
+[04:16:08]SAY: mouse/ : Squeek?
+[04:16:17]SAY: Poly/ : Wire the solars, you lazy bums!
+[04:16:38]SAY: Tom/ : Squeek?
+[04:16:48]SAY: Jim Hennessey/Grumps_McGurt : I half expect fucking space carp next...
+[04:17:04]SAY: mouse/ : Squeek?
+[04:17:21]SAY: mouse/ : Squeek?
+[04:18:54]SAY: mouse/ : Squeek?
+[04:19:10]SAY: mouse/ : Squeek?
+[04:20:53]SAY: Tom/ : Squeek!
+[04:22:05]SAY: Runtime/ : Purr!
+[04:22:36]SAY: Runtime/ : Meow!
+[04:23:49]SAY: Runtime/ : Purr!
+[04:23:55]SAY: Runtime/ : Purr!
+[04:24:09]SAY: mouse/ : Squeek?
+[04:24:38]SAY: Tom/ : SQUEEK!
+[04:26:12]SAY: Runtime/ : Meow!
+[04:27:12]SAY: Pete/ : EHEHEHEHEH
+[04:27:39]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[04:29:15]SAY: Ian/ : AUUUUUU
+[04:29:48]SAY: mouse/ : Squeek?
+[04:32:03]SAY: Runtime/ : Meow!
+[04:34:48]SAY: mouse/ : SQUEEK!
+[04:39:27]SAY: mouse/ : Squeek?
+[04:42:24]SAY: mouse/ : SQUEEK!
+[04:43:02]SAY: Pete/ : eh?
+[04:43:10]SAY: mouse/ : SQUEEK!
+[04:46:36]SAY: mouse/ : Squeek?
+[04:47:05]SAY: mouse/ : Squeek?
+[04:47:26]SAY: mouse/ : Squeek!
+[04:47:44]SAY: Runtime/ : Esp!
+[04:49:21]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[04:49:52]SAY: Runtime/ : Meow!
+[04:50:17]SAY: Pete/ : EHEHEHEHEH
+[04:50:29]SAY: mouse/ : SQUEEK!
+[04:51:39]SAY: mouse/ : SQUEEK!
+[04:53:13]SAY: mouse/ : Squeek?
+[04:53:13]SAY: mouse/ : Squeek?
+[04:53:48]SAY: Poly/ : Wire the solars, you lazy bums!
+[04:55:34]SAY: mouse/ : SQUEEK!
+[04:55:51]GAME: Explosion with size (-1, 2, 4) in area EVA Storage 
+[04:57:48]GAME: Explosion with size (-1, 2, 4) in area EVA Storage 
+[04:58:16]SAY: mouse/ : SQUEEK!
+[04:59:51]SAY: mouse/ : Squeek?
+[05:00:18]SAY: mouse/ : Squeek!
+[05:01:05]SAY: mouse/ : Squeek?
+[05:01:23]SAY: mouse/ : SQUEEK!
+[05:01:59]SAY: Poly/ : Check the singlo, you chucklefucks!
+[05:02:38]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[05:03:16]SAY: mouse/ : Squeek!
+[05:05:45]SAY: mouse/ : Squeek?
+[05:05:55]SAY: mouse/ : Squeek!
+[05:07:38]SAY: mouse/ : SQUEEK!
+[05:07:40]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[05:08:02]SAY: mouse/ : Squeek!
+[05:11:30]SAY: Ian/ : AUUUUUU
+[05:12:38]SAY: mouse/ : Squeek!
+[05:14:25]SAY: mouse/ : Squeek?
+[05:17:04]SAY: mouse/ : Squeek?
+[05:18:39]SAY: mouse/ : SQUEEK!
+[05:18:43]SAY: mouse/ : SQUEEK!
+[05:19:02]SAY: mouse/ : SQUEEK!
+[05:20:45]SAY: mouse/ : Squeek?
+[05:26:31]SAY: mouse/ : Squeek!
+[05:26:51]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[05:29:29]SAY: Fian Vel Steyr/Glassmirror : ITS GONEE
+[05:30:22]SAY: Poly/ : Wire the solars, you lazy bums!
+[05:30:40]SAY: Tom/ : SQUEEK!
+[05:31:13]SAY: mouse/ : Squeek?
+[05:32:20]SAY: Runtime/ : Purr!
+[05:33:18]SAY: mouse/ : SQUEEK!
+[05:33:36]SAY: Tom/ : Squeek!
+[05:34:18]SAY: Poly/ : Wire the solars, you lazy bums!
+[05:35:26]SAY: Fian Vel Steyr/Glassmirror : I am convinced
+[05:35:31]SAY: Fian Vel Steyr/Glassmirror : That this packet of cheesy Honkers
+[05:35:34]SAY: Fian Vel Steyr/Glassmirror : is the clown coords
+[05:35:38]SAY: Jim Hennessey/Grumps_McGurt : &lt;,&lt;
+[05:36:02]SAY: Jim Hennessey/Grumps_McGurt : Hey! Get me all access first!
+[05:36:30]SAY: Fian Vel Steyr/Glassmirror : Come to my office
+[05:36:34]SAY: Ian/ : AUUUUUU
+[05:37:02]SAY: Fian Vel Steyr/Glassmirror : Come on I dont got all day
+[05:37:30]SAY: Fian Vel Steyr/Glassmirror : ID
+[05:37:37]SAY: Runtime/ : Purr!
+[05:38:52]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[05:39:41]SAY: mouse/ : SQUEEK!
+[05:40:06]SAY: Tom/ : Squeek?
+[05:44:17]SAY: mouse/ : Squeek?
+[05:45:15]SAY: mouse/ : Squeek?
+[05:47:29]SAY: Ian/ : AUUUUUU
+[05:48:15]ACCESS: Logout: Grumps_McGurt[DC]/(Jim Hennessey)
+[05:48:41]SAY: Poly/ : Check the singlo, you chucklefucks!
+[05:49:41]SAY: Tom/ : Squeek!
+[05:50:12]SAY: mouse/ : SQUEEK!
+[05:50:32]SAY: Ian/ : Woof!
+[05:53:19]SAY: mouse/ : Squeek?
+[05:54:51]SAY: mouse/ : Squeek?
+[05:55:02]SAY: mouse/ : SQUEEK!
+[05:55:37]SAY: Poly/ : Wire the solars, you lazy bums!
+[05:55:39]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[05:55:49]SAY: Runtime/ : Esp!
+[05:56:52]SAY: mouse/ : SQUEEK!
+[05:57:20]SAY: mouse/ : Squeek?
+[05:59:12]SAY: mouse/ : Squeek!
+[06:00:32]SAY: mouse/ : SQUEEK!
+[06:01:22]SAY: Pete/ : EHEHEHEHEH
+[06:01:38]SAY: Tom/ : Squeek!
+[06:02:24]SAY: mouse/ : Squeek?
+[06:02:36]GAME: Explosive tank rupture! last key to touch the tank was Glassmirror.
+[06:02:36]GAME: Explosion with size (1, 2, 4) in area Toxins Mixing Room 
+[06:02:42]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[06:02:59]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> seizes up and falls limp, his eyes dead and lifeless...
+[06:02:59]ACCESS: Logout: *no key*/(Fian Vel Steyr)
+[06:02:59]ACCESS: Login: Glassmirror/(Fian Vel Steyr) from 210.187.187.66-237290458 || BYOND v498
+[06:03:17]SAY: Tom/ : Squeek!
+[06:06:23]SAY: Runtime/ : Purr!
+[06:07:00]SAY: mouse/ : Squeek!
+[06:07:02]SAY: mouse/ : Squeek?
+[06:07:02]SAY: mouse/ : Squeek!
+[06:07:06]SAY: mouse/ : Squeek!
+[06:07:34]SAY: mouse/ : Squeek?
+[06:09:20]ACCESS: Login: Demonblooded/(Demonblooded) from 24.18.67.128-391156288 || BYOND v498
+[06:10:05]SAY: Runtime/ : Meow!
+[06:11:24]ACCESS: Logout: *no key*/(Demonblooded)
+[06:11:24]ACCESS: Login: Demonblooded/(Talbain) from 24.18.67.128-391156288 || BYOND v498
+[06:12:51]SAY: mouse/ : SQUEEK!
+[06:13:00]OOC: Fian Vel Steyr/Glassmirror : Check main chat
+[06:13:16]OOC: Fian Vel Steyr/Glassmirror : Just head to mechbay
+[06:13:36]OOC: Fian Vel Steyr/Glassmirror : Not mining
+[06:13:38]OOC: Fian Vel Steyr/Glassmirror : mechbay
+[06:13:47]OOC: Fian Vel Steyr/Glassmirror : Robotics!
+[06:13:49]SAY: Pete/ : EHEHEHEHEH
+[06:13:50]OOC: Fian Vel Steyr/Glassmirror : In R&amp;D
+[06:14:24]SAY: Poly/ : Poly wanna cracker!
+[06:14:50]OOC: Fian Vel Steyr/Glassmirror : Where are you going
+[06:15:03]OOC: Fian Vel Steyr/Glassmirror : you passed it
+[06:15:09]SAY: Tom/ : SQUEEK!
+[06:15:10]OOC: Fian Vel Steyr/Glassmirror : left
+[06:15:17]OOC: Fian Vel Steyr/Glassmirror : Leeeft
+[06:15:26]OOC: Fian Vel Steyr/Glassmirror : Pick one
+[06:15:45]OOC: Fian Vel Steyr/Glassmirror : DRILL IS NOW DIAMONDS
+[06:15:51]SAY: Talbain/Demonblooded : Holy balls someone has been busy.
+[06:16:05]OOC: Fian Vel Steyr/Glassmirror : Yeah, mined, researched and built them myself
+[06:16:20]OOC: Fian Vel Steyr/Glassmirror : Gotta go dinner
+[06:16:23]OOC: Fian Vel Steyr/Glassmirror : DRILL THE WALLS
+[06:17:07]SAY: mouse/ : SQUEEK!
+[06:17:16]SAY: mouse/ : Squeek!
+[06:17:51]SAY: mouse/ : SQUEEK!
+[06:18:41]SAY: Talbain/Demonblooded : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+[06:19:42]SAY: mouse/ : Squeek?
+[06:20:40]SAY: mouse/ : Squeek?
+[06:23:02]SAY: Tom/ : Squeek?
+[06:26:13]SAY: Ian/ : Woof!
+[06:26:42]SAY: mouse/ : Squeek!
+[06:28:58]SAY: mouse/ : Squeek!
+[06:29:45]SAY: mouse/ : SQUEEK!
+[06:31:46]EMOTE: Talbain/Demonblooded : <B>Talbain</B> gasps!
+[06:31:58]SAY: Pete/ : EHEHEHEHEH
+[06:32:01]SAY: mouse/ : SQUEEK!
+[06:32:07]SAY: Tom/ : Squeek!
+[06:34:06]SAY: Poly/ : Poly wanna cracker!
+[06:37:32]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[06:38:03]SAY: mouse/ : Squeek!
+[06:38:11]SAY: Tom/ : Squeek!
+[06:38:25]SAY: Runtime/ : Meow!
+[06:43:02]SAY: Ian/ : YAP
+[06:43:26]SAY: mouse/ : Squeek?
+[06:43:56]SAY: Ian/ : Bark!
+[06:44:33]SAY: Tom/ : SQUEEK!
+[06:45:24]SAY: mouse/ : Squeek?
+[06:48:06]SAY: mouse/ : SQUEEK!
+[06:48:47]SAY: Runtime/ : Meow!
+[06:48:49]SAY: Runtime/ : Esp!
+[06:49:48]SAY: mouse/ : Squeek!
+[06:50:28]OOC: Fian Vel Steyr/Glassmirror : Back
+[06:50:35]OOC: Fian Vel Steyr/Glassmirror : Waaait where my body?
+[06:50:45]SAY: Talbain/Demonblooded : Sup.
+[06:50:59]OOC: Fian Vel Steyr/Glassmirror : If you are going on mining adventures
+[06:51:02]SAY: Talbain/Demonblooded : Umm. yeah about that. Tried switching to lifter claw to pick it up.
+[06:51:06]OOC: Fian Vel Steyr/Glassmirror : Let my ghost find them rooms
+[06:51:17]OOC: Fian Vel Steyr/Glassmirror : I found an energy cutlass here earlier
+[06:51:21]SAY: Talbain/Demonblooded : And didn&#39;t notice the claw never highlighted.
+[06:51:23]OOC: Fian Vel Steyr/Glassmirror : Gah, means you have destroyed it
+[06:51:27]SAY: Talbain/Demonblooded : Found the plasma cutter.
+[06:51:36]OOC: Fian Vel Steyr/Glassmirror : I have a diamond drill
+[06:51:38]OOC: Fian Vel Steyr/Glassmirror : did you find it?
+[06:51:55]SAY: Talbain/Demonblooded : left the drill in the mining outpost.
+[06:52:08]SAY: Talbain/Demonblooded : there a way back from gibs?
+[06:52:08]SAY: mouse/ : SQUEEK!
+[06:52:22]SAY: mouse/ : Squeek!
+[06:52:29]OOC: Fian Vel Steyr/Glassmirror : Unless pre-scanned or if there is a blood sample in a needle, no
+[06:52:36]SAY: mouse/ : Squeek!
+[06:52:38]SAY: Talbain/Demonblooded : FFFFFFFFFFFFFFFFFFFFFFFF
+[06:52:48]OOC: Fian Vel Steyr/Glassmirror : There are no live aliens on mmining arent there?
+[06:53:12]SAY: Talbain/Demonblooded : Unless the 3rd room has the facehugger I guess not.
+[06:53:18]OOC: Fian Vel Steyr/Glassmirror : 3rd?
+[06:53:54]SAY: Talbain/Demonblooded : there&#39;s always 3 rooms in mining as far as I can tell. regular walls, reinforced walls, and a resin walled room.
+[06:54:10]OOC: Fian Vel Steyr/Glassmirror : Oh, I only cut through 2/3rds of the resin wall before I got bored
+[06:54:17]SAY: Talbain/Demonblooded : One always seem to have an alien in it.
+[06:54:42]SAY: Talbain/Demonblooded : resin one is the only one where the alien is actually any threayt.
+[06:54:51]OOC: Fian Vel Steyr/Glassmirror : I&#39;mm scanning the place in my ghost
+[06:54:58]SAY: Talbain/Demonblooded : otherwise once you get through the outer panneling you can see the thing and just walk off.
+[06:54:58]OOC: Fian Vel Steyr/Glassmirror : NOthing much left in mining
+[06:55:12]SAY: Talbain/Demonblooded : use teleport command.
+[06:55:28]SAY: Talbain/Demonblooded : there should be 3 artefact rooms on the list.
+[06:55:35]OOC: Fian Vel Steyr/Glassmirror : Oh youre right
+[06:55:43]OOC: Fian Vel Steyr/Glassmirror : Whats in the one with the reinforced walls?
+[06:55:53]OOC: Fian Vel Steyr/Glassmirror : I mean, the one you busted out of
+[06:56:03]SAY: Talbain/Demonblooded : I opened up the normal walled one.
+[06:56:11]SAY: Talbain/Demonblooded : there should be a welder on the floor.
+[06:56:18]OOC: Fian Vel Steyr/Glassmirror : What was inside
+[06:56:24]SAY: Talbain/Demonblooded : Plasma cutter.
+[06:56:45]OOC: Fian Vel Steyr/Glassmirror : Last one has a plasma cutter too
+[06:56:48]SAY: Tom/ : Squeek!
+[06:56:52]SAY: Talbain/Demonblooded : bah.
+[06:57:02]SAY: Talbain/Demonblooded : think I would have prefered alien.
+[06:57:17]OOC: Fian Vel Steyr/Glassmirror : I&#39;ll sign in on another account
+[06:57:26]OOC: Fian Vel Steyr/Glassmirror : We can go on a gateway adventure
+[06:57:28]SAY: Talbain/Demonblooded : Gonna try to play as an alien?
+[06:57:36]SAY: Ian/ : Woof!
+[06:57:42]OOC: Fian Vel Steyr/Glassmirror : Humie
+[06:57:45]ACCESS: Logout: Glassmirror[DC]/(Fian Vel Steyr)
+[06:58:05]SAY: Talbain/Demonblooded : ok. gonna AFK a bit.
+[06:58:07]ACCESS: Login: Fiani McFian/(Fiani McFian) from 210.187.187.66-237290458 || BYOND v498
+[06:58:16]SAY: Talbain/Demonblooded : need a shower while you get set up and rip recharges.
+[06:58:28]SAY: mouse/ : Squeek?
+[06:58:33]ACCESS: Logout: *no key*/(Fiani McFian)
+[06:58:33]ACCESS: Login: Fiani McFian/(Brett Flickinger) from 210.187.187.66-237290458 || BYOND v498
+[06:59:13]SAY: mouse/ : Squeek!
+[06:59:13]SAY: Runtime/ : Meow!
+[07:02:02]OOC: Brett Flickinger/Fiani McFian : Bah
+[07:02:06]OOC: Brett Flickinger/Fiani McFian : The gateway doesnt work
+[07:02:24]OOC: Brett Flickinger/Fiani McFian : So unless you wanna play along with that diamond drill ripley summore, we are done here
+[07:02:34]SAY: Pete/ : eh?
+[07:03:01]SAY: Pete/ : eh?
+[07:03:15]SAY: Brett Flickinger/Fiani McFian : Bah
+[07:03:21]SAY: Brett Flickinger/Fiani McFian : Diamond drills dont go through R-Walls
+[07:05:08]SAY: Talbain/Demonblooded :  already taking the wall apart I assume.
+[07:05:13]SAY: mouse/ : Squeek!
+[07:05:15]SAY: Pete/ : eh?
+[07:05:42]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : nah, I used the drill
+[07:05:45]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : So, shuttle call?
+[07:05:53]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : So, shuttle call?
+[07:06:00]SAY: mouse/ : SQUEEK!
+[07:06:09]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : I mean, I drilled the doors
+[07:06:12]SAY: Talbain/Demonblooded : mining shuttle?
+[07:06:39]SAY: Poly/ : Poly wanna cracker!
+[07:07:27]GAME: Fiani McFian/(Brett Flickinger) has called the shuttle.
+[07:07:32]SAY: Talbain/Demonblooded :  so yeah. I&#39;ve become an asshole on normal server.
+[07:08:32]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : Like how
+[07:10:11]SAY: mouse/ : Squeek?
+[07:10:22]SAY: Talbain/Demonblooded :  At start of round I make an ultimatum to R&amp;D and robotics that if I don&#39;t hear them promise research or equipment to minng we&#39;re not grabbing shit for them that round.
+[07:11:05]SAY: Brett Flickinger (as John Mitchell)/Fiani McFian : Thats what I do too
+[07:11:09]SAY: mouse/ : Squeek!
+[07:11:55]EMOTE: Brett Flickinger (as John Mitchell)/Fiani McFian : <B>Brett Flickinger (as John Mitchell)</B> seizes up and falls limp, his eyes dead and lifeless...
+[07:11:59]ACCESS: Logout: *no key*/(Brett Flickinger)
+[07:11:59]ACCESS: Login: Fiani McFian/(Brett Flickinger) from 210.187.187.66-237290458 || BYOND v498
+[07:12:03]SAY: mouse/ : Squeek?
+[07:12:17]SAY: Talbain/Demonblooded :  I see there&#39;s a nice plasma fire going in main hall.
+[07:12:20]OOC: Brett Flickinger/Fiani McFian : Spacevine removal fire
+[07:12:32]OOC: Brett Flickinger/Fiani McFian : Also, IT BURNS
+[07:12:37]OOC: Brett Flickinger/Fiani McFian : I R ded
+[07:12:45]SAY: mouse/ : Squeek?
+[07:12:46]OOC: Brett Flickinger/Fiani McFian : Just drill you way to the shuttle or something
+[07:13:07]SAY: Talbain/Demonblooded :  Rips can handle plasma fier?
+[07:13:14]OOC: Brett Flickinger/Fiani McFian : A little
+[07:13:28]OOC: Brett Flickinger/Fiani McFian : There is a firefighting rip
+[07:13:48]OOC: Brett Flickinger/Fiani McFian : Oh wait
+[07:13:53]OOC: Brett Flickinger/Fiani McFian : Your Rip should have an extungisher
+[07:14:01]OOC: Brett Flickinger/Fiani McFian : I know, I installed it
+[07:14:13]SAY: Talbain/Demonblooded :  it do.
+[07:16:02]SAY: mouse/ : Squeek!
+[07:16:12]OOC: Brett Flickinger/Fiani McFian : Layout of this station is a little different
+[07:16:28]OOC: Brett Flickinger/Fiani McFian : Why not try out one of the combat mechs?
+[07:16:30]SAY: Talbain/Demonblooded :  seems a bit like the older layout.
+[07:17:35]SAY: Talbain/Demonblooded :  mostly because I don&#39;t care for guns on SS13 and then because the rip is usefull for other stuff too.
+[07:17:52]OOC: Brett Flickinger/Fiani McFian : Does the firefighting Rip move slower?
+[07:17:54]SAY: mouse/ : SQUEEK!
+[07:18:00]SAY: mouse/ : Squeek!
+[07:18:10]OOC: Brett Flickinger/Fiani McFian : I built one and geared it like the mining rip
+[07:18:14]OOC: Brett Flickinger/Fiani McFian : Its in R&amp;D
+[07:18:18]SAY: Talbain/Demonblooded : No idea.
+[07:18:29]SAY: Runtime/ : Purr!
+[07:18:33]OOC: Brett Flickinger/Fiani McFian : Take off your suit you&#39;ll run faster
+[07:18:52]OOC: Brett Flickinger/Fiani McFian : NEar where the captains body is
+[07:18:56]SAY: Runtime/ : Esp!
+[07:18:59]OOC: Brett Flickinger/Fiani McFian : Right
+[07:19:16]OOC: Brett Flickinger/Fiani McFian : Quick to the shuttle!
+[07:19:45]OOC: Brett Flickinger/Fiani McFian : The Gygax has a special function that doubles it speed
+[07:20:17]OOC: Brett Flickinger/Fiani McFian : Too bad I installed the grenade launcher on the other mech
+[07:20:24]SAY: Talbain/Demonblooded : man this thing hauls ass.
+[07:20:27]SAY: mouse/ : SQUEEK!
+[07:20:43]OOC: Brett Flickinger/Fiani McFian : Requires 10 unit diamond to make
+[07:20:44]SAY: Talbain/Demonblooded : Wish ther was a way for the Rip to not move so clunky.
+[07:21:08]OOC: Brett Flickinger/Fiani McFian : Less actually, I&#39;m factoring in research costs
+[07:21:10]SAY: mouse/ : Squeek?
+[07:21:12]SAY: mouse/ : Squeek?
+[07:21:51]SAY: Talbain/Demonblooded : So I&#39;m guessing the Gygax is usually supposed to go to the sec folks.
+[07:21:58]OOC: Brett Flickinger/Fiani McFian : Yeah
+[07:22:10]OOC: Brett Flickinger/Fiani McFian : Too bad the hydraulic clamp can only be installed on a Ripley
+[07:22:17]OOC: Brett Flickinger/Fiani McFian : The Gygax takes a drill though
+[07:22:27]OOC: Brett Flickinger/Fiani McFian : Imagine using it together with the inbuilt taser
+[07:22:29]GAME: Antagonists at round end were...
+[07:22:37]OOC: Brett Flickinger/Fiani McFian : TASE AND GI
+[07:22:43]OOC: Brett Flickinger/Fiani McFian : GIB*
+[07:22:45]SAY: Talbain/Demonblooded : Bah. Rip would be useless without that stupid clamp too.
+[07:22:58]ACCESS: Logout: Demonblooded[DC]/(Talbain)
+[07:22:58]ACCESS: Logout: Fiani McFian[DC]/(Brett Flickinger)
+
+
+Starting up. 07:23.13
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[07:23:13]ADMIN: Loading Banlistjob
+[07:23:13]ADMIN: Loading jobban_rank
+[07:23:13]ADMIN: jobban_keylist was empty
+[07:23:13]ADMIN: Loading appearance_rank
+[07:23:13]ADMIN: appearance_keylist was empty
+[07:23:13]ADMIN: Updating jobbanfile!
+[07:23:13]ADMIN: Loading Banlist
+[07:23:20]ACCESS: Login: Demonblooded/(Demonblooded) from 24.18.67.128-391156288 || BYOND v498
+[07:24:46]ACCESS: Logout: Demonblooded[DC]/(Demonblooded)
+[09:17:43]SAY: mouse/ : Squeek?
+[09:18:13]ACCESS: Login: Demonblooded/(Demonblooded) from 168.156.69.250-2721360390 || BYOND v495
+[09:20:26]ACCESS: Logout: *no key*/(Demonblooded)
+[09:20:26]ACCESS: Login: Demonblooded/(Talbain) from 168.156.69.250-2721360390 || BYOND v495
+[09:21:31]SAY: mouse/ : Squeek?
+[09:25:21]SAY: mouse/ : Squeek?
+[09:27:09]SAY: Runtime/ : Purr!
+[09:27:35]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[09:28:40]SAY: mouse/ : Squeek?
+[09:34:00]SAY: mouse/ : Squeek?
+[09:34:48]SAY: mouse/ : Squeek?
+[09:35:23]SAY: mouse/ : Squeek!
+[09:35:25]SAY: mouse/ : Squeek!
+[09:37:46]SAY: mouse/ : Squeek!
+[09:39:00]SAY: mouse/ : Squeek?
+[09:40:27]SAY: Ian/ : YAP
+[09:41:35]SAY: mouse/ : Squeek?
+[09:42:12]SAY: mouse/ : SQUEEK!
+[09:44:54]SAY: mouse/ : Squeek!
+[09:46:49]SAY: mouse/ : Squeek?
+[09:46:57]SAY: mouse/ : Squeek?
+[09:47:53]SAY: Pete/ : EHEHEHEHEH
+[09:48:21]SAY: Tom/ : Squeek!
+[09:48:34]SAY: mouse/ : Squeek!
+[09:50:19]SAY: mouse/ : Squeek!
+[09:50:44]SAY: mouse/ : SQUEEK!
+[09:50:54]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[09:53:53]ACCESS: Logout: Demonblooded[DC]/(Talbain)
+[09:57:44]ACCESS: Login: Fiani McFian/(Fiani McFian) from 210.187.187.66-237290458 || BYOND v498
+[09:58:03]ACCESS: Logout: *no key*/(Fiani McFian)
+[09:58:03]ACCESS: Login: Fiani McFian/(Brett Flickinger) from 210.187.187.66-237290458 || BYOND v498
+[10:00:32]SAY: Ian/ : Bark!
+[10:00:51]SAY: mouse/ : Squeek?
+[10:01:24]SAY: mouse/ : Squeek!
+[10:02:34]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[10:03:26]SAY: Tom/ : SQUEEK!
+[10:04:08]SAY: Tom/ : Squeek?
+[10:06:16]SAY: Pete/ : EHEHEHEHEH
+[10:06:38]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[10:06:55]SAY: Ian/ : Bark!
+[10:07:51]SAY: mouse/ : Squeek?
+[10:08:03]SAY: mouse/ : Squeek!
+[10:08:39]SAY: Pete/ : eh?
+[10:12:18]SAY: mouse/ : Squeek!
+[10:13:39]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[10:13:41]SAY: mouse/ : Squeek?
+[10:14:00]EMOTE: Brett Flickinger/Fiani McFian : <B>Brett Flickinger</B> gasps!
+[10:14:06]EMOTE: Brett Flickinger/Fiani McFian : <B>Brett Flickinger</B> seizes up and falls limp, his eyes dead and lifeless...
+[10:14:12]ACCESS: Logout: *no key*/(Brett Flickinger)
+[10:14:12]ACCESS: Login: Fiani McFian/(Brett Flickinger) from 210.187.187.66-237290458 || BYOND v498
+[10:14:19]ACCESS: Logout: Fiani McFian[DC]/(Brett Flickinger)
+[10:14:30]ACCESS: Login: Glassmirror/(Glassmirror) from 210.187.187.66-237290458 || BYOND v498
+[10:15:13]ACCESS: Logout: *no key*/(Glassmirror)
+[10:15:13]ACCESS: Login: Glassmirror/(Fian Vel Steyr) from 210.187.187.66-237290458 || BYOND v498
+[10:15:25]SAY: mouse/ : Squeek?
+[10:17:01]SAY: mouse/ : SQUEEK!
+[10:17:59]EMOTE: Fian Vel Steyr/Glassmirror : <B>Fian Vel Steyr</B> gasps!
+[10:18:27]ACCESS: Logout: *no key*/(Fian Vel Steyr)
+[10:18:27]ACCESS: Login: Glassmirror/(Fian Vel Steyr) from 210.187.187.66-237290458 || BYOND v498
+[10:18:32]EMOTE: Fian Vel Steyr/ : <B>Fian Vel Steyr</B> gasps!
+[10:18:38]EMOTE: Fian Vel Steyr/ : <B>Fian Vel Steyr</B> gasps!
+[10:18:44]ACCESS: Logout: Glassmirror[DC]/(Fian Vel Steyr)
+[10:18:59]ACCESS: Failed Login: Guest-237290458 - Guests not allowed
+[11:13:53]EMOTE: Fian Vel Steyr/ : <B>Fian Vel Steyr</B> seizes up and falls limp, his eyes dead and lifeless...
+[11:14:03]SAY: Runtime/ : Esp!
+[11:14:49]SAY: mouse/ : SQUEEK!
+[11:15:40]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[11:16:51]SAY: mouse/ : Squeek?
+[11:19:40]SAY: Tom/ : Squeek?
+[11:21:43]ACCESS: Login: Demonblooded/(Talbain) from 168.156.69.250-2721360390 || BYOND v495
+[11:24:46]SAY: mouse/ : Squeek?
+[11:25:25]SAY: mouse/ : Squeek!
+[11:26:19]SAY: mouse/ : SQUEEK!
+[11:28:27]SAY: Tom/ : Squeek!
+[11:32:13]SAY: Ian/ : Woof!
+[11:35:42]SAY: mouse/ : SQUEEK!
+[11:35:48]SAY: Tom/ : SQUEEK!
+[11:36:05]SAY: Runtime/ : HSSSSS
+[11:38:15]SAY: mouse/ : SQUEEK!
+[11:39:29]SAY: mouse/ : SQUEEK!
+[11:40:39]SAY: Runtime/ : Purr!
+[11:40:45]SAY: mouse/ : SQUEEK!
+[11:41:15]SAY: mouse/ : Squeek!
+[11:41:17]SAY: Tom/ : SQUEEK!
+[11:41:27]SAY: Tom/ : Squeek?
+[11:41:31]SAY: mouse/ : Squeek?
+[11:43:10]SAY: mouse/ : SQUEEK!
+[11:44:46]SAY: Tom/ : Squeek!
+[11:45:48]SAY: mouse/ : Squeek?
+[11:46:48]SAY: Tom/ : SQUEEK!
+[11:47:19]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:48:09]SAY: mouse/ : Squeek!
+[11:49:50]SAY: mouse/ : Squeek!
+[11:50:27]SAY: mouse/ : Squeek?
+[11:53:25]SAY: mouse/ : Squeek!
+[11:53:34]SAY: mouse/ : Squeek?
+[11:53:56]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:54:06]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[11:55:29]SAY: mouse/ : Squeek?
+[11:55:58]SAY: mouse/ : SQUEEK!
+[11:56:02]SAY: mouse/ : Squeek?
+[11:57:17]SAY: mouse/ : Squeek!
+[11:57:31]SAY: mouse/ : SQUEEK!
+[12:00:18]SAY: Poly/ : Wire the solars, you lazy bums!
+[12:04:48]SAY: Ian/ : YAP
+[12:09:21]SAY: mouse/ : Squeek!
+[12:11:56]SAY: Runtime/ : HSSSSS
+[12:12:46]SAY: mouse/ : Squeek!
+[12:12:56]SAY: mouse/ : SQUEEK!
+[12:14:12]SAY: Ian/ : YAP
+[12:14:21]SAY: mouse/ : Squeek?
+[12:15:33]SAY: mouse/ : SQUEEK!
+[12:15:33]SAY: Tom/ : Squeek?
+[12:17:48]SAY: Tom/ : Squeek!
+[12:18:48]SAY: mouse/ : Squeek!
+[12:20:11]SAY: mouse/ : SQUEEK!
+[12:23:46]SAY: mouse/ : SQUEEK!
+[12:27:23]SAY: mouse/ : Squeek?
+[12:30:22]SAY: Ian/ : AUUUUUU
+[12:30:35]SAY: mouse/ : Squeek?
+[12:31:12]SAY: mouse/ : Squeek?
+[12:31:26]SAY: mouse/ : SQUEEK!
+[12:31:51]SAY: Runtime/ : HSSSSS
+[12:31:57]SAY: Runtime/ : Meow!
+[12:32:10]SAY: Pete/ : eh?
+[12:34:39]SAY: Pete/ : EHEHEHEHEH
+[12:35:05]SAY: Ian/ : Bark!
+[12:37:55]SAY: mouse/ : Squeek!
+[12:39:55]SAY: mouse/ : Squeek!
+[12:39:57]SAY: Poly/ : Check the singlo, you chucklefucks!
+[12:40:40]SAY: Ian/ : YAP
+[12:41:28]SAY: mouse/ : Squeek?
+[12:44:40]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[12:48:03]SAY: Tom/ : SQUEEK!
+[12:49:44]SAY: Pete/ : eh?
+[12:50:58]SAY: mouse/ : SQUEEK!
+[12:51:00]SAY: Runtime/ : Meow!
+[12:53:04]SAY: mouse/ : Squeek!
+[12:54:33]SAY: Runtime/ : Meow!
+[12:56:08]SAY: Tom/ : Squeek?
+[12:56:33]SAY: mouse/ : Squeek!
+[12:59:57]SAY: Runtime/ : Meow!
+[13:00:06]SAY: mouse/ : Squeek!
+[13:00:51]SAY: mouse/ : Squeek!
+[13:01:49]SAY: mouse/ : Squeek?
+[13:02:02]SAY: mouse/ : SQUEEK!
+[13:03:51]SAY: mouse/ : Squeek?
+[13:03:56]ACCESS: Logout: Demonblooded[DC]/(Talbain)
+[15:15:24]ACCESS: Login: Demonblooded/(Talbain) from 24.18.67.128-391156288 || BYOND v498
+[15:15:48]SAY: mouse/ : Squeek?
+[15:16:28]SAY: mouse/ : Squeek!
+[15:16:57]SAY: mouse/ : SQUEEK!
+[15:16:59]SAY: mouse/ : SQUEEK!
+[15:19:42]SAY: mouse/ : Squeek?
+[15:20:11]SAY: Pete/ : eh?
+[15:20:28]SAY: mouse/ : Squeek!
+[15:20:30]SAY: mouse/ : Squeek?
+[15:23:34]SAY: Runtime/ : HSSSSS
+[15:26:30]SAY: mouse/ : SQUEEK!
+[15:27:57]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[15:28:36]SAY: Tom/ : Squeek?
+[15:33:38]SAY: Ian/ : AUUUUUU
+[15:33:52]SAY: mouse/ : SQUEEK!
+[15:34:52]SAY: mouse/ : Squeek!
+[15:36:54]SAY: mouse/ : Squeek!
+[15:38:37]SAY: Poly/ : Wire the solars, you lazy bums!
+[15:39:19]SAY: mouse/ : SQUEEK!
+[15:41:10]SAY: mouse/ : Squeek!
+[15:41:36]SAY: mouse/ : Squeek?
+[15:42:07]SAY: Tom/ : Squeek!
+[15:42:46]SAY: mouse/ : Squeek!
+[15:43:17]SAY: Poly/ : Poly wanna cracker!
+[15:43:42]SAY: mouse/ : SQUEEK!
+[15:44:30]GAME: Explosion with size (-1, 2, 4) in area Heads of Staff Meeting Room 
+[15:44:37]ACCESS: Logout: Demonblooded[DC]/(Talbain)
+[19:55:59]ACCESS: Login: Tanka/(Tanka) from 24.113.74.218-2284255718 || BYOND v498
+[19:56:09]ACCESS: Logout: *no key*/(Tanka)
+[19:56:09]ACCESS: Login: Tanka/(Freyja) from 24.113.74.218-2284255718 || BYOND v498
+[20:00:13]SAY: Ian/ : Bark!
+[20:00:16]ACCESS: Logout: Tanka[DC]/(Freyja)
+[03:41:17]ACCESS: Login: Zonr_0/(Zonr_0) from 127.0.0.1-3070003764 || BYOND v498
+[03:42:00]ACCESS: Logout: *no key*/(Zonr_0)
+[03:42:00]ACCESS: Login: Zonr_0/(John Mitchell) from 127.0.0.1-3070003764 || BYOND v498
+[03:42:16]ADMIN: Zonr_0/(John Mitchell) initiated an immediate reboot.
+[03:42:16]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)

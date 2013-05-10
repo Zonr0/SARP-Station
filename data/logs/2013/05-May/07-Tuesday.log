@@ -1,0 +1,1020 @@
+
+
+Starting up. 17:58.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[17:58:36]ADMIN: Loading Banlistjob
+[17:58:36]ADMIN: Loading jobban_rank
+[17:58:36]ADMIN: jobban_keylist was empty
+[17:58:36]ADMIN: Loading appearance_rank
+[17:58:36]ADMIN: appearance_keylist was empty
+[17:58:36]ADMIN: Updating jobbanfile!
+[17:58:36]ADMIN: Loading Banlist
+[17:59:07]ACCESS: Login: Zonr_0/(Zonr_0) from 192.168.1.11-3070003764 || BYOND v498
+[17:59:30]ACCESS: Logout: *no key*/(Zonr_0)
+[17:59:30]ACCESS: Login: Zonr_0/(John Mitchell) from 192.168.1.11-3070003764 || BYOND v498
+[17:59:38]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[17:59:54]ADMIN: Zonr_0/(John Mitchell) used secret whiteout
+[17:59:56]ADMIN: Zonr_0/(John Mitchell) made all areas powered
+[17:59:57]ADMIN: Zonr_0/(John Mitchell) used secret power
+[17:59:58]ADMIN: Zonr_0/(John Mitchell) made all SMESs powered
+[17:59:58]ADMIN: Zonr_0/(John Mitchell) used secret quickpower
+[18:00:14]ACCESS: Logout: *no key*/(Agarre17664)
+[18:00:14]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[18:00:48]SAY: Runtime/ : Meow!
+[18:01:27]ADMIN: Zonr_0/(John Mitchell) healed / Revived Agarre17664/(Ira Ramirez)
+[18:01:29]SAY: mouse/ : Squeek!
+[18:02:06]ADMIN: Zonr_0/(John Mitchell) jumped to Agarre17664/(Ira Ramirez)
+[18:02:32]ADMIN: Zonr_0/(John Mitchell) teleported Agarre17664/(Ira Ramirez)
+[18:03:51]ACCESS: Logout: Zonr_0[DC]/(John Mitchell)
+[18:03:58]SAY: Runtime/ : Meow!
+[18:08:10]SAY: Poly/ : Check the singlo, you chucklefucks!
+[18:09:16]SAY: mouse/ : Squeek?
+[18:10:05]SAY: Ian/ : YAP
+[18:10:07]SAY: Runtime/ : Esp!
+[18:11:01]SAY: Tom/ : SQUEEK!
+[18:11:30]SAY: mouse/ : Squeek?
+[18:12:07]SAY: mouse/ : Squeek!
+[18:13:55]SAY: Ian/ : YAP
+[18:19:04]SAY: mouse/ : SQUEEK!
+[18:19:33]SAY: mouse/ : Squeek?
+[18:23:45]SAY: mouse/ : SQUEEK!
+[18:25:11]SAY: Ian/ : Bark!
+[18:25:57]SAY: mouse/ : SQUEEK!
+[18:26:34]SAY: mouse/ : SQUEEK!
+[18:27:07]SAY: Ian/ : Woof!
+[18:28:01]SAY: Poly/ : Poly wanna cracker!
+[18:28:41]SAY: mouse/ : Squeek?
+[18:29:03]SAY: mouse/ : SQUEEK!
+[18:29:38]SAY: Poly/ : Poly wanna cracker!
+[18:29:49]SAY: mouse/ : SQUEEK!
+[18:31:01]SAY: Pete/ : eh?
+[18:31:27]SAY: Poly/ : Check the singlo, you chucklefucks!
+[18:31:29]SAY: Pete/ : EHEHEHEHEH
+[18:34:26]SAY: Tom/ : Squeek!
+[18:34:51]SAY: Runtime/ : HSSSSS
+[18:37:17]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:37:25]SAY: mouse/ : Squeek?
+[18:37:54]SAY: mouse/ : Squeek!
+[18:41:28]SAY: Runtime/ : Esp!
+[18:42:16]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:42:20]SAY: Tom/ : Squeek!
+[18:45:20]SAY: mouse/ : SQUEEK!
+[18:46:26]SAY: mouse/ : Squeek?
+[18:49:09]SAY: mouse/ : SQUEEK!
+[18:50:31]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:50:39]SAY: Tom/ : SQUEEK!
+[18:51:20]SAY: mouse/ : Squeek!
+[18:51:30]SAY: mouse/ : SQUEEK!
+[18:52:14]SAY: mouse/ : Squeek?
+[18:52:41]SAY: mouse/ : Squeek?
+[18:53:16]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:53:32]SAY: mouse/ : SQUEEK!
+[18:53:32]SAY: mouse/ : Squeek!
+[18:54:20]SAY: mouse/ : SQUEEK!
+[18:56:17]SAY: mouse/ : Squeek!
+[18:56:31]SAY: Runtime/ : Esp!
+[18:56:58]SAY: Pete/ : eh?
+[18:57:01]SAY: mouse/ : SQUEEK!
+[18:58:13]SAY: mouse/ : Squeek?
+[18:59:07]SAY: mouse/ : Squeek!
+[18:59:09]SAY: mouse/ : Squeek!
+[19:00:03]SAY: mouse/ : Squeek?
+[19:00:52]SAY: mouse/ : Squeek!
+[19:01:00]SAY: Tom/ : Squeek?
+[19:01:25]SAY: Ian/ : Bark!
+[19:01:53]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[19:02:04]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[19:02:06]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[19:03:12]SAY: Pete/ : eh?
+[19:03:45]SAY: mouse/ : SQUEEK!
+[19:04:33]SAY: mouse/ : Squeek!
+[19:04:54]SAY: mouse/ : Squeek?
+[19:05:33]SAY: Tom/ : Squeek?
+[19:06:27]GAME: Agarre17664/(Ira Ramirez) has called the shuttle.
+[19:10:01]SAY: Ian/ : YAP
+[19:10:39]SAY: Ian/ : YAP
+[19:11:08]SAY: mouse/ : SQUEEK!
+[19:11:14]SAY: Pete/ : eh?
+[19:11:29]SAY: mouse/ : SQUEEK!
+[19:11:33]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[19:14:01]SAY: mouse/ : Squeek!
+[19:14:19]SAY: mouse/ : SQUEEK!
+[19:15:17]SAY: Ian/ : Woof!
+[19:15:29]SAY: mouse/ : Squeek!
+[19:16:00]SAY: mouse/ : Squeek!
+[19:17:09]GAME: agarre17664 has authorized early shuttle launch
+[19:17:15]GAME: agarre17664 has authorized early shuttle launch
+[19:18:24]SAY: mouse/ : Squeek?
+[19:21:14]SAY: Poly/ : Poly wanna cracker!
+[19:21:29]GAME: Antagonists at round end were...
+[19:21:59]ACCESS: Logout: Agarre17664[DC]/(Ira Ramirez)
+
+
+Starting up. 19:22.16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[19:22:16]ADMIN: Loading Banlistjob
+[19:22:16]ADMIN: Loading jobban_rank
+[19:22:16]ADMIN: jobban_keylist was empty
+[19:22:16]ADMIN: Loading appearance_rank
+[19:22:16]ADMIN: appearance_keylist was empty
+[19:22:16]ADMIN: Updating jobbanfile!
+[19:22:16]ADMIN: Loading Banlist
+[19:23:10]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[19:23:25]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.79.155-1582101152 || BYOND v498
+[19:24:39]ACCESS: Logout: *no key*/(Anju Seda)
+[19:24:39]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.79.155-1582101152 || BYOND v498
+[19:24:54]ACCESS: Logout: *no key*/(Agarre17664)
+[19:24:54]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[19:25:29]SAY: Pete/ : eh?
+[19:25:31]SAY: mouse/ : Squeek?
+[19:25:56]SAY: mouse/ : Squeek!
+[19:27:39]SAY: Tom/ : Squeek?
+[19:28:22]SAY: mouse/ : Squeek?
+[19:31:32]SAY: Ian/ : Woof!
+[19:32:18]SAY: mouse/ : SQUEEK!
+[19:32:39]SAY: Pete/ : eh?
+[19:35:22]SAY: Runtime/ : Purr!
+[19:35:57]SAY: mouse/ : Squeek!
+[19:39:01]SAY: Carina Sanroma/Anju Seda : Yo.
+[19:39:12]SAY: Hanako/Agarre17664 : Wuddup!
+[19:39:17]SAY: Carina Sanroma/Anju Seda : The fuck is this for?
+[19:39:25]SAY: Hanako/Agarre17664 : It has the spare captians ID in it goofus.
+[19:39:30]SAY: Carina Sanroma/Anju Seda : Ohhh.
+[19:39:37]SAY: Hanako/Agarre17664 : BOOYA
+[19:39:41]SAY: Carina Sanroma (as Captain)/Anju Seda : Good, now we won&#39;t die horribly.
+[19:39:52]SAY: Carina Sanroma (as Captain)/Anju Seda : Need to get the power going.
+[19:39:52]SAY: Hanako/Agarre17664 : I was going to go peep out the Russian station
+[19:39:55]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[19:39:59]SAY: Hanako/Agarre17664 : but now I am fucking around trying to make stun gloves
+[19:40:02]SAY: Carina Sanroma (as Captain)/Anju Seda : I&#39;ll get shit running here.
+[19:40:27]SAY: Carina Sanroma (as Captain)/Anju Seda :  It&#39;s funny, considering I broke into engineering.
+[19:40:44]SAY: Pete/ : eh?
+[19:40:51]SAY: Poly/ : Poly wanna cracker!
+[19:41:00]SAY: Hanako/Agarre17664 : hey Carina
+[19:41:03]SAY: Ian/ : AUUUUUU
+[19:41:06]SAY: Captain/Anju Seda : What?
+[19:41:10]SAY: Hanako/Agarre17664 : How do you make stun gloves
+[19:41:19]SAY: Hanako/Agarre17664 : how do you make stun gloves again?
+[19:41:23]SAY: Poly/ : Check the singlo, you chucklefucks!
+[19:41:26]SAY: Hanako/Agarre17664 : I forgot how to do alot of shit
+[19:41:32]SAY: Hanako/Agarre17664 : how do you make stun gloves?
+[19:41:39]SAY: Captain/Anju Seda : I never made them.
+[19:41:46]SAY: Hanako/Agarre17664 : I heard that
+[19:41:56]SAY: Hanako/Agarre17664 : Alright I am going to go to the russian station
+[19:42:03]SAY: Hanako/Agarre17664 : its to the east eh?
+[19:42:06]SAY: mouse/ : SQUEEK!
+[19:42:27]SAY: Captain/Anju Seda : Try to get the teleporter over there going.
+[19:42:40]SAY: Hanako/Agarre17664 : alright
+[19:44:23]SAY: mouse/ : SQUEEK!
+[19:44:48]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:44:58]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:45:02]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:45:56]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:46:06]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:46:18]GAME: Anju Seda/(Carina Sanroma) has called the shuttle.
+[19:46:21]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:46:43]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:47:00]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:47:24]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:47:29]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:47:31]SAY: mouse/ : SQUEEK!
+[19:48:06]SAY: Runtime/ : Purr!
+[19:48:22]SAY: Tom/ : Squeek?
+[19:48:22]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:48:30]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:48:39]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:49:02]SAY: Pete/ : eh?
+[19:49:08]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:49:10]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:49:33]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:49:37]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[19:49:39]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> seizes up and falls limp, her eyes dead and lifeless...
+[19:50:10]SAY: Poly/ : Wire the solars, you lazy bums!
+[19:51:12]SAY: Runtime/ : Purr!
+[19:51:32]GAME: Emitter turned off by anjuseda(Captain) in (104,65,1)
+[19:52:32]SAY: mouse/ : Squeek!
+[19:52:41]GAME: Emitter turned off by anjuseda(Captain) in (122,65,1)
+[19:52:50]SAY: mouse/ : Squeek?
+[19:57:03]SAY: Tom/ : Squeek?
+[19:57:51]SAY: Tom/ : Squeek!
+[19:58:19]GAME: anjuseda has authorized early shuttle launch
+[19:58:23]GAME: anjuseda has authorized early shuttle launch
+[19:58:42]SAY: mouse/ : Squeek!
+[19:58:54]SAY: mouse/ : Squeek?
+[19:59:58]SAY: mouse/ : Squeek!
+[20:00:06]SAY: mouse/ : SQUEEK!
+[20:00:08]SAY: mouse/ : Squeek?
+[20:00:16]SAY: mouse/ : SQUEEK!
+[20:01:21]GAME: Antagonists at round end were...
+[20:01:29]ACCESS: Logout: Agarre17664[DC]/(Hanako)
+[20:01:50]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[20:01:51]ACCESS: Logout: Agarre17664[DC]/(Hanako)
+[20:01:51]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+
+
+Starting up. 20:02.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[20:02:08]ADMIN: Loading Banlistjob
+[20:02:08]ADMIN: Loading jobban_rank
+[20:02:08]ADMIN: jobban_keylist was empty
+[20:02:08]ADMIN: Loading appearance_rank
+[20:02:08]ADMIN: appearance_keylist was empty
+[20:02:08]ADMIN: Updating jobbanfile!
+[20:02:08]ADMIN: Loading Banlist
+[20:02:15]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[20:03:47]ACCESS: Logout: *no key*/(Agarre17664)
+[20:03:47]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[20:04:07]SAY: Pete/ : EHEHEHEHEH
+[20:04:35]SAY: mouse/ : SQUEEK!
+[20:05:51]SAY: mouse/ : SQUEEK!
+[20:05:53]SAY: Runtime/ : Esp!
+[20:10:14]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.79.155-1582101152 || BYOND v498
+[20:10:47]ACCESS: Logout: *no key*/(Anju Seda)
+[20:10:47]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.79.155-1582101152 || BYOND v498
+[20:11:01]SAY: mouse/ : SQUEEK!
+[20:11:01]SAY: Runtime/ : Esp!
+[20:11:06]SAY: Carina Sanroma/Anju Seda :  Augh god we may run out of power.
+[20:12:48]SAY: mouse/ : Squeek!
+[20:12:50]SAY: mouse/ : Squeek?
+[20:13:15]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:16:13]SAY: mouse/ : Squeek!
+[20:16:15]SAY: Tom/ : Squeek?
+[20:17:33]SAY: Hanako/Agarre17664 : Soresu, where can I get the fire axe?
+[20:17:52]SAY: mouse/ : Squeek?
+[20:18:27]SAY: Ian/ : AUUUUUU
+[20:18:43]SAY: mouse/ : Squeek?
+[20:18:44]GAME: PA Control Computer turned ON by anjuseda(Carina Sanroma) in (112,71,1)
+[20:18:44]GAME: PA Control Computer increased to 1 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:18:45]GAME: PA Control Computer increased to 2 by anjuseda(Carina Sanroma) in (112,71,1)
+[20:19:02]SAY: Runtime/ : Esp!
+[20:19:37]SAY: Carina Sanroma/Anju Seda : We got power.
+[20:19:44]SAY: Hanako/Agarre17664 : Excellent
+[20:19:57]SAY: Hanako/Agarre17664 : so the russian station is to the west or to the east?
+[20:20:01]SAY: Runtime/ : Meow!
+[20:21:18]SAY: mouse/ : SQUEEK!
+[20:21:36]SAY: Carina Sanroma/Anju Seda : Go to the chapel and fire yourself from the mass driver.
+[20:21:57]SAY: Hanako/Agarre17664 : WHY WONT MY OXYGEN WORK?!
+[20:22:03]SAY: mouse/ : Squeek!
+[20:22:49]SAY: mouse/ : Squeek?
+[20:22:49]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[20:23:30]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[20:23:48]SAY: Runtime/ : HSSSSS
+[20:23:48]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[20:24:02]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[20:24:06]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:24:11]SAY: mouse/ : Squeek!
+[20:24:38]EMOTE: Hanako/Agarre17664 : <B>Hanako</B> gasps!
+[20:24:43]ACCESS: Logout: *no key*/(Hanako)
+[20:24:43]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[20:24:56]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:25:19]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:25:36]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:25:38]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:26:03]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:26:23]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:26:33]EMOTE: Hanako/ : <B>Hanako</B> gasps!
+[20:27:30]EMOTE: Hanako/ : <B>Hanako</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:29:40]SAY: mouse/ : Squeek!
+[20:30:19]SAY: mouse/ : SQUEEK!
+[20:31:21]SAY: Pete/ : EHEHEHEHEH
+[20:31:51]SAY: Ian/ : Bark!
+[20:32:23]SAY: Ghost/Agarre17664 : ooc, what the fuck soresu?
+[20:33:03]OOC: Hanako/Agarre17664 : holy shit
+[20:33:12]SAY: mouse/ : SQUEEK!
+[20:33:29]OOC: Hanako/Agarre17664 : what is this place?
+[20:34:05]SAY: Carina Sanroma/Anju Seda : Point me to your corpse.
+[20:34:14]SAY: Ghost/Agarre17664 : Alright.
+[20:34:15]OOC: Carina Sanroma/Anju Seda : Point me toward your corpse.
+[20:34:20]OOC: Hanako/Agarre17664 : alright
+[20:34:24]SAY: mouse/ : Squeek?
+[20:35:45]SAY: mouse/ : SQUEEK!
+[20:37:09]SAY: Ghost/Agarre17664 : ooc its at the top left corner of the map
+[20:37:19]OOC: Hanako/Agarre17664 : its at the top left corner of the map
+[20:37:58]SAY: mouse/ : Squeek!
+[20:38:06]SAY: Ian/ : YAP
+[20:38:14]SAY: mouse/ : Squeek!
+[20:39:06]SAY: mouse/ : Squeek!
+[20:39:35]SAY: Tom/ : SQUEEK!
+[20:39:51]OOC: Carina Sanroma/Anju Seda : I have no idea where I am right now.
+[20:40:07]SAY: Ghost/Agarre17664 : Keep going left ill find you
+[20:40:46]SAY: Ghost/Agarre17664 : I know where I am at
+[20:40:57]OOC: Hanako/Agarre17664 : keep going left, I&#39;ll find you
+[20:41:14]SAY: mouse/ : Squeek?
+[20:41:18]OOC: Hanako/Agarre17664 : WHAT THE FUUUUCK
+[20:41:47]SAY: Ghost/Agarre17664 : ooc founda fucking space ship
+[20:41:54]OOC: Hanako/Agarre17664 : a fucking space ship?
+[20:42:15]OOC: Carina Sanroma/Anju Seda : Yeah, right?
+[20:42:22]SAY: Pete/ : EHEHEHEHEH
+[20:42:31]SAY: Ghost/Agarre17664 : Just fart around here
+[20:42:45]OOC: Hanako/Agarre17664 : fart around here I will go see where I amm in respects to this ship
+[20:43:13]OOC: Carina Sanroma/Anju Seda : Oh HO
+[20:43:57]SAY: Runtime/ : Meow!
+[20:44:19]SAY: Ghost/Agarre17664 : Mmmk, I have no fucking idea
+[20:44:28]SAY: mouse/ : Squeek!
+[20:44:28]OOC: Hanako/Agarre17664 : yea I have no idea where my corpse is compared to here
+[20:44:40]SAY: Ghost/Agarre17664 : I sure as hell can not find it
+[20:44:58]OOC: Carina Sanroma/Anju Seda : Think this is the Medical Shuttle.
+[20:45:21]SAY: Ghost/Agarre17664 : Eh? any way to get it moving?
+[20:45:25]SAY: mouse/ : Squeek!
+[20:45:28]OOC: Hanako/Agarre17664 : any way to get it moving
+[20:45:41]SAY: mouse/ : SQUEEK!
+[20:45:51]OOC: Carina Sanroma/Anju Seda : Going to see.
+[20:46:20]SAY: Tom/ : SQUEEK!
+[20:46:36]OOC: Hanako/Agarre17664 : fuck, the respawn button does not work
+[20:46:55]SAY: mouse/ : SQUEEK!
+[20:48:30]SAY: mouse/ : SQUEEK!
+[20:52:31]SAY: mouse/ : SQUEEK!
+[20:52:39]SAY: mouse/ : Squeek?
+[20:52:50]OOC: Hanako/Agarre17664 : imma go run to the store
+[20:53:08]SAY: Tom/ : Squeek?
+[20:58:43]SAY: Ian/ : AUUUUUU
+[20:59:39]SAY: mouse/ : Squeek!
+[21:00:08]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:00:16]SAY: Pete/ : EHEHEHEHEH
+[21:00:49]SAY: Tom/ : SQUEEK!
+[21:01:04]GAME: Anju Seda/(Carina Sanroma) has called the shuttle.
+[21:02:18]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[21:02:28]SAY: Runtime/ : HSSSSS
+[21:02:39]SAY: mouse/ : Squeek!
+[21:02:47]SAY: Runtime/ : Purr!
+[21:03:57]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:04:03]SAY: mouse/ : SQUEEK!
+[21:04:42]SAY: mouse/ : Squeek!
+[21:05:57]SAY: Pete/ : EHEHEHEHEH
+[21:06:21]SAY: mouse/ : SQUEEK!
+[21:08:24]ACCESS: Logout: Agarre17664[DC]/(Hanako)
+[21:09:00]SAY: mouse/ : Squeek!
+[21:10:38]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[21:10:40]ACCESS: Logout: Agarre17664[DC]/(Hanako)
+[21:10:49]ACCESS: Login: Agarre17664/(Hanako) from 108.93.220.247-3644641028 || BYOND v495
+[21:11:34]OOC: Hanako/Agarre17664 : I think next round I am going to do something productive lol
+[21:16:06]GAME: Antagonists at round end were...
+[21:16:08]SAY: Ghost/Agarre17664 : JESUS
+[21:16:36]ACCESS: Logout: Agarre17664[DC]/(Hanako)
+[21:16:36]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
+
+
+Starting up. 21:16.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:16:54]ADMIN: Loading Banlistjob
+[21:16:54]ADMIN: Loading jobban_rank
+[21:16:54]ADMIN: jobban_keylist was empty
+[21:16:54]ADMIN: Loading appearance_rank
+[21:16:54]ADMIN: appearance_keylist was empty
+[21:16:54]ADMIN: Updating jobbanfile!
+[21:16:54]ADMIN: Loading Banlist
+[21:17:25]ACCESS: Login: Agarre17664/(Agarre17664) from 108.93.220.247-3644641028 || BYOND v495
+[21:17:43]ACCESS: Login: Anju Seda/(Anju Seda) from 98.82.79.155-1582101152 || BYOND v498
+[21:18:54]ACCESS: Logout: *no key*/(Agarre17664)
+[21:18:54]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[21:18:55]ACCESS: Logout: *no key*/(Anju Seda)
+[21:18:55]ACCESS: Login: Anju Seda/(Carina Sanroma) from 98.82.79.155-1582101152 || BYOND v498
+[21:19:38]SAY: Pete/ : EHEHEHEHEH
+[21:21:35]SAY: Carina Sanroma/Anju Seda : Now to get this bitch powered.
+[21:21:57]SAY: Ira Ramirez/Agarre17664 : I will attempt to get us some ore
+[21:22:24]SAY: Carina Sanroma/Anju Seda : Good opportunity to also learn RD.
+[21:22:37]SAY: Ira Ramirez/Agarre17664 : Lemme get cargo rolling
+[21:22:43]SAY: Ira Ramirez/Agarre17664 : imma get cargo rolling first
+[21:23:14]SAY: mouse/ : SQUEEK!
+[21:23:24]SAY: mouse/ : Squeek?
+[21:24:06]SAY: mouse/ : Squeek?
+[21:27:00]SAY: mouse/ : Squeek!
+[21:27:15]SAY: Ira Ramirez/Agarre17664 : I am getting more cargo points, anything specific you need?
+[21:28:38]SAY: Tom/ : Squeek?
+[21:28:46]GAME: PA Control Computer increased to 1 by anjuseda(Carina Sanroma) in (112,71,1)
+[21:28:46]GAME: PA Control Computer increased to 2 by anjuseda(Carina Sanroma) in (112,71,1)
+[21:28:48]GAME: PA Control Computer turned ON by anjuseda(Carina Sanroma) in (112,71,1)
+[21:29:00]SAY: Carina Sanroma/Anju Seda : Power is coming online shortly.
+[21:30:29]SAY: Ira Ramirez/Agarre17664 : You should make ripleys so we can get awesome sauce ores
+[21:30:51]SAY: Carina Sanroma/Anju Seda : I just initiated a quantum singularity to power this station single handedly. One thing at a time lol.
+[21:32:37]SAY: Carina Sanroma/Anju Seda : Going to wire the solars for backup power.
+[21:33:56]SAY: mouse/ : SQUEEK!
+[21:34:38]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:37:44]ACCESS: Login: XrP-Avarice/(XrP-Avarice) from 64.183.69.170-2426476255 || BYOND v496
+[21:37:56]OOC: XrP-Avarice/XrP-Avarice : Who&#39;s server is this?
+[21:38:12]OOC: Carina Sanroma/Anju Seda : Who you be?
+[21:38:19]ACCESS: Login: Demonblooded/(Demonblooded) from 24.18.67.128-2990753962 || BYOND v498
+[21:38:20]OOC: XrP-Avarice/XrP-Avarice : Frown-chan.
+[21:38:22]SAY: Ira Ramirez/Agarre17664 : OOC Zonr_0&#39;s
+[21:38:32]OOC: Ira Ramirez/Agarre17664 : Zonr_0&#39;s
+[21:38:38]OOC: XrP-Avarice/XrP-Avarice : Ah!
+[21:38:40]ACCESS: Logout: *no key*/(Demonblooded)
+[21:38:40]ACCESS: Login: Demonblooded/(Talbain) from 24.18.67.128-2990753962 || BYOND v498
+[21:38:41]OOC: XrP-Avarice/XrP-Avarice : Do you have away missions here?
+[21:38:45]OOC: Carina Sanroma/Anju Seda : Fucking solars.
+[21:38:55]SAY: Ira Ramirez/Agarre17664 : I wanted to go to the russian station, I am feeling ballsy
+[21:39:05]SAY: Ira Ramirez/Agarre17664 : ooc I am feeling ballsy again to try going to russia
+[21:39:17]OOC: Ira Ramirez/Agarre17664 :  I am feeling daring again to try russia
+[21:39:18]OOC: Carina Sanroma/Anju Seda : If there&#39;s a gateway we should.
+[21:39:20]ACCESS: Logout: *no key*/(XrP-Avarice)
+[21:39:20]ACCESS: Login: XrP-Avarice/(Daisy Marshal) from 64.183.69.170-2426476255 || BYOND v496
+[21:39:28]OOC: Ira Ramirez/Agarre17664 : There is a gate way here.
+[21:39:33]SAY: Daisy Marshal/XrP-Avarice : wdd
+[21:39:34]OOC: Carina Sanroma/Anju Seda : Hold on Ira. I want to back your DNA up first. Before you fuck up again.
+[21:39:39]OOC: Daisy Marshal/XrP-Avarice : Away missions are separate maps.
+[21:39:43]OOC: Daisy Marshal/XrP-Avarice : THey&#39;re usually loaded separately.
+[21:39:46]SAY: mouse/ : SQUEEK!
+[21:39:48]OOC: Ira Ramirez/Agarre17664 : I can tolirate that soresu lmao
+[21:39:50]SAY: Poly/ : Poly wanna cracker!
+[21:39:53]SAY: Tom/ : Squeek?
+[21:39:55]SAY: mouse/ : Squeek?
+[21:40:05]OOC: Ira Ramirez/Agarre17664 : we gotta get more people for an away!
+[21:40:07]SAY: Daisy Marshal/XrP-Avarice : Wassup?
+[21:40:12]SAY: Carina Sanroma/Anju Seda : Same old shit.
+[21:40:13]SAY: Daisy Marshal/XrP-Avarice : ALL ACCES PLOX!
+[21:40:21]SAY: Carina Sanroma/Anju Seda : Let me back up Ira&#39;s DNA.
+[21:40:35]SAY: Carina Sanroma/Anju Seda :  Get your ass to genetics, Ira.
+[21:40:36]SAY: Ian/ : Bark!
+[21:40:55]OOC: Ira Ramirez/Agarre17664 : lemme get all captiany!
+[21:41:42]SAY: Daisy Marshal/XrP-Avarice : Clone me.
+[21:41:59]SAY: Carina Sanroma/Anju Seda : Can&#39;t.
+[21:42:09]SAY: Daisy Marshal/XrP-Avarice : dang
+[21:42:21]SAY: Talbain/Demonblooded :  So what did you need me mining out?
+[21:42:56]OOC: Ira Ramirez/Agarre17664 : what every ou like bro.
+[21:43:07]SAY: Carina Sanroma/Anju Seda :  E&#39;re thing.
+[21:43:17]SAY: Daisy Marshal/XrP-Avarice : CAPITAN
+[21:43:22]SAY: Carina Sanroma/Anju Seda :  Ira! Get to genetics, god damn.
+[21:43:22]SAY: Daisy Marshal/XrP-Avarice : ALL ACCESS POR PLOX
+[21:44:03]SAY: Runtime/ : Esp!
+[21:44:06]SAY: Ira Ramirez/Agarre17664 : Daisy check the HoP&#39;s desk
+[21:44:28]SAY: mouse/ : Squeek?
+[21:44:37]OOC: Daisy Marshal/XrP-Avarice : Yeh no away mission loaded
+[21:44:42]OOC: Daisy Marshal/XrP-Avarice : You gotta DL those separately
+[21:44:44]OOC: Daisy Marshal/XrP-Avarice : Lemme find a link
+[21:45:03]SAY: Carina Sanroma/Anju Seda : Into the cloner.
+[21:45:14]SAY: Talbain/Demonblooded :  so what&#39;s all this mat gonna be fore?
+[21:45:32]SAY: Ira Ramirez/Agarre17664 : OOC Mechs!
+[21:45:37]OOC: Ira Ramirez/Agarre17664 : Mechs!
+[21:45:47]SAY: Ira Ramirez/Agarre17664 : OOC Infact should somebody make you a ripley?
+[21:45:55]OOC: Ira Ramirez/Agarre17664 : would you like a ripley?
+[21:46:36]SAY: mouse/ : Squeek!
+[21:46:42]SAY: Talbain/Demonblooded : Wish there was an automated way to pick up ore.
+[21:46:46]SAY: Carina Sanroma/Anju Seda :  Now to finish wiring this bitch.
+[21:47:09]OOC: Daisy Marshal/XrP-Avarice : CANNOT FIND
+[21:47:10]SAY: Talbain/Demonblooded :  If there was an automated way to pick up ore I could outmine a rip with a drill/silver pick.
+[21:47:44]SAY: Carina Sanroma/Anju Seda :  Give me a sec to scarf this gyro and I&#39;ll work on mining shit.
+[21:48:01]SAY: Tom/ : Squeek!
+[21:48:18]SAY: Talbain/Demonblooded :  I got enough metal for a couple suits.
+[21:48:59]SAY: mouse/ : Squeek?
+[21:49:54]SAY: Tom/ : SQUEEK!
+[21:50:02]OOC: Daisy Marshal/XrP-Avarice : Aha.
+[21:50:04]OOC: Daisy Marshal/XrP-Avarice : I found one of them.
+[21:50:07]OOC: Daisy Marshal/XrP-Avarice : Is Zonr here?
+[21:50:10]OOC: Ira Ramirez/Agarre17664 : where is the fire axe located?
+[21:50:20]OOC: Daisy Marshal/XrP-Avarice : http://code.google.com/p/tgstation13/source/browse/trunk/maps/RandomZLevels/wildwest.dmm?r=5085&spec=svn5085 This is the only away mission I could find.
+[21:50:21]SAY: Ira Ramirez/Agarre17664 : ooc not at present
+[21:50:26]OOC: Ira Ramirez/Agarre17664 : not at present
+[21:50:32]SAY: Pete/ : EHEHEHEHEH
+[21:51:01]OOC: Daisy Marshal/XrP-Avarice : I found the names for all of them.
+[21:51:05]OOC: Daisy Marshal/XrP-Avarice : And a list of their filenames.
+[21:52:17]SAY: Tom/ : SQUEEK!
+[21:52:59]ACCESS: Logout: XrP-Avarice[DC]/(Daisy Marshal)
+[21:53:13]SAY: mouse/ : Squeek!
+[21:54:03]SAY: Tom/ : Squeek!
+[21:54:14]SAY: Carina Sanroma/Anju Seda :  Alright, starting research now.
+[21:54:46]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[21:54:47]SAY: Ira Ramirez/Agarre17664 : Now how do I shoot my self out of this mass driver?
+[21:54:56]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> OH NO I GOT SICK
+[21:55:11]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[21:55:38]SAY: mouse/ : SQUEEK!
+[21:55:55]SAY: Ira Ramirez/Agarre17664 : ooc okay I need medical attention, looks like I got sick
+[21:56:46]SAY: Ira Ramirez/Agarre17664 : Okay, I need medical attention.
+[21:56:53]SAY: mouse/ : Squeek!
+[21:57:50]SAY: Ira Ramirez/Agarre17664 : hey I need medical
+[21:58:26]SAY: Ira Ramirez/Agarre17664 : I need medical attention ;.;
+[21:58:32]SAY: Ira Ramirez/Agarre17664 : me cries
+[21:58:36]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> cries
+[21:58:47]SAY: mouse/ : Squeek!
+[21:58:51]SAY: Ira Ramirez/Agarre17664 : SOB SOB SOB!
+[21:59:24]SAY: mouse/ : SQUEEK!
+[22:00:21]SAY: Ira Ramirez/Agarre17664 : Hey, I really do needh elp in medical, I am puking
+[22:00:26]SAY: Carina Sanroma/Anju Seda :  Think I may need to rectify the food situation too.
+[22:00:39]SAY: Tom/ : SQUEEK!
+[22:00:57]SAY: Ira Ramirez/Agarre17664 : okay this is getting bad....
+[22:01:04]OOC: Ira Ramirez/Agarre17664 : I am no doctor.
+[22:01:13]SAY: Ira Ramirez/Agarre17664 : say I guess I will take all of the drugs...
+[22:01:13]OOC: Carina Sanroma/Anju Seda : What&#39;s wrong?
+[22:01:26]OOC: Ira Ramirez/Agarre17664 : my toon is vomiting profusley
+[22:01:38]OOC: Carina Sanroma/Anju Seda : Get to medical.
+[22:01:48]OOC: Ira Ramirez/Agarre17664 : already there
+[22:02:06]SAY: Pete/ : EHEHEHEHEH
+[22:02:16]SAY: Carina Sanroma/Anju Seda : Ah shit.
+[22:02:20]SAY: Carina Sanroma/Anju Seda : Time to OPERATE.
+[22:02:22]SAY: Ira Ramirez/Agarre17664 : what is it? space flu?
+[22:02:27]SAY: Carina Sanroma/Anju Seda : Appendicitis.
+[22:02:30]SAY: Ira Ramirez/Agarre17664 : damn it!
+[22:02:46]SAY: Ira Ramirez/Agarre17664 : need me to get nakkeh?
+[22:02:51]SAY: Carina Sanroma/Anju Seda : Yarp.
+[22:02:53]SAY: Tom/ : SQUEEK!
+[22:03:22]SAY: Tom/ : SQUEEK!
+[22:03:24]SAY: mouse/ : Squeek?
+[22:03:42]SAY: Carina Sanroma/Anju Seda : Fucking guide won&#39;t open.
+[22:04:07]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> screams in pain
+[22:04:16]SAY: Ira Ramirez/Agarre17664 : POR QUUUUEEEEE!
+[22:04:41]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> cries
+[22:05:50]SAY: mouse/ : Squeek?
+[22:06:07]SAY: Ian/ : AUUUUUU
+[22:06:18]SAY: Carina Sanroma/Anju Seda : Better?
+[22:06:25]SAY: mouse/ : Squeek!
+[22:07:22]SAY: mouse/ : Squeek?
+[22:07:56]SAY: Carina Sanroma/Anju Seda :  Still want that Ripley?
+[22:08:19]SAY: Talbain/Demonblooded :  Nah don&#39;t plan on staying on.
+[22:08:51]SAY: mouse/ : SQUEEK!
+[22:09:28]SAY: Talbain/Demonblooded :  Only really interested in finding the hidden rooms out on the rock.
+[22:09:46]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:11:03]SAY: mouse/ : Squeek?
+[22:11:36]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[22:11:42]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:12:01]SAY: mouse/ : SQUEEK!
+[22:12:06]SAY: Ira Ramirez/Agarre17664 : Where is the fire axe located
+[22:12:36]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:13:02]SAY: Carina Sanroma/Anju Seda : Enjoying your appendix free body?
+[22:13:17]SAY: Ira Ramirez/Agarre17664 : Yes hell yea.
+[22:13:34]SAY: Carina Sanroma/Anju Seda : First time I ever did surgery.
+[22:13:36]SAY: Ira Ramirez/Agarre17664 : I am trying to locate the fire axe so I can break into the ruskie station
+[22:13:42]SAY: Runtime/ : Purr!
+[22:15:32]SAY: Poly/ : Check the singlo, you chucklefucks!
+[22:16:03]SAY: Carina Sanroma/Anju Seda : Eat something.
+[22:17:22]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[22:17:45]SAY: mouse/ : Squeek!
+[22:18:18]SAY: Talbain/Demonblooded :  So how do you go about changing your ID access?
+[22:18:28]SAY: Carina Sanroma/Anju Seda :  Want yours changed?
+[22:18:31]SAY: Talbain/Demonblooded : There an ID for that stuffed in the HoP machin?
+[22:18:36]SAY: Talbain/Demonblooded : yeah.
+[22:18:41]SAY: mouse/ : SQUEEK!
+[22:18:43]SAY: Talbain/Demonblooded : Gonna make a couple bucketbots.
+[22:18:53]SAY: Talbain/Demonblooded : That way you don&#39;t end up with space vines.
+[22:20:51]SAY: Carina Sanroma/Anju Seda : All access.
+[22:21:49]SAY: Ira Ramirez/Agarre17664 : OOC how the hell do you get the fire axe?!
+[22:22:07]SAY: mouse/ : SQUEEK!
+[22:23:03]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[22:23:13]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[22:23:15]SAY: Ira Ramirez/Agarre17664 : OOC GODAMN IT
+[22:23:19]OOC: Ira Ramirez/Agarre17664 : GODDAMN IT
+[22:23:35]OOC: Carina Sanroma/Anju Seda : What now?
+[22:23:42]OOC: Ira Ramirez/Agarre17664 : Sick again.
+[22:23:42]SAY: Talbain/Demonblooded :  How can I make more buckets?
+[22:23:51]SAY: Carina Sanroma/Anju Seda :  Try cargo
+[22:24:17]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[22:24:29]SAY: Poly/ : Check the singlo, you chucklefucks!
+[22:24:32]SAY: Ira Ramirez/Agarre17664 : OOC I need help again in medical.
+[22:25:04]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> coughs!
+[22:26:14]OOC: Ira Ramirez/Agarre17664 : apparantly I have appendicitis again.
+[22:26:27]OOC: Carina Sanroma/Anju Seda : Hold on, I&#39;ll be right there.
+[22:28:16]SAY: mouse/ : Squeek?
+[22:29:37]SAY: mouse/ : Squeek!
+[22:31:12]SAY: mouse/ : SQUEEK!
+[22:31:22]SAY: Carina Sanroma/Anju Seda : Your appendix is right here.
+[22:31:47]SAY: Carina Sanroma/Anju Seda : Taking you to cryo.
+[22:31:58]SAY: Ira Ramirez/Agarre17664 : Eh?
+[22:32:02]SAY: Ira Ramirez/Agarre17664 : What does that do?
+[22:32:06]SAY: Carina Sanroma/Anju Seda : Heals.
+[22:32:24]SAY: Ira Ramirez/Agarre17664 : I wish we had the alien toon dolls
+[22:33:00]SAY: Carina Sanroma/Anju Seda : I just wish you didn&#39;t have appendicitis when you don&#39;t have an appendix.
+[22:33:34]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> trembles
+[22:33:51]SAY: mouse/ : SQUEEK!
+[22:34:27]SAY: Ian/ : AUUUUUU
+[22:34:28]SAY: Unknown/Agarre17664 : Eh?
+[22:34:39]SAY: Carina Sanroma/Anju Seda : Just no reason for this appendicitis.
+[22:34:56]SAY: Carina Sanroma/Anju Seda : It&#39;s right there.
+[22:35:33]SAY: mouse/ : Squeek!
+[22:37:27]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> cries
+[22:37:29]SAY: Ira Ramirez/Agarre17664 : WHAT THE HELL
+[22:37:35]SAY: Tom/ : SQUEEK!
+[22:38:04]SAY: Runtime/ : Esp!
+[22:39:20]SAY: mouse/ : Squeek?
+[22:40:53]SAY: Carina Sanroma/Anju Seda :  Ok, we have food.
+[22:41:22]SAY: Carina Sanroma/Anju Seda :  Food&#39;s up.
+[22:41:25]SAY: Ira Ramirez/Agarre17664 : RUSSSSIA
+[22:41:31]SAY: Ira Ramirez/Agarre17664 : TO RUSSIA
+[22:41:36]SAY: Ira Ramirez/Agarre17664 : hmm
+[22:41:42]OOC: Ira Ramirez/Agarre17664 : SPAAAACE
+[22:41:49]OOC: Carina Sanroma/Anju Seda : Food in the kitchen.
+[22:42:28]SAY: Ira Ramirez/Agarre17664 : Man, I did not know about the mass driver
+[22:42:30]SAY: mouse/ : Squeek?
+[22:42:40]SAY: Tom/ : Squeek!
+[22:42:51]SAY: mouse/ : Squeek?
+[22:43:41]SAY: Ira Ramirez/Agarre17664 : well that failed
+[22:44:38]SAY: Ira Ramirez/Agarre17664 : WHAT THE FUUUUUCK
+[22:46:26]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:46:33]SAY: Ira Ramirez/Agarre17664 : OOC TRYING IT AGAIN!
+[22:46:38]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:46:38]OOC: Ira Ramirez/Agarre17664 : TRYING IT AGAIN!
+[22:46:43]SAY: Ira Ramirez/Agarre17664 : Oh shit
+[22:46:52]SAY: Ira Ramirez/Agarre17664 : Carina
+[22:47:03]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:47:08]SAY: Ira Ramirez/Agarre17664 : I have made contact with a forign station
+[22:47:09]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:47:15]EMOTE: Unknown/XrP-Avarice : <B>Unknown</B> gasps!
+[22:47:28]SAY: Runtime/ : Meow!
+[22:47:36]SAY: mouse/ : Squeek?
+[22:47:59]EMOTE: Daisy Marshal/XrP-Avarice : <B>Daisy Marshal</B> gasps!
+[22:48:05]SAY: mouse/ : SQUEEK!
+[22:48:42]SAY: mouse/ : SQUEEK!
+[22:49:05]OOC: Carina Sanroma/Anju Seda : Trying what again?
+[22:49:42]SAY: Tom/ : Squeek!
+[22:50:17]SAY: Runtime/ : Meow!
+[22:53:16]SAY: Tom/ : Squeek?
+[22:53:21]SAY: Carina Sanroma/Anju Seda : Workin&#39;?
+[22:53:26]SAY: Talbain/Demonblooded : Ish.
+[22:53:38]SAY: Talbain/Demonblooded : Need more research for mech circuits though.
+[22:53:40]SAY: Carina Sanroma/Anju Seda : Have a gun.
+[22:55:01]SAY: Runtime/ : Meow!
+[22:56:15]SAY: mouse/ : SQUEEK!
+[22:56:29]SAY: Tom/ : Squeek!
+[22:56:39]OOC: Ira Ramirez/Agarre17664 : anybody there?
+[22:56:40]SAY: mouse/ : SQUEEK!
+[22:56:44]OOC: Carina Sanroma/Anju Seda : Yes?
+[22:56:58]OOC: Carina Sanroma/Anju Seda : I need silver.
+[22:57:00]SAY: Ira Ramirez/Agarre17664 : can you hear me?
+[22:57:04]SAY: Runtime/ : HSSSSS
+[22:57:17]SAY: Talbain/Demonblooded :  Robotics.
+[22:57:42]SAY: Ira Ramirez/Agarre17664 : can we clone dead things?
+[22:58:41]SAY: Carina Sanroma/Anju Seda : I got the Gygax, Ripley and Durand unlocked.
+[22:58:51]SAY: Carina Sanroma/Anju Seda : We need silver.
+[22:58:57]SAY: Talbain/Demonblooded : cool.
+[22:59:22]SAY: Talbain/Demonblooded :  Diamond drill a rip and I&#39;ll go tear the roid up some more.
+[22:59:33]SAY: Runtime/ : Purr!
+[22:59:56]SAY: mouse/ : Squeek?
+[23:00:15]SAY: mouse/ : SQUEEK!
+[23:00:33]SAY: mouse/ : Squeek!
+[23:01:09]SAY: mouse/ : SQUEEK!
+[23:01:33]SAY: Runtime/ : Esp!
+[23:01:45]SAY: mouse/ : SQUEEK!
+[23:03:41]SAY: Poly/ : Poly wanna cracker!
+[23:05:29]SAY: Tom/ : SQUEEK!
+[23:05:56]SAY: mouse/ : Squeek?
+[23:07:07]SAY: mouse/ : Squeek?
+[23:08:15]SAY: mouse/ : SQUEEK!
+[23:08:44]OOC: Ira Ramirez/Agarre17664 : they had crazy ore at this place
+[23:09:52]SAY: mouse/ : SQUEEK!
+[23:11:45]SAY: mouse/ : Squeek!
+[23:12:17]SAY: Runtime/ : Esp!
+[23:12:34]SAY: Talbain/Demonblooded : Got the gun stuff loaded onto it too?
+[23:12:35]SAY: mouse/ : Squeek!
+[23:12:38]SAY: Carina Sanroma/Anju Seda : Not yet
+[23:16:23]SAY: mouse/ : Squeek?
+[23:16:54]SAY: mouse/ : Squeek?
+[23:18:04]SAY: Runtime/ : Esp!
+[23:18:31]SAY: mouse/ : Squeek?
+[23:19:46]SAY: Unknown/Anju Seda : How&#39;s the xenomorph thing going?
+[23:20:14]SAY: mouse/ : Squeek?
+[23:20:45]SAY: Poly/ : Wire the solars, you lazy bums!
+[23:22:23]SAY: mouse/ : SQUEEK!
+[23:23:13]SAY: Tom/ : Squeek!
+[23:24:42]SAY: Ira Ramirez/Agarre17664 : anybody!
+[23:24:43]SAY: Ian/ : Bark!
+[23:24:57]SAY: Ira Ramirez/Agarre17664 : hello!
+[23:25:20]OOC: Ira Ramirez/Agarre17664 : anybody there?
+[23:25:32]SAY: mouse/ : Squeek?
+[23:25:34]OOC: Carina Sanroma/Anju Seda : Yes?
+[23:25:38]SAY: mouse/ : Squeek!
+[23:25:45]SAY: mouse/ : SQUEEK!
+[23:25:48]OOC: Ira Ramirez/Agarre17664 : I found that derelect medical shuttle
+[23:25:57]SAY: mouse/ : SQUEEK!
+[23:26:05]OOC: Carina Sanroma/Anju Seda : I&#39;ve made Laser Cannons. And Captain Pistol Knock Offs.
+[23:26:29]OOC: Ira Ramirez/Agarre17664 : Nice
+[23:26:38]SAY: Ira Ramirez/Agarre17664 : ooc I am trying to come back
+[23:26:43]SAY: Ian/ : YAP
+[23:26:46]OOC: Ira Ramirez/Agarre17664 : I am trying to come back
+[23:26:57]SAY: mouse/ : Squeek!
+[23:27:08]SAY: Ian/ : YAP
+[23:27:23]OOC: Ira Ramirez/Agarre17664 : I switches my suit sensors on
+[23:27:45]SAY: mouse/ : SQUEEK!
+[23:29:33]OOC: Ira Ramirez/Agarre17664 : prepair to clone meh
+[23:29:36]SAY: mouse/ : SQUEEK!
+[23:29:38]SAY: mouse/ : Squeek!
+[23:30:08]OOC: Carina Sanroma/Anju Seda : Oh god damn it, seriously?
+[23:30:10]OOC: Ira Ramirez/Agarre17664 : I found that crazy russian station
+[23:30:29]OOC: Carina Sanroma/Anju Seda : Try and find the teleporter.
+[23:30:47]SAY: Ira Ramirez/Agarre17664 : COMING TO YOU LIVE, THIS IS RADIO KGB!
+[23:31:05]SAY: mouse/ : Squeek!
+[23:31:17]SAY: mouse/ : Squeek!
+[23:31:18]SAY: Ira Ramirez/Agarre17664 : I found the russian pirate radio station
+[23:33:50]SAY: mouse/ : SQUEEK!
+[23:34:17]SAY: mouse/ : Squeek?
+[23:36:54]SAY: mouse/ : Squeek?
+[23:37:51]SAY: mouse/ : Squeek?
+[23:38:09]ACCESS: Logout: Demonblooded[DC]/(Talbain)
+[23:38:16]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[23:40:15]OOC: Ira Ramirez/Agarre17664 : I think I am at the big russian station now
+[23:40:47]OOC: Carina Sanroma/Anju Seda : God damn, something smashed through some reinforced wall.
+[23:41:44]SAY: mouse/ : Squeek?
+[23:42:06]SAY: Ian/ : Bark!
+[23:42:16]SAY: mouse/ : Squeek?
+[23:43:23]OOC: Ira Ramirez/Agarre17664 : Soresu where is the transporter bro
+[23:46:26]OOC: Carina Sanroma/Anju Seda : We had some outer hull breaches.
+[23:47:00]SAY: Runtime/ : HSSSSS
+[23:47:35]SAY: mouse/ : Squeek!
+[23:47:48]SAY: Ian/ : YAP
+[23:48:21]SAY: mouse/ : Squeek!
+[23:49:47]OOC: Ira Ramirez/Agarre17664 : I&#39;m not going to make it
+[23:51:03]SAY: mouse/ : SQUEEK!
+[23:52:40]SAY: Poly/ : Check the singlo, you chucklefucks!
+[23:54:33]SAY: Ian/ : AUUUUUU
+[23:55:29]SAY: mouse/ : Squeek?
+[23:55:52]SAY: mouse/ : Squeek!
+[23:57:52]SAY: mouse/ : Squeek!
+[23:59:31]SAY: mouse/ : SQUEEK!
+[00:00:08]SAY: mouse/ : Squeek?
+[00:00:35]SAY: mouse/ : Squeek?
+[00:01:11]SAY: Tom/ : SQUEEK!
+[00:01:31]SAY: Ian/ : AUUUUUU
+[00:03:59]SAY: mouse/ : Squeek?
+[00:03:59]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> gasps!
+[00:04:04]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> gasps!
+[00:04:18]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> gasps!
+[00:04:33]EMOTE: Ira Ramirez/Agarre17664 : <B>Ira Ramirez</B> seizes up and falls limp, her eyes dead and lifeless...
+[00:06:39]SAY: Ian/ : Bark!
+[00:07:26]SAY: mouse/ : Squeek!
+[00:08:18]SAY: mouse/ : Squeek?
+[00:09:00]ACCESS: Logout: *no key*/(Ira Ramirez)
+[00:09:00]ACCESS: Login: Agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[00:09:51]OOC: Ira Ramirez/Agarre17664 : Soresu, I need to be cloooned
+[00:10:01]OOC: Carina Sanroma/Anju Seda : Where&#39;s your corpse.
+[00:10:22]SAY: Ghost/Agarre17664 : I thought you had my DNA on file?
+[00:10:28]OOC: Ira Ramirez/Agarre17664 : I thought you had my DNA on file
+[00:10:36]OOC: Carina Sanroma/Anju Seda : I should still.
+[00:10:50]SAY: Ghost/Agarre17664 : My badee is at the ruskie station
+[00:10:56]SAY: Ghost/Agarre17664 : ooc My body is at the russian station.
+[00:11:06]OOC: Ira Ramirez/Agarre17664 : my body is at the russian station.
+[00:11:12]OOC: Ira Ramirez/Agarre17664 : Koc???ec?a? C?a???? 13
+[00:11:23]ACCESS: Logout: *no key*/(Ira Ramirez)
+[00:11:23]ACCESS: Login: agarre17664/(Ira Ramirez) from 108.93.220.247-3644641028 || BYOND v495
+[00:11:30]OOC: Carina Sanroma/Anju Seda : Cloning now.
+[00:11:53]SAY: mouse/ : SQUEEK!
+[00:12:27]OOC: Carina Sanroma/Anju Seda : So port to me and into the body.
+[00:13:07]SAY: Tom/ : SQUEEK!
+[00:13:19]SAY: mouse/ : SQUEEK!
+[00:14:24]OOC: Ira Ramirez/Agarre17664 : I am already in it
+[00:14:38]OOC: Carina Sanroma/Anju Seda : What&#39;s it say on your end?
+[00:14:43]SAY: Poly/ : Poly wanna cracker!
+[00:14:48]SAY: Ira Ramirez/agarre17664 : I twitch
+[00:14:49]SAY: Ira Ramirez/agarre17664 : PISS
+[00:14:57]SAY: Ira Ramirez/agarre17664 : Huh
+[00:14:59]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> twitches violently.
+[00:15:01]SAY: Ira Ramirez/agarre17664 : Welp
+[00:15:10]SAY: Ira Ramirez/agarre17664 : It looks like i have turretts
+[00:15:26]SAY: Carina Sanroma/Anju Seda : Those pills SHOULD help.
+[00:16:03]SAY: mouse/ : Squeek?
+[00:16:42]OOC: Carina Sanroma/Anju Seda : Going to cryo you for a bit.
+[00:18:54]SAY: mouse/ : SQUEEK!
+[00:20:51]OOC: Carina Sanroma/Anju Seda : Added Clonexadone so it SHOULD repair some of your damage.
+[00:21:23]SAY: Carina Sanroma/Anju Seda : There.
+[00:21:30]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> naked dances
+[00:21:35]SAY: Carina Sanroma/Anju Seda : No more tourettes.
+[00:21:45]SAY: Carina Sanroma/Anju Seda : Now we need to get you an ID card.
+[00:21:59]SAY: Ira Ramirez/agarre17664 : there are spares in the Hop&#39;s offices, same with gear and clothing
+[00:22:17]SAY: Carina Sanroma/Anju Seda : Check this out.
+[00:22:26]SAY: Ira Ramirez/agarre17664 : Why are there shot guns and laser cannons
+[00:22:33]SAY: Carina Sanroma/Anju Seda : I got bored.
+[00:22:34]SAY: mouse/ : Squeek?
+[00:22:53]SAY: Carina Sanroma/Anju Seda : Plus unknown lifeforms.
+[00:23:29]SAY: Ira Ramirez/agarre17664 : what awere they
+[00:23:52]SAY: mouse/ : Squeek?
+[00:25:27]SAY: Runtime/ : Purr!
+[00:25:29]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[00:27:38]SAY: Carina Sanroma/Anju Seda : ID is over there
+[00:28:03]SAY: Carina Sanroma/Anju Seda : Don&#39;t die again, I don&#39;t have you on record anymore.
+[00:28:04]SAY: Ira Ramirez/agarre17664 : can I has a laser cannon?
+[00:28:13]SAY: Carina Sanroma/Anju Seda : We need more diamonds and shit.
+[00:28:15]SAY: mouse/ : Squeek?
+[00:28:22]SAY: Ira Ramirez/agarre17664 : I&#39;ll get a syringe, and leave a blood sample in hydrophonics
+[00:28:55]SAY: Carina Sanroma/Anju Seda : Going to make sure we&#39;re not blown to shit by the sing.
+[00:29:05]SAY: Carina Sanroma/Anju Seda :  Got to check the singularity.
+[00:29:13]OOC: Carina Sanroma/Anju Seda : Brb, checking singularity.
+[00:29:50]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[00:30:15]SAY: Tom/ : Squeek?
+[00:30:34]SAY: Runtime/ : HSSSSS
+[00:31:16]OOC: Ira Ramirez/Agarre17664 : where the hell can I recharge a gun holy fuck
+[00:31:31]OOC: Carina Sanroma/Anju Seda : Your office, my HoP office, Security.
+[00:31:49]SAY: mouse/ : Squeek?
+[00:32:02]SAY: Tom/ : Squeek!
+[00:35:25]SAY: Ian/ : AUUUUUU
+[00:36:56]SAY: mouse/ : Squeek!
+[00:37:06]SAY: mouse/ : SQUEEK!
+[00:37:10]SAY: Carina Sanroma/Anju Seda :  Guess I need to check telecoms.
+[00:37:19]OOC: Carina Sanroma/Anju Seda : Your headset in?
+[00:39:07]SAY: Carina Sanroma/Anju Seda :  Testing
+[00:39:31]SAY: mouse/ : Squeek!
+[00:40:22]OOC: Ira Ramirez/Agarre17664 : I hear you
+[00:40:44]SAY: Carina Sanroma/Anju Seda : Good god damn.
+[00:40:59]SAY: Carina Sanroma/Anju Seda : Thought telecoms went offline.
+[00:41:28]OOC: Carina Sanroma/Anju Seda : Make sure your headset is on.
+[00:42:16]SAY: Runtime/ : Meow!
+[00:42:41]SAY: Ian/ : Bark!
+[00:43:59]SAY: mouse/ : Squeek?
+[00:44:40]SAY: Poly/ : Poly wanna cracker!
+[00:46:07]SAY: Runtime/ : Purr!
+[00:46:09]SAY: mouse/ : Squeek!
+[00:46:58]SAY: mouse/ : Squeek!
+[00:47:15]SAY: mouse/ : Squeek!
+[00:47:42]SAY: Ian/ : AUUUUUU
+[00:49:51]SAY: Carina Sanroma/Anju Seda : What&#39;re you doing?
+[00:50:12]SAY: mouse/ : Squeek?
+[00:53:37]SAY: mouse/ : Squeek!
+[00:55:23]SAY: mouse/ : Squeek!
+[00:55:26]SAY: Tom/ : Squeek?
+[00:56:24]SAY: Ian/ : Bark!
+[00:59:25]SAY: mouse/ : Squeek?
+[00:59:50]SAY: mouse/ : SQUEEK!
+[01:00:17]SAY: Ian/ : YAP
+[01:01:51]SAY: mouse/ : Squeek!
+[01:02:19]SAY: Tom/ : Squeek!
+[01:02:33]SAY: mouse/ : Squeek?
+[01:07:39]SAY: Poly/ : Poly wanna cracker!
+[01:08:46]SAY: Ian/ : AUUUUUU
+[01:10:17]SAY: mouse/ : SQUEEK!
+[01:10:23]SAY: Tom/ : Squeek?
+[01:11:49]SAY: mouse/ : Squeek?
+[01:12:14]SAY: Ian/ : Bark!
+[01:14:32]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[01:15:32]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:15:46]SAY: mouse/ : SQUEEK!
+[01:16:19]SAY: Poly/ : Check the singlo, you chucklefucks!
+[01:16:27]SAY: Runtime/ : Esp!
+[01:17:15]SAY: mouse/ : Squeek?
+[01:17:33]SAY: mouse/ : Squeek!
+[01:18:49]SAY: Ian/ : YAP
+[01:20:39]SAY: Ian/ : Bark!
+[01:20:51]SAY: mouse/ : Squeek!
+[01:23:10]SAY: mouse/ : SQUEEK!
+[01:23:40]SAY: Ian/ : YAP
+[01:23:53]SAY: mouse/ : SQUEEK!
+[01:24:59]SAY: Runtime/ : Esp!
+[01:26:17]SAY: mouse/ : Squeek!
+[01:29:05]SAY: Poly/ : Wire the solars, you lazy bums!
+[01:30:21]SAY: mouse/ : Squeek?
+[01:30:38]SAY: mouse/ : SQUEEK!
+[01:30:52]SAY: Poly/ : Poly wanna cracker!
+[01:34:55]SAY: mouse/ : Squeek?
+[01:35:07]SAY: mouse/ : Squeek?
+[01:35:43]SAY: mouse/ : Squeek?
+[01:37:00]SAY: mouse/ : Squeek!
+[01:39:01]SAY: Ira Ramirez/agarre17664 : We need a gold one
+[01:39:14]SAY: Carina Sanroma/Anju Seda : These temp guns are useless.
+[01:40:12]SAY: Carina Sanroma/Anju Seda : The Durand is our security.
+[01:40:20]SAY: Runtime/ : HSSSSS
+[01:40:28]SAY: Ira Ramirez/agarre17664 : I am trying to get a gold
+[01:40:40]SAY: mouse/ : SQUEEK!
+[01:40:40]SAY: Ira Ramirez/agarre17664 : What arey ou doing making extracts?
+[01:40:48]SAY: Carina Sanroma/Anju Seda : Yeah
+[01:41:14]SAY: Ira Ramirez/agarre17664 : BAD MONKEH
+[01:41:53]SAY: Carina Sanroma/Anju Seda : Process it.
+[01:42:00]SAY: Ira Ramirez/agarre17664 : How?
+[01:42:08]SAY: Carina Sanroma/Anju Seda : Grab and put it in there.
+[01:43:16]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:43:52]SAY: mouse/ : Squeek?
+[01:44:02]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:44:54]SAY: Carina Sanroma/Anju Seda : Recycle the monkies.
+[01:45:41]SAY: mouse/ : Squeek!
+[01:46:00]SAY: Carina Sanroma/Anju Seda : Yellow one.
+[01:46:03]SAY: Ira Ramirez/agarre17664 : Get it!
+[01:46:58]SAY: Ira Ramirez/agarre17664 : WHY WONT ANY THING WORK?!
+[01:47:55]SAY: Ian/ : Bark!
+[01:49:16]SAY: mouse/ : Squeek?
+[01:49:56]SAY: mouse/ : Squeek!
+[01:50:09]SAY: Ira Ramirez/agarre17664 : We needs to kill one of them orangez
+[01:50:25]SAY: Carina Sanroma/Anju Seda : Fire extinguisher them.
+[01:50:34]SAY: Carina Sanroma/Anju Seda : Or.
+[01:50:45]SAY: Carina Sanroma/Anju Seda : I use my mech
+[01:51:13]SAY: Runtime/ : Esp!
+[01:51:37]SAY: mouse/ : SQUEEK!
+[01:51:53]SAY: mouse/ : SQUEEK!
+[01:52:24]SAY: mouse/ : Squeek!
+[01:52:40]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:52:42]SAY: Runtime/ : Esp!
+[01:52:53]SAY: mouse/ : SQUEEK!
+[01:53:41]SAY: Carina Sanroma/Anju Seda : Pull&#39;em out
+[01:54:34]SAY: mouse/ : Squeek?
+[01:54:49]SAY: Carina Sanroma/Anju Seda : Bluespace Slime.
+[01:57:00]SAY: mouse/ : SQUEEK!
+[01:57:23]SAY: Tom/ : SQUEEK!
+[01:58:38]SAY: mouse/ : Squeek!
+[01:58:42]SAY: mouse/ : Squeek?
+[01:59:12]SAY: mouse/ : SQUEEK!
+[02:00:03]SAY: Runtime/ : Meow!
+[02:01:40]SAY: mouse/ : Squeek?
+[02:05:19]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:05:39]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:06:23]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:06:41]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:07:23]SAY: Runtime/ : Meow!
+[02:07:49]SAY: mouse/ : Squeek?
+[02:08:55]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:08:56]SAY: mouse/ : Squeek!
+[02:09:29]SAY: mouse/ : SQUEEK!
+[02:09:35]SAY: Poly/ : Poly wanna cracker!
+[02:09:45]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:09:53]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:10:04]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:10:06]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:10:10]SAY: mouse/ : SQUEEK!
+[02:10:42]SAY: Poly/ : Poly wanna cracker!
+[02:10:50]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:11:21]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> snores.
+[02:11:23]SAY: mouse/ : Squeek!
+[02:11:29]SAY: mouse/ : Squeek!
+[02:13:15]SAY: mouse/ : SQUEEK!
+[02:14:16]SAY: mouse/ : Squeek?
+[02:14:29]SAY: mouse/ : Squeek?
+[02:15:54]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:16:04]SAY: mouse/ : SQUEEK!
+[02:16:10]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:17:43]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:18:58]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:19:06]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:19:29]SAY: mouse/ : Squeek?
+[02:19:53]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:19:58]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:20:08]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> gasps!
+[02:20:29]EMOTE: Ira Ramirez/agarre17664 : <B>Ira Ramirez</B> snores.
+[02:21:16]SAY: Poly/ : Check the singlo, you chucklefucks!
+[02:21:28]SAY: Carina Sanroma/Anju Seda : I don&#39;t know what the fuck is going on.
+[02:21:52]SAY: mouse/ : SQUEEK!
+[02:23:20]SAY: mouse/ : Squeek?
+[02:24:20]SAY: mouse/ : Squeek?
+[02:24:25]EMOTE: Carina Sanroma/Anju Seda : <B>Carina Sanroma</B> gasps!
+[02:24:39]SAY: Tom/ : Squeek!
+[02:24:58]SAY: mouse/ : Squeek?
+[02:26:10]SAY: mouse/ : Squeek?
+[02:26:48]SAY: mouse/ : Squeek?
+[02:29:05]SAY: Ian/ : Bark!
+[02:30:03]SAY: Tom/ : Squeek?
+[02:30:31]SAY: mouse/ : Squeek!
+[02:31:00]SAY: mouse/ : Squeek?
+[02:32:14]SAY: mouse/ : SQUEEK!
+[02:33:39]GAME: A chemical smoke reaction has taken place in (Cargo Office | 92, 117)[ Plant-B-Gone ]. Last associated key is Anju Seda.
+[02:33:48]SAY: Runtime/ : Purr!
+[02:35:05]GAME: A chemical smoke reaction has taken place in (Central Primary Hallway | 97, 119)[ Plant-B-Gone ]. Last associated key is Anju Seda.
+[02:35:24]GAME: A chemical smoke reaction has taken place in (Central Primary Hallway | 97, 125)[ Plant-B-Gone ]. Last associated key is Anju Seda.
+[02:35:37]SAY: mouse/ : Squeek!
+[02:35:45]GAME: A chemical smoke reaction has taken place in (Central Primary Hallway | 97, 135)[ Plant-B-Gone ]. Last associated key is Anju Seda.
+[02:36:29]GAME: Anju Seda/(Carina Sanroma) has called the shuttle.
+[02:37:17]SAY: mouse/ : SQUEEK!
+[02:37:42]SAY: mouse/ : Squeek!
+[02:38:31]SAY: mouse/ : Squeek?
+[02:39:06]SAY: mouse/ : SQUEEK!
+[02:39:18]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[02:45:10]SAY: mouse/ : Squeek!
+[02:45:18]SAY: mouse/ : SQUEEK!
+[02:48:04]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:48:17]SAY: mouse/ : Squeek!
+[02:48:52]SAY: mouse/ : SQUEEK!
+[02:49:14]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:51:16]SAY: mouse/ : SQUEEK!
+[02:51:31]GAME: Antagonists at round end were...
+[02:52:00]ACCESS: Logout: agarre17664[DC]/(Ira Ramirez)
+[02:52:00]ACCESS: Logout: Anju Seda[DC]/(Carina Sanroma)
