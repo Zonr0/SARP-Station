@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\world.dm;tgstation.dme;code\__HELPERS\game.dm;icons\ss13_32.png;icons\misc\fullscreen.dmi;code\game\sound.dm;code\_compile_options.dm;code\__DEFINES.dm;code\game\gamemodes\gameticker.dm
+WINDOW: code\world.dm;tgstation.dme;code\__HELPERS\game.dm;icons\ss13_32.png;icons\misc\fullscreen.dmi;code\game\sound.dm;code\_compile_options.dm;code\__DEFINES.dm;code\game\gamemodes\gameticker.dm;code\modules\awaymissions\gateway.dm
 LAST_COMPILE_VERSION: 498.1163
-DIR: code code\game code\game\gamemodes icons\misc 
+DIR: code code\__HELPERS code\game code\game\gamemodes code\game\gamemodes\blob code\modules code\modules\awaymissions icons icons\misc maps maps\RandomZLevels 
 FILE: code\game\gamemodes\gameticker.dm
-LAST_COMPILE_TIME: 1368153248
+LAST_COMPILE_TIME: 1368174787
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS

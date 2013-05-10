@@ -5,5 +5,5 @@
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
 
-Zonr_0 - Game Master
+Zonr_0 - Host
 Anju Seda - Game Admin
